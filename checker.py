@@ -8,67 +8,80 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 
-CHANNELS = [
+SOURCES = [
+
     {
-        "type": "کانال ۱ تلگرام",
+        "title": "کانال ۱ تلگرام",
         "name": "v2raytun_kanfing",
         "url": "https://t.me/s/v2raytun_kanfing"
     },
+
     {
-        "type": "گروه ۱ تلگرام",
+        "title": "گروه ۱ تلگرام",
         "name": "napsternetv",
         "url": "https://t.me/s/napsternetv"
     },
+
     {
-        "type": "کانال ۳ تلگرام",
+        "title": "کانال ۳ تلگرام",
         "name": "config_NG",
         "url": "https://t.me/s/config_NG"
     },
+
     {
-        "type": "کانال ۴ تلگرام",
+        "title": "کانال ۴ تلگرام",
         "name": "v2ray_dalghak",
         "url": "https://t.me/s/v2ray_dalghak"
     },
+
     {
-        "type": "کانال ۵ تلگرام",
+        "title": "کانال ۵ تلگرام",
         "name": "v2ray_free_conf",
         "url": "https://t.me/s/v2ray_free_conf"
     },
+
     {
-        "type": "کانال ۶ تلگرام",
+        "title": "کانال ۶ تلگرام",
         "name": "free1ss",
         "url": "https://t.me/s/free1ss"
     },
+
     {
-        "type": "کانال ۷ تلگرام",
+        "title": "کانال ۷ تلگرام",
         "name": "BlanK_Vpn",
         "url": "https://t.me/s/BlanK_Vpn"
     },
+
     {
-        "type": "کانال ۹ تلگرام",
+        "title": "کانال ۹ تلگرام",
         "name": "V2ghostvpn",
         "url": "https://t.me/s/V2ghostvpn"
     },
+
     {
-        "type": "کانال ۱۰ تلگرام",
+        "title": "کانال ۱۰ تلگرام",
         "name": "WireguardV2rey",
         "url": "https://t.me/s/WireguardV2rey"
     },
+
     {
-        "type": "کانال ۱۱ تلگرام",
+        "title": "کانال ۱۱ تلگرام",
         "name": "MI6VPN",
         "url": "https://t.me/s/MI6VPN"
     },
+
     {
-        "type": "کانال ۱۲ تلگرام",
+        "title": "کانال ۱۲ تلگرام",
         "name": "BigSmoke_Config",
         "url": "https://t.me/s/BigSmoke_Config"
     },
+
     {
-        "type": "کانال ۱۳ تلگرام",
+        "title": "کانال ۱۳ تلگرام",
         "name": "V2RAYNG_Outline_VPN",
         "url": "https://t.me/s/V2RAYNG_Outline_VPN"
     }
+
 ]
 
 
@@ -80,12 +93,12 @@ GMAIL_TO = os.environ.get("GMAIL_TO")
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD")
 
 
-headers = {
+HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
 
 
-PROTOCOLS = [
+V2RAY_PROTOCOLS = [
     "vless://",
     "vmess://",
     "trojan://",
@@ -94,48 +107,6 @@ PROTOCOLS = [
     "hysteria://",
     "hy2://"
 ]
-def is_v2ray_config(text):
-    if not text:
-        return False
-
-    text_lower = text.lower()
-
-    for protocol in PROTOCOLS:
-        if protocol in text_lower:
-            return True
-
-    return False
-
-
-
-def get_latest_message(channel):
-
-    r = requests.get(
-        channel["url"],
-        headers=headers,
-        timeout=20
-    )
-
-    soup = BeautifulSoup(
-        r.text,
-        "html.parser"
-    )
-
-    messages = soup.find_all(
-        "div",
-        class_="tgme_widget_message_text"
-    )
-
-    if messages:
-        return messages[-1].get_text(
-            "\n",
-            strip=True
-        )
-
-    return None
-
-
-
 def load_state():
 
     if os.path.exists(STATE_FILE):
@@ -144,8 +115,9 @@ def load_state():
             STATE_FILE,
             "r",
             encoding="utf-8"
-        ) as f:
-            return json.load(f)
+        ) as file:
+
+            return json.load(file)
 
     return {}
 
@@ -157,38 +129,90 @@ def save_state(state):
         STATE_FILE,
         "w",
         encoding="utf-8"
-    ) as f:
+    ) as file:
 
         json.dump(
             state,
-            f,
+            file,
             ensure_ascii=False,
             indent=2
         )
 
 
 
-def send_email(channel, message):
+def check_v2ray(text):
 
-    msg = MIMEMultipart()
+    if not text:
+        return False
 
-    msg["From"] = GMAIL_USER
-    msg["To"] = GMAIL_TO
+    text = text.lower()
 
-    msg["Subject"] = (
-        f'{channel["type"]} '
-        f'({channel["name"]})'
+    for protocol in V2RAY_PROTOCOLS:
+
+        if protocol in text:
+
+            return True
+
+    return False
+
+
+
+def get_latest_message(source):
+
+    response = requests.get(
+        source["url"],
+        headers=HEADERS,
+        timeout=20
+    )
+
+
+    soup = BeautifulSoup(
+        response.text,
+        "html.parser"
+    )
+
+
+    messages = soup.find_all(
+        "div",
+        class_="tgme_widget_message_text"
+    )
+
+
+    if messages:
+
+        return messages[-1].get_text(
+            "\n",
+            strip=True
+        )
+
+
+    return None
+
+
+
+def send_email(source, message):
+
+    mail = MIMEMultipart()
+
+
+    mail["From"] = GMAIL_USER
+
+    mail["To"] = GMAIL_TO
+
+
+    mail["Subject"] = (
+        f'{source["title"]} '
+        f'({source["name"]})'
     )
 
 
     body = f"""
-منبع:
+منبع کانفیگ:
 
-{channel["type"]} ({channel["name"]})
+{source["title"]} ({source["name"]})
 
 
-کانفیگ جدید V2Ray پیدا شد:
-
+کانفیگ جدید V2Ray:
 
 ---------------------
 
@@ -197,7 +221,7 @@ def send_email(channel, message):
 """
 
 
-    msg.attach(
+    mail.attach(
         MIMEText(
             body,
             "plain",
@@ -221,78 +245,90 @@ def send_email(channel, message):
     server.sendmail(
         GMAIL_USER,
         GMAIL_TO,
-        msg.as_string()
+        mail.as_string()
     )
 
 
     server.quit()
     state = load_state()
 
-new_found = False
+
+email_sent = False
 
 
-for channel in CHANNELS:
+
+for source in SOURCES:
 
     try:
 
-        new_message = get_latest_message(channel)
+        message = get_latest_message(source)
 
 
-        if new_message is None:
+        if message is None:
+
+            print(
+                f'پیامی از {source["name"]} دریافت نشد'
+            )
+
             continue
 
 
-        if not is_v2ray_config(new_message):
+
+        if not check_v2ray(message):
+
             print(
-                f'پیام غیر کانفیگ از {channel["name"]} رد شد'
+                f'پیام غیر کانفیگ از {source["name"]} رد شد'
             )
+
             continue
 
 
 
         old_message = state.get(
-            channel["name"],
+            source["name"],
             ""
         )
 
 
-        if new_message != old_message:
+
+        if message != old_message:
 
 
             print(
-                f'پیام جدید از {channel["name"]} پیدا شد'
+                f'کانفیگ جدید از {source["name"]} پیدا شد'
             )
-
-
-            print(new_message)
 
 
             send_email(
-                channel,
-                new_message
+                source,
+                message
             )
 
 
-            state[channel["name"]] = new_message
+            state[source["name"]] = message
 
 
-            new_found = True
+            email_sent = True
+
 
 
         else:
 
             print(
-                f'پیام جدیدی از {channel["name"]} وجود ندارد'
+                f'کانفیگ جدیدی از {source["name"]} وجود ندارد'
             )
 
 
-    except Exception as e:
+
+    except Exception as error:
+
 
         print(
-            f'خطا در بررسی {channel["name"]}:'
+            f'خطا در بررسی {source["name"]}:'
         )
 
-        print(e)
+        print(error)
+
 
 
 
@@ -300,7 +336,7 @@ save_state(state)
 
 
 
-if new_found:
+if email_sent:
 
     print(
         "ایمیل ارسال شد"
