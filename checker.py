@@ -8,6 +8,7 @@ from email.mime.multipart import MIMEMultipart
 
 
 CHANNEL_URL = "https://t.me/s/v2raytun_kanfing"
+
 LAST_FILE = "last_message.txt"
 
 SOURCE_NAME = "کانال ۱ تلگرام (v2raytun_kanfing)"
@@ -22,7 +23,7 @@ headers = {
 }
 
 
-def get_latest_message():
+def get_messages():
 
     r = requests.get(
         CHANNEL_URL,
@@ -40,40 +41,36 @@ def get_latest_message():
         class_="tgme_widget_message_text"
     )
 
-    if messages:
-        return messages[-1].get_text(
-            "\n",
-            strip=True
+    result = []
+
+    for msg in messages[-20:]:
+        result.append(
+            msg.get_text(
+                "\n",
+                strip=True
+            )
         )
 
-    return None
+    return result
 
 
 
 def extract_configs(text):
 
-    patterns = [
-        r"vless://\S+",
-        r"vmess://\S+",
-        r"trojan://\S+",
-        r"ss://\S+",
-        r"ssr://\S+"
-    ]
+    pattern = (
+        r"(?:vless|vmess|trojan|ss|ssr)://[^\s]+"
+    )
 
-    configs = []
-
-    for pattern in patterns:
-        found = re.findall(
-            pattern,
-            text
-        )
-        configs.extend(found)
+    configs = re.findall(
+        pattern,
+        text
+    )
 
     return configs
 
 
 
-def read_old_message():
+def read_old():
 
     if os.path.exists(LAST_FILE):
 
@@ -82,20 +79,22 @@ def read_old_message():
             "r",
             encoding="utf-8"
         ) as f:
+
             return f.read()
 
     return ""
 
 
 
-def save_message(message):
+def save_new(text):
 
     with open(
         LAST_FILE,
         "w",
         encoding="utf-8"
     ) as f:
-        f.write(message)
+
+        f.write(text)
 
 
 
@@ -104,10 +103,12 @@ def send_email(configs):
     msg = MIMEMultipart()
 
     msg["From"] = GMAIL_USER
+
     msg["To"] = GMAIL_TO
 
     msg["Subject"] = (
-        SOURCE_NAME +
+        SOURCE_NAME
+        +
         " - کانفیگ جدید V2Ray"
     )
 
@@ -115,8 +116,10 @@ def send_email(configs):
     body = (
         "کانفیگ جدید پیدا شد:\n\n"
         "منبع:\n"
-        + SOURCE_NAME +
-        "\n\n---------------------\n\n"
+        +
+        SOURCE_NAME
+        +
+        "\n\n-----------------\n\n"
         +
         "\n\n".join(configs)
     )
@@ -136,6 +139,7 @@ def send_email(configs):
         465
     )
 
+
     server.login(
         GMAIL_USER,
         GMAIL_APP_PASSWORD
@@ -153,51 +157,42 @@ def send_email(configs):
 
 
 
-new_message = get_latest_message()
+messages = get_messages()
 
 
-if new_message is None:
-
-    print(
-        "خطا در دریافت پیام کانال"
-    )
-
-    exit()
-
+all_text = "\n\n".join(messages)
 
 
 configs = extract_configs(
-    new_message
+    all_text
 )
 
 
 if not configs:
 
     print(
-        "پیام غیر کانفیگ رد شد"
+        "هیچ کانفیگی پیدا نشد"
     )
 
     exit()
 
 
 
-old_message = read_old_message()
+old = read_old()
 
 
+if all_text != old:
 
-if new_message != old_message:
 
-    print(
-        "کانفیگ جدید پیدا شد"
+    save_new(
+        all_text
     )
 
-    save_message(
-        new_message
-    )
 
     send_email(
         configs
     )
+
 
     print(
         "ایمیل ارسال شد"
