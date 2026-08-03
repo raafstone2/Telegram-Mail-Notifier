@@ -1,34 +1,3 @@
-فرهنگ این شکلی منتقل میشه:
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-بفرستید واسه دوستاتون تا اوناهم وصل بشن
-🔉
-‌Link:
-@v2raytun_kanfing
-
 کانفیگ ویتوری
 ⚡
 ✨
@@ -323,4 +292,30 @@ https://t.me/proxy?server=image.led.meshglow.ir&port=443&secret=ee16030102000100
 تمام تلاشمو کردم وصلتون کنم، بدون هیچ منتی، وظیفمه
 🤝
 Link:
+@v2raytun_kanfing
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://d0a35d6a-de9c-489f-b4ba-89a0fb9b8714@ultra-01.serveroff.net:443?path=%2Fassets%2Fif0aeaHVLJQtXxuB-yMEHkSzHhm6wNS2&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=ultra-01.serveroff.net#%F0%9F%87%B3%F0%9F%87%B1%20%40v2raytun_kanfing
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2raytun_kanfing%F0%9F%8C%8A
+trojan://humanity@104.16.174.121:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40v2raytun_kanfing%E2%98%82%EF%B8%8F
+vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#%40v2raytun_kanfing%F0%9F%9B%B8
+vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdp&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#%40v2raytun_kanfing%F0%9F%8D%AD
+vless://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#%40v2raytun_kanfing%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%40v2raytun_kanfing%E2%AD%90
+vless://e05b67e6-09e4-44d6-b993-a30ec87c2bb0@164.38.155.84:2052?path=%2Fplaylist&security=&encryption=none&fm=%257B%250A%2520%2520%2522tcp%2522%2520%3A%2520%255B%250A%2520%2520%2520%2520%257B%250A%2520%2520%2520%2520%2520%2520%2522type%2522%2520%3A%2520%2522fragment%2522%2C%250A%2520%2520%2520%2520%2520%2520%2522settings%2522%2520%2520%257B%250A%2520%2520%2520%2520%2520%2520%2520%2520%2522lengths%2522%2520%3A%2520%255B%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2522100-200%2522%250A%2520%2520%2520%2520%2520%2520%2520%2520%255D%2C%250A%2520%2520%2520%2520%2520%2520%2520%2520%2522packets%2522%2520%3A%2520%25221-3%2522%2C%250A%2520%2520%2520%2520%2520%2520%2520%2520%2522maxSplit%2522%2520%3A%2520%2522%2522%2C%250A%2520%2520%2520%2520%2520%2520%2520%2520%2522delays%2522%2520%3A%2520%255B%250A%250A%2520%2520%2520%2520%2520%2520%2520%2520%255D%250A%2520%2520%2520%2520%2520%2520%257D%250A%2520%2520%2520%2520%257D%250A%2520%2520%255D%250A%257D&host=uigzz.pistania.ir&type=httpupgrade#%F0%9F%87%B9%F0%9F%87%B7%F0%9F%87%A9%F0%9F%87%AAGermany-1
+وصل شدی رای اکشن یادت نره
+✔️
+بفرستید واسه دوستاتون تا اوناهم وصل بشن
+🔉
+‌Link:
 @v2raytun_kanfing
