@@ -1,23 +1,3 @@
-کانفیگ ویتوری
-⚡
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#%F0%9F%92%A5%20%7C%20%40v2raytun_kanfing
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.51.180:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%92%A5%20%7C%20%40v2raytun_kanfing
-vless://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#%F0%9F%92%A5%20%7C%20%40v2raytun_kanfing
-vless://c60388ae-0113-440c-a3c5-ab443924de94@8.47.69.0:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=english.havray2025.ir&fp=chrome&type=ws&allowInsecure=0&sni=english.havray2025.ir#%F0%9F%92%A5%20%7C%20%40v2raytun_kanfing
-مخصوص همه ی اپراتور ها
-✅
-Link:
-@v2raytun_kanfing
-
 پروکسی ملی داشته باشید
 tg://proxy?server=94.130.190.150&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=65.109.217.105&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -323,6 +303,30 @@ https://t.me/proxy?server=178.104.197.220&port=445&secret=eefa872345875cb3ee45fc
 https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=folox.jeyko-max.info.&port=44300&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=mini.lavazemi4.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+بفرستید واسه دوستاتون تا اوناهم وصل بشن
+🔉
+‌Link:
+@v2raytun_kanfing
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.exodnsdir.xyz:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2raytun_kanfing%F0%9F%8F%9D%EF%B8%8F%F0%9F%87%AE%F0%9F%87%B9
+vless://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@89.47.55.4:443?mode=auto&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#%40v2raytun_kanfing%F0%9F%9B%B8
+vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJAUHJveHlWUE4xMSIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8gQFByb3h5VlBOMTEiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkB2MnJheXR1bl9rYW5maW5n4pqh8J+HrPCfh6ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+trojan://humanity@104.16.174.121:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40v2raytun_kanfing%E2%98%82%EF%B8%8F
+vless://1bfd045c-3c64-4f27-874f-8e0b9da23fc8@130.49.219.126:443?security=reality&encryption=none&pbk=fp_r7Tz3YdOZUY1wmo21U5xAoqyhHhb8l0q-py3JARo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=f5e89824#%40v2raytun_kanfing%F0%9F%8E%B2
+vless://69a74770-7152-4a27-bef0-2615ca16e1b1@nl4.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=D0AQp0cWaQR55Q-zPwp6__AxN9CoT9neZj0UzlNcLCk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=bd72#%F0%9F%8C%9D%20%7C%20%40v2raytun_kanfing
+وصل شدی رای اکشن یادت نره
+✔️
 بفرستید واسه دوستاتون تا اوناهم وصل بشن
 🔉
 ‌Link:
