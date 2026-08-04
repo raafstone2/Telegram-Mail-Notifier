@@ -9,44 +9,6 @@
 #vpn
 🌐
 🔧
-vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.51.180:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%92%9A%20%7C%20%40v2raytun_kanfing
-vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#%F0%9F%92%9A%20%7C%20%40v2raytun_kanfing
-vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%92%9A%20%7C%20%40v2raytun_kanfing
-vless://c60388ae-0113-440c-a3c5-ab443924de94@hcaptcha.com:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sh.havray2025.ir&fp=chrome&type=ws&allowInsecure=0&sni=sh.havray2025.ir#%40v2raytun_kanfing
-vless://c60388ae-0113-440c-a3c5-ab443924de94@8.47.69.0:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=english.havray2025.ir&fp=chrome&type=ws&allowInsecure=0&sni=english.havray2025.ir#%40v2raytun_kanfing
-vless://c60388ae-0113-440c-a3c5-ab443924de94@89.116.250.135:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=unitedstates.havray2025.ir&fp=chrome&type=ws&allowInsecure=0&sni=unitedstates.havray2025.ir#%40v2raytun_kanfing
-trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#%40v2raytun_kanfing
-vless://b9727ca3-c68e-400e-a29f-6851e8d2a5a3@3x-ui-production-02e7.up.railway.app:443?path=%2Fin1&security=tls&encryption=none&insecure=0&host=3x-ui-production-02e7.up.railway.app&type=ws&allowInsecure=0&sni=3x-ui-production-02e7.up.railway.app#%40v2raytun_kanfing
-vless://9560e15a-71e5-d624-4190-c280730d2b0e@69.46.46.100:443?path=%2Fws%2F9560e15a-71e5-d624-4190-c280730d2b0e&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-989b.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-989b.up.railway.app#43
-وصل شدی رای اکشن یادت نره
-✔️
-بفرستید واسه دوستاتون تا اوناهم وصل بشن
-🔉
-‌Link:
-@v2raytun_kanfing
-
-پروکسی مخصوص دانلود
-🔥
-https://t.me/proxy?server=178.104.212.46&port=8443&secret=ee1603048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d
-https://t.me/proxy?server=8687790.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=fast.tg.toggle.org&port=443&secret=ee4ef574bb2e39f96833252cdfa792eee4676f6f676c652e636f6d
-https://t.me/proxy?server=ftp.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
-مخصوص همه ی اپراتور ها
-✅
-Link:
-@v2raytun_kanfing
-
-کانفیگ ویتوری
-⚡
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
 vless://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#%40v2raytun_kanfing%F0%9F%8C%8A
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%40v2raytun_kanfing%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9
 vless://1ee6dbe4-b7bd-47bd-b6e5-23deb076f95b@gr5.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#%40v2raytun_kanfing%20%F0%9F%8D%AD
@@ -315,6 +277,37 @@ vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&
 vless://e05b67e6-09e4-44d6-b993-a30ec87c2bb0@164.38.155.84:2052?path=%2Fplaylist&security=&encryption=none&fm=%257B%250A%2520%2520%2522tcp%2522%2520%3A%2520%255B%250A%2520%2520%2520%2520%257B%250A%2520%2520%2520%2520%2520%2520%2522type%2522%2520%3A%2520%2522fragment%2522%2C%250A%2520%2520%2520%2520%2520%2520%2522settings%2522%2520%2520%257B%250A%2520%2520%2520%2520%2520%2520%2520%2520%2522lengths%2522%2520%3A%2520%255B%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2522100-200%2522%250A%2520%2520%2520%2520%2520%2520%2520%2520%255D%2C%250A%2520%2520%2520%2520%2520%2520%2520%2520%2522packets%2522%2520%3A%2520%25221-3%2522%2C%250A%2520%2520%2520%2520%2520%2520%2520%2520%2522maxSplit%2522%2520%3A%2520%2522%2522%2C%250A%2520%2520%2520%2520%2520%2520%2520%2520%2522delays%2522%2520%3A%2520%255B%250A%250A%2520%2520%2520%2520%2520%2520%2520%2520%255D%250A%2520%2520%2520%2520%2520%2520%257D%250A%2520%2520%2520%2520%257D%250A%2520%2520%255D%250A%257D&host=uigzz.pistania.ir&type=httpupgrade#%F0%9F%87%B9%F0%9F%87%B7%F0%9F%87%A9%F0%9F%87%AAGermany-1
 وصل شدی رای اکشن یادت نره
 ✔️
+بفرستید واسه دوستاتون تا اوناهم وصل بشن
+🔉
+‌Link:
+@v2raytun_kanfing
+
+پروکسی مخصوص تلگرام
+🦋
+✨
+https://t.me/proxy?server=mini.lavazemi4.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=me.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=for--you.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+https://t.me/proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
+مخصوص همه ی اپراتور ها
+✅
+Link:
+@v2raytun_kanfing
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#%F0%9F%87%AF%F0%9F%87%B5%40v2raytun_kanfing
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#%F0%9F%87%AC%F0%9F%87%A7%40v2raytun_kanfing%F0%9F%94%A5
+vless://7a74bb65-e652-4c0e-a1a7-d0bc0d963352@filimo.athforce.ir:65348?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20%E1%B4%9B%C3%BC%CA%80%E1%B4%8B%C9%AA%CA%8F%E1%B4%87%20%7C%20%40v2raytun_kanfing%F0%9F%8E%AE
 بفرستید واسه دوستاتون تا اوناهم وصل بشن
 🔉
 ‌Link:
