@@ -1,26 +1,3 @@
-پر
-وکسی
-پر
-وکسی
-پر
-وکسی
-پر
-و
-کسی
-پر
-وکسی
-پر
-وکسی
-پر
-وکسی
-پر
-وکسی
-بفرستید واسه دوستاتون تا اوناهم وصل بشن
-🔉
-‌Link:
-@v2raytun_kanfi
-ng
-
 کانفیگ ویتوری
 ✨
 ✨
@@ -378,4 +355,26 @@ https://t.me/proxy?server=noron.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIM
 https://t.me/proxy?server=imtproxy-ir.one.98.99.38-82.ir.&port=8443&secret=7hP___8QA8wwBapQB-5wCdxiaXNjb3R0aS55ZWt0YW5ldC5jb20%3D
 https://t.me/proxy?server=www.veildrop.ir.&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
 Link channel:
+@v2raytun_kanfing
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://bdba330b-dfc6-4b66-93e4-b10f906bf4fb@104.167.197.22:443?security=reality&encryption=none&pbk=Td6pxpk4V5hmDKU7_K0zV64VzUL1mEtI-F_6TCHNwjE&headerType=none&fp=firefox&type=tcp&sni=monalisgame.com#%F0%9F%93%A1%20%7C%20%40v2raytun_kanfing
+vless://e795891a-d0c9-41f3-83e9-ae7a9114f433@new1.maktabmotahari.ir:37194?security=reality&encryption=none&pbk=OjzpITb1Jsv8U0-wjDFEUGuZLuc1Bda_aWTxAmmhjCA&headerType=none&fp=firefox&spx=%2F2712a747bfba922&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=6c0751656c#%40v2raytun_kanfing
+vless://b9ec63fa-d5e6-4063-9f5d-60442e9f427b@104.18.175.58:2087?path=%2F&security=tls&encryption=none&insecure=0&host=panelz.zlinkid.shop&fp=chrome&type=ws&allowInsecure=0&sni=panelz.zlinkid.shop#%40v2raytun_kanfing
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%87%A8%F0%9F%87%A6%20%40v2raytun_kanfing
+وصل شدی رای اکشن یادت نره
+✔️
+بفرستید واسه دوستاتون تا اوناهم وصل بشن
+🔉
+‌Link:
 @v2raytun_kanfing
