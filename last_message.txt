@@ -1,38 +1,3 @@
-من دقت کردم هرچی که با پ شروع میشه خوبه  مثل :
-پول
-پاییز
-پیتزا
-پاستا
-کیک شکلاتی
-پرتقال
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-Link:
-@v2raytun_kanfing
-
 کانفیگ ویتوری
 ✨
 ✨
@@ -378,4 +343,19 @@ trojan://humanity@2.144.21.150:2000?path=%2Fassignment&security=tls&insecure=0&t
 بفرستید واسه دوستاتون تا اوناهم وصل بشن
 🔉
 ‌Link:
+@v2raytun_kanfing
+
+پروکسی‌های مخصوص تلگرام
+🤎
+🫶🏻
+https://t.me/proxy?server=94.184.32.24.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
+https://t.me/proxy?server=94.184.32.23.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
+https://t.me/proxy?server=94.184.32.22.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
+https://t.me/proxy?server=94.184.32.21.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
+https://t.me/proxy?server=94.184.32.114.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
+https://t.me/proxy?server=94.184.32.113.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
+https://t.me/proxy?server=94.184.32.112.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
+مخصوص همه ی اپراتور ها
+✅
+Link:
 @v2raytun_kanfing
