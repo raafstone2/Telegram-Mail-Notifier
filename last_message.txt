@@ -9,54 +9,6 @@
 #vpn
 🌐
 🔧
-trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40v2raytun_kanfing
-vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=%2Fall&security=tls&alpn=h2&encryption=none&insecure=0&host=feywi.goldleaflab-psr.sbs&fp=chrome&type=ws&allowInsecure=0&sni=feywi.goldleaflab-psr.sbs#%40v2raytun_kanfing
-trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40v2raytun_kanfing
-vless://Telegram-vpnjey@162.159.38.119:8080?mode=auto&path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%7D&host=se.jeyy.eu.cc&type=xhttp#%40v2raytun_kanfing
-vless://7aee9433-627f-4665-bd2f-5fb04263fd15@eu1.tlsforcdn.sbs:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=eu1.tlsforcdn.sbs&type=ws&allowInsecure=0&sni=eu1.tlsforcdn.sbs#%40v2raytun_kanfing
-vless://d91376ca-b23f-4d45-af3c-602595b0cad3@134.209.247.140:33000?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40v2raytun_kanfing
-vless://d91376ca-b23f-4d45-af3c-602595b0cad3@46.101.194.97:33000?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40v2raytun_kanfing
-vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@one-for-all.levikogjgfdd.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-004.vector9nmb3.info&type=ws&allowInsecure=0&sni=ad-004.vector9nmb3.info#%40v2raytun_kanfing
-vless://3c641412-bb55-9ded-1186-d75c2dfccf6b@node-5528338330-b1ac32-production.up.railway.app:443?path=%2Fws%2F3c641412-bb55-9ded-1186-d75c2dfccf6b&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=node-5528338330-b1ac32-production.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=node-5528338330-b1ac32-production.up.railway.app#%40v2raytun_kanfing
-vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=%2Fall&security=tls&alpn=h2&encryption=none&insecure=0&host=dcbgd.minipixelport-qad.sbs&fp=chrome&type=ws&allowInsecure=0&sni=dcbgd.minipixelport-qad.sbs#%40v2raytun_kanfing
-وصل شدی رای اکشن یادت نره
-✔️
-بفرستید واسه دوستاتون تا اوناهم وصل بشن
-🔉
-‌Link:
-@v2raytun_kanfing
-
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40v2raytun_kanfing%F0%9F%A9%B5
-vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=%2Fcarbon&security=tls&encryption=none&insecure=0&host=loctc.goldcitynode-tobi.sbs&fp=firefox&type=ws&allowInsecure=0&sni=loctc.goldcitynode-tobi.sbs#%40v2raytun_kanfing%F0%9F%92%98
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0WG0xclVXWG5TcFRLdnZG@20.234.89.202:443#%40v2raytun_kanfing%20%F0%9F%92%8B
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#%40v2raytun_kanfing
-بفرستید واسه دوستاتون تا اوناهم وصل بشن
-🔉
-‌Link:
-@v2raytun_kanfing
-
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
 vless://9a279b36-604d-441a-b285-f669e43f6b58@tstbot.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40v2raytun_kanfing
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%40v2raytun_kanfing
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%40v2raytun_kanfing
@@ -355,6 +307,44 @@ https://t.me/proxy?server=94.184.32.21.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAA
 https://t.me/proxy?server=94.184.32.114.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
 https://t.me/proxy?server=94.184.32.113.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
 https://t.me/proxy?server=94.184.32.112.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
+مخصوص همه ی اپراتور ها
+✅
+Link:
+@v2raytun_kanfing
+
+پروکسی‌های تلگرام برای دانلود کردن
+💕
+🎀
+https://t.me/proxy?server=www.1-2-3-4-5.ir.&port=8443&secret=7hYDBIGHSV36xZoDAiDCXY53d3cueWFob28uY29t
+https://t.me/proxy?server=www.veilhub.ir.&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
+https://t.me/proxy?server=asperin.info.206-197-43.ir.&port=8443&secret=ee1044048187495dfac59a030220c25cb3626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=box.lavazemi5.co.uk&port=2053&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
+tg://proxy?server=93.113.230.242&port=443&secret=dd3dd937dd5a1748b47505d32759b12c35
+مخصوص همه ی اپراتور ها
+✅
+Link:
+@v2raytun_kanfing
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?security=none&encryption=none&headerType=none&type=tcp#%40v2raytun_kanfing
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%40v2raytun_kanfing%F0%9F%92%9B
+vless://93738a17-e7e8-43a3-a49c-8df903cb1cb5@marzban-node-production-ae7e.up.railway.app:443?path=%2Fvless&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=marzban-node-production-ae7e.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=marzban-node-production-ae7e.up.railway.app#%F0%9F%9A%80%20%40v2raytun_kanfing
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#%40v2raytun_kanfing%F0%9F%96%A4
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#%40v2raytun_kanfing
+vless://518a99df-54f6-4f42-819d-b60abd880edf@176.96.138.122:443?security=reality&encryption=none&pbk=O_YZOJVON0LE1U01hAtNUOVRy7z6fkBUXbMtpCGoGEg&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=kind-vortex.cdn.cachefleet.com#%40v2raytun_kanfing
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.64.146.86:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#%40v2raytun_kanfing
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=mmad&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%40v2raytun_kanfing
+vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:8443?mode=gun&security=reality&encryption=none&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&fp=chrome&type=grpc&serviceName=TunService&sni=dl.google.com#%40v2raytun_kanfing
 مخصوص همه ی اپراتور ها
 ✅
 Link:
