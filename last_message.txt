@@ -1,16 +1,3 @@
-پروکسی‌های مخصوص تلگرام
-✨
-✨
-proxy
-proxy
-proxy
-proxy
-proxy
-مخصوص همه ی اپراتور ها
-✅
-Link:
-@v2raytun_kanfing
-
 کانفیگ ویتوری
 ✨
 ✨
@@ -337,4 +324,17 @@ https://t.me/proxy?server=94.184.32.117.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAA
 مخصوص همه ی اپراتور ها
 ✅
 Link:
+@v2raytun_kanfing
+
+https://t.me/proxy?server=94.184.32.28.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
+https://t.me/proxy?server=94.184.32.116.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
+https://t.me/proxy?server=94.184.32.27.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
+https://t.me/proxy?server=94.184.32.26.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
+https://t.me/proxy?server=94.184.32.118.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
+https://t.me/proxy?server=94.184.32.117.ir-vlue3.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
+مخصوص همه‌ی اپراتورها
+✨
+برای دوستاتون بفرستید
+✨
+Link channel:
 @v2raytun_kanfing
