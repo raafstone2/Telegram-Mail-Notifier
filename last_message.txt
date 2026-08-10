@@ -1,14 +1,3 @@
-پروکسی مخصوص دانلود
-🌐
-⬇️
-https://t.me/proxy?server=168.222.43.151&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
-وصل شدی رای اکشن یادت نره
-✔️
-ما را به دوستان خود معرفی کنید
-✌
-Join:
-@v2raytun_kanfing
-
 ‏اینترنتِ ایران باید به لیستِ شکنجه‌های تاریخ بشریت اضافه بشه.
 پروکسی
 پروکسی
@@ -333,6 +322,14 @@ vless://60ba3369-9a78-40fe-98c3-233a6f107043@143.246.182.7:443?mode=auto&path=%2
 vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#%40v2raytun_kanfing%F0%9F%8E%B2
 وصل شدی رای اکشن یادت نره
 ✔️
+ما را به دوستان خود معرفی کنید
+✌
+Join:
+@v2raytun_kanfing
+
+پروکسی متصل  تست شده
+🧑‍🦯
+https://t.me/proxy?server=188.116.27.22&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
 ما را به دوستان خود معرفی کنید
 ✌
 Join:
