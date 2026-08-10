@@ -1,18 +1,3 @@
-‏اینترنتِ ایران باید به لیستِ شکنجه‌های تاریخ بشریت اضافه بشه.
-پروکسی
-پروکسی
-پروکسی
-پروکسی
-پروکسی
-پروکسی
-پروکسی
-وصل شدی رای اکشن یادت نره
-✔️
-ما را به دوستان خود معرفی کنید
-✌
-Join:
-@v2raytun_kanfing
-
 🔴
 زلاتان ابراهیموویچ (ستاره سابق فوتبال سوئد) تعریف کرده که از ۲۰ سالگی با شریک زندگی فعلی‌اش در رابطه بوده و حالا هم دو پسر دارند. او می‌گوید در این ۲۵ سال هیچ‌وقت از او خواستگاری نکرده بود، چون می‌ترسید اگر روزی از هم جدا شوند، مجبور شود بخشی از دارایی‌هایش را از دست بدهد.
 «بعد از 25 سال یه شب اومدم و کلی تدارکات برای خاستگاری از پارتنرم فراهم کردم و فضای رومانتیک مناسبش رو درست کردم، وقت زیادی برای مراسم گذاشتم و در نهایت ازش خاستگاری کردم و وقتی جلوش زانو زدم و گفتم بامن ازدواج میکنی؟ اون بهم گفت نه.»
@@ -330,6 +315,26 @@ Join:
 پروکسی متصل  تست شده
 🧑‍🦯
 https://t.me/proxy?server=188.116.27.22&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
+ما را به دوستان خود معرفی کنید
+✌
+Join:
+@v2raytun_kanfing
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#%40v2raytun_kanfing%E4%B8%A8%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0#%40v2raytun_kanfing%E4%B8%A8%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+vless://832e0199-9614-4d74-a7ba-1dca5453dab5@204.168.196.173:6985?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40v2raytun_kanfing%E4%B8%A8%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.28:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#%40v2raytun_kanfing%E4%B8%A8%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 ما را به دوستان خود معرفی کنید
 ✌
 Join:
