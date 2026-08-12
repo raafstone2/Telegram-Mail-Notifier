@@ -1,31 +1,3 @@
-پروکسی متصل  تست شده
-🧑‍🦯
-https://t.me/proxy?server=188.116.27.22&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
-ما را به دوستان خود معرفی کنید
-✌
-Join:
-@v2raytun_kanfing
-
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#%40v2raytun_kanfing%E4%B8%A8%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0#%40v2raytun_kanfing%E4%B8%A8%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-vless://832e0199-9614-4d74-a7ba-1dca5453dab5@204.168.196.173:6985?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40v2raytun_kanfing%E4%B8%A8%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.28:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#%40v2raytun_kanfing%E4%B8%A8%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ما را به دوستان خود معرفی کنید
-✌
-Join:
-@v2raytun_kanfing
-
 پروکسی‌هایی برای دانلود:
 https://t.me/proxy?server=www.qavi-qodrati.ir.&port=8443&secret=ee6321048187495dfac59a030220c25d8e7777772e7961686f6f2e636f6d
 https://t.me/proxy?server=www.vipd.ir.&port=8443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
@@ -396,4 +368,48 @@ vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.165.45:443?security=reality&
 برای دوستاتون بفرستید
 ✨
 Link channel:
+@v2raytun_kanfing
+
+کسی که زود سین میزنه یه حس خوبی بهت میده یه حسی که یعنی مزاحم نیستی، خوشحالم که پیام دادی، منتظر پیامت بودم، همینقدر قشنگ.
+پروکسی
+☘
+پروکسی
+☘
+پروکسی
+☘
+پروکسی
+وصل شدی رای اکشن یادت نره
+✔️
+ما را به دوستان خود معرفی کنید
+✌
+Join:
+@v2raytun_kanfing
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@ae.pro-power-space.com:11125?pcs=4ece5a77f6cb0657ebc4b07848417428b492cf53d500c50d2b1bede9c39d0a60&security=tls&alpn=h3%2C%20h2%2C%20http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=afr-data-15.myket.ir#%40v2raytun_kanfing
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@cl.ultrrasound.com:2096?path=%2F&security=tls&alpn=h3%2C%20h2%2C%20http%2F1.1&encryption=none&insecure=0&host=sau.musichubmel.ir&fp=firefox&type=ws&allowInsecure=0&sni=sau.musichubmel.ir#%F0%9F%87%B8%F0%9F%87%A6%20%20%40v2raytun_kanfing
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@bh.hyperlinkbt.com:11151?pcs=4ece5a77f6cb0657ebc4b07848417428b492cf53d500c50d2b1bede9c39d0a60&security=tls&alpn=h3%2C%20h2%2C%20http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=afr-data-15.myket.ir#%40v2raytun_kanfing
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@iq.hyperlinkbt.com:11148?pcs=4ece5a77f6cb0657ebc4b07848417428b492cf53d500c50d2b1bede9c39d0a60&security=tls&alpn=h3%2C%20h2%2C%20http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=afr-data-15.myket.ir#%F0%9F%87%AE%F0%9F%87%B6%20%40v2raytun_kanfing
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@qa.hyperlinkbt.com:11146?pcs=4ece5a77f6cb0657ebc4b07848417428b492cf53d500c50d2b1bede9c39d0a60&security=tls&alpn=h3%2C%20h2%2C%20http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=afr-data-15.myket.ir#%F0%9F%87%B6%F0%9F%87%A6%20%40v2raytun_kanfing
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@kw.hyperlinkbt.com:11147?pcs=4ece5a77f6cb0657ebc4b07848417428b492cf53d500c50d2b1bede9c39d0a60&security=tls&alpn=h3%2C%20h2%2C%20http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=afr-data-15.myket.ir#%F0%9F%87%B0%F0%9F%87%BC%20https%3A%2F%2Ft.me%2Fv2raytun_kanfing
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@sau.musichubmel.ir:44030?security=none&encryption=none&host=play.googleapis.com&headerType=http&type=tcp#%F0%9F%87%B8%F0%9F%87%A6%20https%3A%2F%2Ft.me%2Fv2raytun_kanfing
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.76:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%40v2raytun_kanfing
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.52:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%40v2raytun_kanfing%20%F0%9F%8C%B1%2002
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.50:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%40v2raytun_kanfing%20%F0%9F%8C%B1%2004
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.16:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%40%40v2raytun_kanfing%20%F0%9F%8C%B1%2005
+وصل شدی رای اکشن یادت نره
+✔️
+ما را به دوستان خود معرفی کنید
+✌
+Join:
 @v2raytun_kanfing
