@@ -1,39 +1,3 @@
-🔴
-صداوسیما:
-۵ هزارتا قبر آماده کردیم واسه آمریکایی هایی که میخوان به ایران حمله کنن.
-Link:
-@v2raytun_kanfing
-
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-vless://0f93931f-31b3-4e40-a528-175c7716cb7e@GWGWGWGWGWG.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40v2raytun_kanfing
-vless://e6148e57-3b7f-4043-80f2-b0075ad41c73@46.8.68.174:110?security=none&encryption=none&headerType=none&type=tcp#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#%40v2raytun_kanfing
-vless://e6148e57-3b7f-4043-80f2-b0075ad41c73@91.107.242.82:995?security=none&encryption=none&headerType=none&type=tcp#%40v2raytun_kanfing
-vless://XpnTeam-40@140.248.186.45:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40v2raytun_kanfing
-vless://XpnTeam-41@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40v2raytun_kanfing
-vless://0db4a87c-c280-4a5f-ae97-903768c5ef4c@31.76.76.31:443?security=none&encryption=none&type=ws#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%40v2raytun_kanfing%E2%98%82%EF%B8%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%40v2raytun_kanfing%20%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9
-بفرستید واسه دوستاتون تا اوناهم وصل بشن
-🔉
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
 ادعای ترامپ درباره ایران: وقتی مجبور شوید کمی بیشتر برای بنزین خود پرداخت کنید، هرگز عذرخواهی نخواهم کرد. من کار درست را انجام دادم
 🔹
 یک کشور بسیار شرور نمی‌تواند سلاح هسته‌ای داشته باشد.
@@ -252,4 +216,62 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&e
 
 ارتش اوکراین داره گیمرایی که ماموریت هلیکوپتر و هواپیمای بازی GTA رو با بهترین امتیازات پشت سر گذروندن برای کنترل پهپادهای انتحاری و شناسایی استخدام میکنه و ماهیانه ۳۷۰ هزار گریونا (۱/۵ میلیاردتومن) بهشون حقوق میده.
 Link:
+@v2raytun_kanfing
+
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+Link:
+@v2raytun_kanfing
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.65.68:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node18.mxvpn.dev&sid=bbc68cec8bb8d2e3#%40v2raytun_kanfing
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%F0%9F%92%AB%20%7C%20%40v2raytun_kanfing
+vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&type=xhttp&sni=www.google.com&sid=44#%F0%9F%92%AB%20%7C%20%40v2raytun_kanfing
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%E2%98%91%E2%9E%9C%40v2raytun_kanfing
+vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&encryption=none&insecure=0&fp=safari&type=xhttp&allowInsecure=0&sni=german.sarzamiiinahang.ir#%E2%98%91%E2%9E%9C%DA%86%D9%86%D9%84%D9%85%D9%88%D9%86%3A%20%40v2raytun_kanfing
+vless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#%E2%98%91%E2%9E%9C%DA%86%D9%86%D9%84%D9%85%D9%88%D9%86%3A%20v2raytun_kanfing
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#%E2%98%91%E2%9E%9C%DA%86%D9%86%D9%84%D9%85%D9%88%D9%86%20v2raytun_kanfing
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.196.166:22224?security=none&encryption=none&headerType=none&type=tcp#%40v2raytun_kanfing
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.196.166:22222?security=none&encryption=none&headerType=none&type=tcp#%40v2raytun_kanfing
+بفرستید واسه دوستاتون تا اوناهم وصل بشن
+🔉
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
 @v2raytun_kanfing
