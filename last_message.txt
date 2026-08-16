@@ -9,65 +9,6 @@
 #vpn
 🌐
 🔧
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&type=xhttp&sni=www.google.com&sid=44#%40v2raytun_kanfing%F0%9F%87%B9%F0%9F%87%B7
-vmess://eyJhZGQiOiJ0c3QwMC5wYXlkYXIuc2l0ZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicGxheS5nb29nbGUuY29tIiwiaWQiOiIwMTRlZTdjZS0xZDY4LTQ0YmYtYmZhNS02MzhjYjk0NzY5YmEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkB2MnJheXR1bl9rYW5maW5n8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ0c3QwMC5wYXlkYXIuc2l0ZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicGxheS5nb29nbGUuY29tIiwiaWQiOiIwMTRlZTdjZS0xZDY4LTQ0YmYtYmZhNS02MzhjYjk0NzY5YmEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6nwn4eqQHYycmF5dHVuX2thbmZpbmciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#%40v2raytun_kanfing
-vless://bd73cb46-5d86-42ca-ac4e-e702825a221a@193.111.78.106:61134?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.fifrfSw33WQdkPjmBmNvrLDaYE_6hmHOH-dcI_rRblA&host=node.badrangteb.ir&type=ws#%40v2raytun_kanfing
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40v2raytun_kanfing
-بفرستید واسه دوستاتون تا اوناهم وصل بشن
-🔉
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-ارتش اوکراین داره گیمرایی که ماموریت هلیکوپتر و هواپیمای بازی GTA رو با بهترین امتیازات پشت سر گذروندن برای کنترل پهپادهای انتحاری و شناسایی استخدام میکنه و ماهیانه ۳۷۰ هزار گریونا (۱/۵ میلیاردتومن) بهشون حقوق میده.
-Link:
-@v2raytun_kanfing
-
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-Link:
-@v2raytun_kanfing
-
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.65.68:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node18.mxvpn.dev&sid=bbc68cec8bb8d2e3#%40v2raytun_kanfing
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%F0%9F%92%AB%20%7C%20%40v2raytun_kanfing
 vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&type=xhttp&sni=www.google.com&sid=44#%F0%9F%92%AB%20%7C%20%40v2raytun_kanfing
@@ -318,4 +259,57 @@ Link channel:
 هشدار داد که آسیب به برخی تأسیسات نفتی و کاهش تولید در جریان جنگ، تأمین گاز در فصل زمستان را با مشکل مواجه کرده است. به گفته او، کمبود گاز می‌تواند سوخت‌رسانی به نیروگاه‌ها و در پی آن پایداری شبکه برق کشور را تحت تأثیر قرار دهد.
 در صورت تشدید کمبود گاز، نیروگاه‌ها ناچار خواهند شد برای تولید برق بیشتر به گازوئیل و مازوت روی بیاورند.
 link channel:
+@v2raytun_kanfing
+
+وقتی وسط چت بهم میگه یه ۵ دقیقه وایسا میام :
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+Link:
+@v2raytun_kanfing
+
+تصویر دیگر از مسیر اسب سواری
+از لیسار به سوباتان ، ییلاقات گیلانِ عزیز
+پروکسی
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+Link:
+@v2raytun_kanfing
+
+🔴
+پدر مهسا امینی:
+کلماتی که اریایی‌نژاد برای مهسا استفاده کرده سزاوار خودش و خانوادشه!
+Link:
 @v2raytun_kanfing
