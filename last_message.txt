@@ -1,36 +1,3 @@
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-vless://c7e9c591-2764-423a-afca-efbd010fd396@213.183.61.100:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&fp=chrome&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#%F0%9F%87%B3%F0%9F%87%B1%20%40v2raytun_kanfing
-vless://89b794f4-cd0f-410f-b766-8bc1d8e4106a@91.98.154.118:57775?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#%40v2raytun_kanfing%F0%9F%90%88
-vless://ecd2e03a-7f21-99ba-15be-da5ccfd29830@69.46.46.88:443?mode=stream-up&path=%2Fxhttp-siz10%2Fstream-up%2Fecd2e03a-7f21-99ba-15be-da5ccfd29830&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=rvg-production-2aea.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=rvg-production-2aea.up.railway.app#%40v2raytun_kanfing
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.20:443?security=reality&encryption=none&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=savesafe.run&sid=e4f6a3446ac34a24#%40v2raytun_kanfing
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.187:443?security=reality&encryption=none&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=savesafe.run&sid=e4f6a3446ac34a24#%40v2raytun_kanfing
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.12:443?security=reality&encryption=none&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=savesafe.run&sid=e4f6a3446ac34a24#%40v2raytun_kanfing
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.35:443?security=reality&encryption=none&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=savesafe.run&sid=e4f6a3446ac34a24#%40v2raytun_kanfing
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.240:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483#%E2%80%8E%F0%9F%9B%B0%EF%B8%8F%20%40v2raytun_kanfing
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.61:443?security=reality&encryption=none&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=savesafe.run&sid=e4f6a3446ac34a24#%E2%80%8E%F0%9F%9B%B0%EF%B8%8F%20%40v2raytun_kanfing
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%E2%80%8E%F0%9F%9B%B0%EF%B8%8F%20Link%3A%20%40v2raytun_kanfing
-vless://e0454af2-6fe9-4983-a55d-05e1da202602@Fan1land09km.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%E2%80%8E%F0%9F%9B%B0%EF%B8%8F%20%20%40v2raytun_kanfing
-﻿
-بفرستید واسه دوستاتون تا اوناهم وصل بشن
-🔉
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
 از مادر بزرگ پرسیدم؟؟
 بابا بزرگ تا حالا واست گل خریده؟
 گفت:نه،
@@ -291,3 +258,7 @@ vmess://eyJhZGQiOiI5MS4xMDcuMjU1LjE4MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 
 رای اکشن میخوام
 🪴
+
+- محمدرضا عارف، معاون اول پرشکیان، اعلام کرده که دولت به دنبال پایان دادن به موضوع فیلترینگ است. به گفته او، اینترنت یک زیرساخت حیاتی برای ارتباطات و توسعه محسوب می‌شود و نمی‌توان به دلیل تخلفات محدود، دسترسی عمومی به آن را مسدود کرد. عارف همچنین تأکید کرد که روند حل این مسئله به دلیل وجود نهادهای تصمیم‌گیر مختلف، به‌صورت تدریجی پیش خواهد رفت:)))
+Link channel:
+@v2raytun_kanfing
