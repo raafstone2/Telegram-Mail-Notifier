@@ -1,36 +1,3 @@
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@85.192.49.151:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.servers.gracevpnbuy.com&sid=b91a73752053b039#%40v2raytun_kanfing%20%F0%9F%87%A9%F0%9F%87%AA
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.113:443?mode=auto&security=reality&encryption=none&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&fp=firefox&type=xhttp&sni=api.getsavesafe.space&sid=62b6d6e64d461d78#%40v2raytun_kanfing%20%F0%9F%87%A9%F0%9F%87%AA
-vless://be311ac0-1d81-460d-af5a-c4c2180dd48f@tr.awexco.shop:2082?security=none&encryption=none&host=biosmod.vendors.nvidia.com&headerType=http&type=tcp#%40v2raytun_kanfing%F0%9F%87%B9%F0%9F%87%B7
-vless://be311ac0-1d81-460d-af5a-c4c2180dd48f@pro1.awexio.ir:2086?security=reality&encryption=none&pbk=FdedLVqgh4rCCzYydDap0cmzOuhnw2hdwpj0C4G1sjU&host=delivery.mp.microsoft.com&headerType=http&fp=edge&type=tcp&sni=support-shield.nvidia.nl&sid=b91fc778714c36a6#%40v2raytun_kanfing%F0%9F%87%BA%F0%9F%87%B8
-vless://be311ac0-1d81-460d-af5a-c4c2180dd48f@peo.awexaio.shop:2086?security=reality&encryption=none&pbk=FdedLVqgh4rCCzYydDap0cmzOuhnw2hdwpj0C4G1sjU&host=msedge.b.tlu.dl.delivery.mp.microsoft.com&headerType=http&fp=qq&type=tcp&sni=support-shield.nvidia.nl&sid=b91fc778714c36a6#%40v2raytun_kanfing%20%F0%9F%87%BA%F0%9F%87%B8
-trojan://Telegram_healer_config@104.21.76.194:443?path=%2Ftr%2FnDuppKYyUqsEcG0rcQEg5sghG0%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=x8xus4x7utzmdozv2.bzuh25lzinnetwtocxyicx.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=X8xus4X7UTZMDozv2.bZuH25LZINNeTwTOcXYIcx.WORkERs.deV#%40v2raytun_kanfing%20%F0%9F%87%A9%F0%9F%87%AA
-vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@167.104.217.250:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=nl-spec-1.atlanta-api.com#%40v2raytun_kanfing%20%F0%9F%87%A9%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#%40v2raytun_kanfing%F0%9F%90%B5%201
-vless://2d96d4d6-a276-4ab5-9f20-8dc5cbf6e902@72.35.246.31:1244?security=reality&encryption=none&pbk=gHG_cbbi-OJKY2tBQTqz1QryfmmRZEQ7BQgymimukkQ&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=axisvpn.ru&sid=6ba85179e30d4fc2#%40v2raytun_kanfing%F0%9F%90%B5
-vless://c164613c-ab89-4b34-a1d7-d526fadcd5b6@de-11.th3store.ir:8080?path=%2Fplay&security=none&encryption=mlkem768x25519plus.native.0rtt.xv7sk1D2Us-JXkjuqIRno-kcLA8kqeKy6seL9gXGB2M&host=de-11.th3store.ir&type=httpupgrade#Link%3A%20%40v2raytun_kanfing
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#Link%3A%20%40v2raytun_kanfing
-vless://8b706aff-ca60-4632-9658-aeb5c0f48561@rusl2-e.ya-proxy.com:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eda.x5.ru&sid=226509f017e4c36d#Link%3A%20%40v2raytun_kanfing
-بفرستید واسه دوستاتون تا اوناهم وصل بشن
-🔉
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
 نتانیاهو گفته به زودی
 سورپرایز سنگینی برای ایران دارم
 !!
@@ -315,5 +282,12 @@ vless://5fc8a5e4-d0c5-4ad2-8bfe-db589553c6c1@104.18.39.196:8880?path=%2Fpyip&sec
 🔴
 همتی: نفت ما الان صادراتش تقریباً قطع شده ...وضع مردم می‌تونه بدتر هم بشه ... در یک چارچوبی قرار گرفتیم پر از محدودیتها حل این معادله‌ای که چند تا مجهول داره خیلی سخت است
 ما ۵ تا چیز با هم داریم تحریم حداکثری محاصره ، قطع صادرات نفت مون ناترازی بودجه مون این چهار - پنج تا با هم
+Link:
+@v2raytun_kanfing
+
+لطیفه محمدزاده، زن 40 ساله اهل سقز، روز پنج‌شنبه 29 مرداد 1405 توسط همسرش، امید فیضی، با بیش از 20 ضربه چاقو به قتل رسید.
+او برای تأمین هزینه‌های زندگی خود و فرزندش به‌عنوان راننده در یک آژانس تاکسی تلفنی کار می‌کرد و پس از قتل، جسدش در نزدیکی روستای قره‌ناو، حدود 20 کیلومتری سقز، پیدا شد.
+بر اساس گزارش‌ها، لطیفه در سال‌های گذشته بارها از سوی همسرش مورد ضرب‌وشتم، خشونت و تهدید به قتل قرار گرفته بود و علیه او پرونده قضایی داشت. همچنین تنها دو روز پیش از قتل، همسرش مقابل دادگاه سقز او را به‌شدت کتک زده و تهدید به قتل کرده بود.
+گفته می‌شود امید فیضی به‌دلیل خشونت علیه لطیفه به حبس محکوم شده بود، اما تنها یک روز پس از صدور حکم، او را به قتل رساند.
 Link:
 @v2raytun_kanfing
