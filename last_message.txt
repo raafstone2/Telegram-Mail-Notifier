@@ -1,43 +1,3 @@
-پروکسی تلگرام
-https://t.me/proxy?server=65.21.83.248&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-https://t.me/proxy?server=love.roseprox.xyz&port=2443&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=167.233.250.101&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=mini.lavazemi4.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-https://t.me/proxy?server=ftp.jinxandjack.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
-https://t.me/proxy?server=103.83.145.50&port=2053&secret=ddc8576be4484da99437c59af67c28ae44
-https://t.me/proxy?server=00.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
-Link:
-@v2raytun_kanfing
-
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#%40v2raytun_kanfing
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.129:443?security=reality&encryption=none&pbk=gA6-Fj5hl4x-HOtbCcYqD99qsml4ActHRmw-VTkFU14&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dep.opngtr.nl&sid=7d6b6b7a606c21cf#%40v2raytun_kanfing
-vmess://eyJhZGQiOiIxNjcuMjM1LjcwLjIwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LmFwcGxlLmNvbSIsImlkIjoiNzIwOWQ3ZWUtY2ZkMC00NmMwLWE1ODAtZDkyZTJmMGM4MDFjIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJAdjJyYXl0dW5fa2FuZmluZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwidmNuIjoiIn0=
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
 💠
 قالیباف: ما هر چقدر قدرت نظامی داشته باشیم ولی اگر مردم گرسنه باشند و گردش مالی و رشد اقتصادی نداشته باشیم، دوام نمی‌آوریم
 پروکسی
@@ -304,4 +264,22 @@ https://t.me/proxy?server=94.184.39.8.aprawood.ir&port=2020&secret=AAAAAAAAAAAAA
 لینک‌ها رو برای دوستاتون هم بفرستید
 ✨
 link:
+@v2raytun_kanfing
+
+پروکسی ایرانسل
+پروکسی همراه
+پروکسی نت ملی
+پروکسی نت ملی
+پروکسی مخصوص دانلود
+Link:
+@v2raytun_kanfing
+
+💠
+خبر خوب برای کاربران اینترنت؟
+ایلان ماسک اعلام کرده که اسپیس‌ایکس در حال توسعه فناوری‌ای است که اینترنت پرسرعت را مستقیماً از ماهواره به تلفن‌های همراه منتقل می‌کند؛ بدون نیاز به زیرساخت‌های سنتی یا واسطه‌های ارتباطی.
+با گسترش این سرویس، کاربران حتی در مناطق دورافتاده و خارج از پوشش آنتن‌دهی نیز می‌توانند به اینترنت پرسرعت دسترسی داشته باشند و محتوای ویدیویی باکیفیت را بدون مشکل مشاهده کنند.
+به گفته ماسک، این پروژه دیگر یک ایده برای آینده نیست و این طرح عملا شروع شده و در مرحله تسته و تا ماه های آینده برای تمام مردم دنیا عرضه میشه
+🚀
+📱
+Link:
 @v2raytun_kanfing
