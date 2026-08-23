@@ -1,43 +1,3 @@
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-trojan://MiTiVPN@188.114.97.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=8383833-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=0&sni=3865895-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#%40v2raytun_kanfing%F0%9F%87%A9%F0%9F%87%AA
-vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjE4MCIsInBzIjoiQHYycmF5dHVuX2thbmZpbmciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#%40v2raytun_kanfing
-vless://048a61f8-b236-4082-b1c3-c22a85693c12@162.128.181.182:443?security=reality&encryption=none&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=674a07ea4d1c4255#%40v2raytun_kanfing
-vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#%40v2raytun_kanfing
-trojan://AE62539071@13.158.137.73:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=novel-bat.rooster465.autos#%40v2raytun_kanfing
-trojan://FH72359861@13.159.22.208:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=driven-bulldog.rooster465.autos#%40v2raytun_kanfing
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%40v2raytun_kanfing
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%40v2raytun_kanfing
-﻿
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-💠
-فوری | اسکات بسنت، وزیر خزانه‌داری آمریکا:
-بسنت اعلام کرد آمریکا قصد دارد شدیدترین تحریم‌های تاریخ را علیه ایران اعمال کند و مدعی شد این فشار اقتصادی نتیجه خواهد داد. او با اشاره به تجربه ونزوئلا و تحریم‌های جاری علیه کوبا گفت این سیاست در مورد ایران نیز مؤثر خواهد بود و هدف نهایی آن، به گفته او، فروپاشی حکومت ایران است.
-وزیر خزانه‌داری آمریکا همچنین تأکید کرد واشنگتن قصد ندارد در مقطع فعلی جنگ گسترده‌ای را علیه ایران از سر بگیرد و در عوض، فشار اقتصادی را به حداکثر خواهد رساند.
-چنل مارو به دوستاتون معرفی کنید
-✨
-link channel:
-@v2raytun_kanfing
-
 وزارت خزانه‌داری آمریکا لیست جدیدی از تحریم‌ها را علیه اشخاص و نهادهای مرتبط با جمهوری اسلامی ایران وضع کرد.
 لینک‌های پروکسی برای دانلود:
 https://t.me/proxy?server=www.veilhub.ir.&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
@@ -302,4 +262,45 @@ Link:
 
 و دلار دوباره کشید بالا و ۱۹۲ هزارتومان شد.
 Link channel:
+@v2raytun_kanfing
+
+پروکسی
+نت ملی
+https://t.me/proxy?server=204.168.148.176&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
+https://t.me/proxy?server=178.104.177.167&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
+https://t.me/proxy?server=178.104.156.1&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
+وصل شدی رای اکشن یادت نره
+✔️
+‌Link:
+@v2raytun_kanfing
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.28.234:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#%40v2raytun_kanfing
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#%40v2raytun_kanfing
+vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@31.76.119.117:443?security=reality&encryption=none&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&host=%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.orpheous.ru&sid=9e4eced6e98ed4d4#%40v2raytun_kanfing
+vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@wok1.api3-max.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=wok1.api3-max.ru#%40v2raytun_kanfing
+vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#%40v2raytun_kanfing
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#%40v2raytun_kanfing
+vless://86ff5721-87f2-4682-9bc2-b1b34a8ca91f@128.1.12.97:443?security=reality&encryption=none&pbk=4vnK2LLhfy9-plqFrSE3Di9fqTXlajXtll7NoYZYQ28&host=JOIN_BEDE_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=05ac92984da91336#%40v2raytun_kanfing
+vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&encryption=none&headerType=none&type=tcp#%40v2raytun_kanfing
+vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@31.76.119.117:443?security=reality&encryption=none&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&host=%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.orpheous.ru&sid=9e4eced6e98ed4d4#%40v2raytun_kanfing
+vless://663836b2-f676-43fb-977f-47c495b1b383@212.67.17.204:443?security=reality&encryption=none&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=d484643ca8396614#storage.yandex.net%26
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
 @v2raytun_kanfing
