@@ -1,62 +1,4 @@
 پروکسی
-https://t.me/proxy?server=178.104.156.1&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
-وصل شدی رای اکشن یادت نره
-✔️
-‌Link:
-@v2raytun_kanfing
-
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#%40v2raytun_kanfing
-trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#%40v2raytun_kanfing
-vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjFhOTo6MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzYTk2NmQyMC03YjlkLTQ4Y2MtYmEyYy04ZDM4MTYxYjZkM2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTktbmV3cGFjL2ZhbnFpYW5nIiwicGNzIjoiIiwicG9ydCI6IjIzMzg4IiwicHMiOiJAdjJyYXl0dW5fa2FuZmluZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==
-vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#%40v2raytun_kanfing
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#%40v2raytun_kanfing
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.224:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483#%40v2raytun_kanfing
-vless://e01b5875-0b0b-4056-bbf5-0b0ecdc97937@128.1.12.164:443?security=reality&encryption=none&pbk=Z41OxiwFrf0VAEv7_qXoEMKSmLJPjEPPJzXpP1s6gGk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=977a84fa5512be5a#%40v2raytun_kanfing
-vless://55b4e885-c5ad-6263-28bd-a3ed1f1bcd80@69.46.46.13:443?path=%2Fws%2F55b4e885-c5ad-6263-28bd-a3ed1f1bcd80&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=eskandar-production.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=eskandar-production.up.railway.app#%40v2raytun_kanfing
-vless://1bc057c5-2368-844a-5cac-7e027a5a972a@69.46.46.18:443?path=%2Fws%2F1bc057c5-2368-844a-5cac-7e027a5a972a&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=kijk-production-4881.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=kijk-production-4881.up.railway.app#%40v2raytun_kanfing%20%F0%9F%87%A9%F0%9F%87%AA
-vless://b893903a-8713-016c-266a-51b5113bac2c@69.46.46.19:443?path=%2Fws%2Fb893903a-8713-016c-266a-51b5113bac2c&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=llo-production-f821.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=llo-production-f821.up.railway.app#%40v2raytun_kanfing%20%F0%9F%87%A9%F0%9F%87%AA
-vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjFhOTo6MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzYTk2NmQyMC03YjlkLTQ4Y2MtYmEyYy04ZDM4MTYxYjZkM2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTktbmV3cGFjL2ZhbnFpYW5nIiwicGNzIjoiIiwicG9ydCI6IjIzMzg4IiwicHMiOiJAdjJyYXl0dW5fa2FuZmluZyDwn4ep8J+HqvCfmoAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0=
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-💠
-پزشکیان:
-باید بنزین را گران کنیم چاره ای نداریم
-پروکسی
-پروکسی
-پروکسی
-پروکسی
-پروکسی
-پروکسی
-پروکسی
-پروکسی
-Link:
-@v2raytun_kanfing
-
-و دلار دوباره کشید بالا و ۱۹۲ هزارتومان شد.
-Link channel:
-@v2raytun_kanfing
-
-پروکسی
 نت ملی
 https://t.me/proxy?server=204.168.148.176&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
 https://t.me/proxy?server=178.104.177.167&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
@@ -238,4 +180,35 @@ link:
 
 وزیر نیرو اعلام کرده که از این هفته به بعد خاموشی‌ها و قطعی برق دیگه تموم میشه!
 Link:
+@v2raytun_kanfing
+
+۲۰۷ از ۳ میلیارد تومن گذشت.
+Link:
+@v2raytun_kanfing
+
+🔴
+این عکسو هرجایی که میتونید پخش کنید تا این دختر خانم ۱۲ ساله پیدا بشه
+متاسفانه به علت قطعی برق دوربین ها نتونستن متوجه بشن که چه اتفاقی براش افتاده یا چه کسی ایشون رو دزدیده...
+Link:
+@v2raytun_kanfing
+
+yKblYJz3TvLx3KzR8uWFmLcuSbknSrdjr83UuvLg5q9Hn6twnEqexfvHEYuKMy9QzZ4g3JOdEYlbfiFq-j2mtOAPk5FXiRQguBHHf8qejzAjb_I5oUO8rX3oMJvAMq3SHumr67YK3-ADzYXhWQ3-DDCqLfFRqpCfH5rwJVNUQdyO8ST8HapKsoHA-ygUJ_XMX1a226xu_85S4GkJ-keazJ_uDbr_bc-j82Gft0hgz9eBnOFjQnrH43Ptg6aferDSIrg6yanSrsDB1DlCODu2f5-SAncqQs8Wr1KfUhjsJKHuFUPKDESU_JvVSwubVNP6dlmq91a9n33NHlEtVoUSrSIk6EwKEfiM-ZkUfSDRi9Q7JCmBf8hOzasC_gjTAgdFj_D9GFab8DY-6KAiAGD2K2rOvy9Io5ib6PEyhgPFz043WSl32ga2-WgGwayA0rdOfRXs7EFIxoW-YiyaQKhWmS1fctebY6MAlCtFr7iyjMwF6aVG5eZclVK4Bn_cbQ13bS1cnQEW2AI4kvdswgLcpm1K1TDHSL50ElQEvFG64VSRJwN5zogBxpDeuYjOR4N5Gtj2gWOtJ6g7NN5qiFxTQa5nmGt8Uy822Hm4gfHhxSUb5_xhG_qHTj58NQrykaOAMw1YnbbJP4ML6DPkqgF77nVK1m4d9UwvVUTu0B9R-GNGr4h5fimXn1MrK2BURX-AZZR5oBQzFSfhPhJwDDpYkTcJ3ztRpsn2lRQpltcL-5iC-yO0AiKG05WOoGGNiSBu6I4GVOiWupIN_pHJZd30njH3I5N9YjsH0DNsTRwuFC-6zupGt8mb2wOeqTwHiNslUDz9OeiZVFtkjiVE1Y0E7eU5uQRXHrwzm7EVGzNL1jqXjXaCD5PLpXH8CrB0v7-fF2_4s2DmpjUX_X1f-dO67Z_XobqbUmEomRNezb1gbAanW-nKMtfPZnz1K0L99SJyx0Zd7rYtkL2qQLmVcEOkHEERQvmzZvmmg09Yh5ruJ_LdA6ET-c3t8j8JVt127bdkAvXNZSXppJzhqldZjln_z6PwObHHXpr-IbO16tYf9Gid_TPsuueQp4iLITCCZ34A1yg0ax4Cqj9lxkEILp85RZAd41d95upuh6Bv17Hq0Q0diMos3G2pWwzqgzaOf3VswzfDAfpeLEIR3FnmXntFmBqNY257AmWeiWEDnFYwFrYV0JmdNW7s-DBzdBcCr6Z9XUbqcgR-sv3iHHZuK532OiHdasu2wdF72DF5bjzcwDhf1k-5Zffno57WKONAGvVRwFJ0ejAob4iVGgw3XsFR7Luf5Fg9yFoLOXXrv5dh7XIiZsLQoG8VLDlptlkoGrwR2NI9OFQrQGUgsNHTF3wl2vAGUBokT8ntkP2Qv-FJZxbqwkcoUGuskDBcgKBA-wAHIEpu_QHSHaWjNk6Mt4dAnF9CoGHNZ8led688lIsiSYkSr4ja5K2SOKog8WDprPccxVniU3MgBVY6eGa_IFOum4EOrkc7YXmZc6oDCBzIogKdxE3wFXeoD99zoBWWzvayw6lMdATLCivgR1OeNVL3dC2DZY-dMVUfc0&encryption=none&pbk=4sT8gYkbYI1RUPlO-SFVpJENKfGgMWoYQpflbcfspkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=updates.cdn-apple.com&sid=4844fb0c077b20b7#%40v2raytun_kanfing%20%F0%9F%87%A9%F0%9F%87%AA
+vless://d31aefb3-775b-4e87-a093-a4677addf10a@144.31.140.127:443?security=reality&encryption=none&pbk=3EwukQs0ows0H4l2atTgz_Mo5SV-v5p14D4zfA41tU4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=c010293d0bafac#%40v2raytun_kanfing
+vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@31.76.119.117:443?security=reality&encryption=none&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&host=%2F%3FJOIN_TELEGRAM%40MUSICLOVERS85&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.orpheous.ru&sid=9e4eced6e98ed4d4#%40v2raytun_kanfing
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.91:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#%40v2raytun_kanfing
+vless://419f25c1-bc35-412e-93fb-258efee859b5@nl3.murhost.network:443?security=reality&encryption=none&pbk=XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl3.murhost.network&sid=f41bc0b00ca1a978#%40v2raytun_kanfing
+vless://FixPingBot@69.46.46.10:443?path=%2Fws%2Fvless%2FFixPingBot%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ezaccess1-slv-ezaccess1-f7d0.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ezaccess1-slv-ezaccess1-f7d0.up.railway.app#%40v2raytun_kanfing
+vless://FixPingBot@69.46.46.69:443?path=%2Fws%2Fvless%2FFixPingBot%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ezaccess1-slv-ezaccess1-f7d0.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ezaccess1-slv-ezaccess1-f7d0.up.railway.app#%40v2raytun_kanfing
+vless://FixPingBot@69.46.46.79:443?mode=stream-up&path=%2Fxhttp%2Fvless%2Fstream-up%2FFixPingBot&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ezaccess1-slv-ezaccess1-f7d0.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=ezaccess1-slv-ezaccess1-f7d0.up.railway.app#%40v2raytun_kanfing
+
+vless://FixPingBot@69.46.46.9:443?mode=stream-up&path=%2Fxhttp%2Fvless%2Fstream-up%2FFixPingBot&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ezaccess1-slv-ezaccess1-f7d0.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=ezaccess1-slv-ezaccess1-f7d0.up.railway.app#%40v2raytun_kanfing
+vless://FixPingBot@69.46.46.152:443?mode=stream-up&path=%2Fxhttp%2Fvless%2Fstream-up%2FFixPingBot&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ezaccess1-slv-ezaccess1-f7d0.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=ezaccess1-slv-ezaccess1-f7d0.up.railway.app#%40v2raytun_kanfing
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
 @v2raytun_kanfing
