@@ -1,55 +1,3 @@
-پروکسی
-✅
-tg://proxy?server=91.98.99.27&port=8443&secret=dd104462821249bd7ac519130220c25d09
-Link:
-@v2raytun_kanfing
-
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-vless://d67af820-f54c-48ab-862c-19086357f276@62.133.62.179:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#%40v2raytun_kanfing
-vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.91:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#%40v2raytun_kanfing
-vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.70:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206c0ZTMzQxZWNlYUlpU20yZA@154.53.63.33:80#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206c0ZTMzQxZWNlYUlpU20yZA@154.53.63.33:443#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.92:10901#%40v2raytun_kanfing
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40v2raytun_kanfing
-vless://14777bd9-56a5-46f6-a94f-826b4800dc05@176.123.164.9:9872?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#%40v2raytun_kanfing
-vless://219762a7-b918-4e2b-8a3d-d309ef98bb61@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#%40v2raytun_kanfing
-vless://14777bd9-56a5-46f6-a94f-826b4800dc05@176.123.164.9:9872?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#%40v2raytun_kanfing
-vless://626c0789-16d1-4815-be8b-bd03959d7d12@194.26.192.76:443?security=reality&encryption=none&pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl1.tsumshop.org&sid=c8c75aaf699259b4#%40v2raytun_kanfing
-vless://9e09f1ce-45d4-0920-b077-81b0dae00db2@31.76.109.7:80?security=reality&encryption=none&pbk=4iWZChsH0rnqtn89xiB1evDLkFjmgh-3WYjx8cknZC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=console.cloud.yandex.ru&sid=a8b9c0d1e2f34567#%40v2raytun_kanfing
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-خط فقر برای یک خانواده ۴ نفره به ۱۶۰ میلیون تومان رسید.
-پروکسی
-پروکسی
-پروکسی
-پروکسی
-پروکسی
-پروکسی
-پروکسی
-پروکسی
-Link channel:
-@v2raytun_kanfing
-
 پروکسی های تلگرام:
 https://t.me/proxy?server=94.184.32.110.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 https://t.me/proxy?server=94.184.32.109.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
@@ -270,4 +218,29 @@ vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.66:443?security=reality&e
 _
 🥀
 Link:
+@v2raytun_kanfing
+
+💠
+گزارش اکسیوس: واشنگتن فعلاً برنامه‌ای برای حمله تازه به ایران ندارد
+به نوشته اکسیوس و به نقل از دو منبع آگاه، مارکو روبیو، وزیر خارجه آمریکا، طی روزهای گذشته به شماری از وزیران خارجه کشورهای دیگر اعلام کرده که در حال حاضر آمریکا قصد انجام عملیات نظامی جدید علیه ایران را ندارد.
+بر اساس این گزارش، دولت آمریکا در مقطع کنونی ترجیح می‌دهد به جای افزایش تنش‌های نظامی، فشار بر ایران را از طریق ابزارهایی مانند تحریم‌های جدید و اقدامات اقتصادی تشدید کند.
+انتشار این خبر همزمان با ادامه تماس‌ها و تلاش‌های دیپلماتیک میان تهران و واشنگتن صورت گرفته است.
+link:
+@v2raytun_kanfing
+
+رویترز به نقل از داده‌های شرکت ردیابی کشتیرانی کپلر گزارش داد که روز سه‌شنبه تنها ۵ کشتی تجاری از تنگه هرمز عبور کردند
+؛
+آماری که به‌طور محسوسی کمتر از میانگین ۱۵ کشتی در روز طی ۱۰ روز گذشته است. بر اساس این داده‌ها، دو نفتکش حامل گاز مایع نفتی و یک نفتکش حامل قیر از تنگه خارج شدند و در مقابل، دو نفتکش خالی حمل فرآورده‌های نفتی وارد این آبراه شدند.
+link:
+@v2raytun_kanfing
+
+https://t.me/proxy?server=94.184.32.110.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+https://t.me/proxy?server=94.184.32.109.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+https://t.me/proxy?server=94.184.32.108.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+https://t.me/proxy?server=94.184.32.103.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+https://t.me/proxy?server=94.184.32.102.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+https://t.me/proxy?server=94.184.32.108.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+https://t.me/proxy?server=94.184.32.101.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+@link
+:
 @v2raytun_kanfing
