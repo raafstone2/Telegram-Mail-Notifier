@@ -1,46 +1,3 @@
-پروکسی تلگرام
-https://t.me/proxy?server=103.161.35.23&port=443&secret=dd79e7010200010007f0030386e24c3add
-https://t.me/proxy?server=65.21.83.248&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
-https://t.me/proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=ftp.jinxandjack.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169
-https://t.me/proxy?server=craft.malavanann.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=www.serverfool.ir.&port=8443&secret=ee6321048187495dfac59a030220c25d8e7777772e7961686f6f2e636f6d
-https://t.me/proxy?server=server2.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-https://t.me/proxy?server=api.digitalhomeservices.veilzen.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
-https://t.me/proxy?server=06dgvasl22jka013377.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
-Link:
-@v2raytun_kanfing
-
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-vless://32894620-d039-4269-b57b-08647f3dc31c@5.75.193.127:443?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#%40v2raytun_kanfing
-vless://53ffd172-de4c-002f-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=%2Frepository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=qq&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#%40v2raytun_kanfing
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-💠
-ترامپ: نیروی دریایی آمریکا به من اطلاع داده که تمام مین‌های موجود در آب‌های بین‌المللی تنگه هرمز جمع‌آوری یا منفجر شده‌اند. به ایران هشدار داده‌ایم که هر کشتی یا قایقی که اقدام به مین‌گذاری جدید کند، بلافاصله و به‌طور سیستماتیک منهدم خواهد شد. آمریکا با استفاده از نیروی فضایی، تمام نقاط تنگه هرمز را زیر نظر دارد و سیاست «مدارای صفر» در قبال مین‌گذاری به‌طور کامل اجرا خواهد شد.
-Link:
-@v2raytun_kanfing
-
 💠
 اختلال شدید در سرویس جی‌پی‌اس در تهران همچنان ادامه دارد
 اختلال در سرویس موقعیت‌یابی جهانی (GPS) امروز در تهران شدت گرفته و عملکرد بسیاری از نرم‌افزارهای مسیریاب را با مشکل مواجه کرده است.
@@ -285,5 +242,70 @@ https://t.me/proxy?server=94.184.32.110.aprawood.ir&port=2020&secret=AAAAAAAAAAA
 https://t.me/proxy?server=94.184.32.109.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 https://t.me/proxy?server=94.184.32.108.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 https://t.me/proxy?server=94.184.32.101.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+Link:
+@v2raytun_kanfing
+
+پروکسی متصل
+https://t.me/proxy?server=116.203.55.20&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
+https://t.me/proxy?server=78.47.158.138&port=7443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
+Link:
+@v2raytun_kanfing
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@api.noneok.com:443?mode=gun&security=reality&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&type=grpc&serviceName=api.v1.StreamService&sni=api.noneok.com&sid=1ea59febb8d4fc8e#%F0%9F%87%A9%F0%9F%87%AA%E2%9A%A1%40v2raytun_kanfing
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#Link%3A%20%40v2raytun_kanfing%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9
+vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@151.101.56.7:443?path=%2F&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40v2raytun_kanfing%20%F0%9F%8C%8A
+vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@157.173.7.200:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-fra02.rkitman.ru&sid=88d9dc52ef39c8bd#%40v2raytun_kanfing%F0%9F%9B%B8
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvbmUuY2YuY2RuLmh5bGkueHl6IiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIxODAiLCJwcyI6IkB2MnJheXR1bl9rYW5maW5n8J+NrSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
+
+یک جمله دیدم که می گفت:
+تلاش کسی را که سعی می کند با تو در ارتباط بماند نادیده نگیر، همیشه کسی نیست که برایت اهمیت قائل باشد و این حقیقت است.
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
 Link:
 @v2raytun_kanfing
