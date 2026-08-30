@@ -1,9 +1,6 @@
-#خبر_فوری #مهم
 🔴
-جایگزین تنگه هرمز مشخص شد، آبراه جدید در جزیره مسندم  طبق گزارش های منابع خارجی آمریکا جزیره مسندم که در جنوب تنگه وجود داره رو تراشیده و یه مسیر جدید توی تنگه هرمز به عرض ۴۹۰ و عمق ۳۰ متر باز کرده؛ کشتی‌ها از طریق این مسیر میتونن رد شوند.…
-
-رسما و شرعا دیگه جمهوری اسلامی اهرمی به اسم تنگه هرمز نداره و بسته بودن یا باز بودن این تنگه دیگه اهمیت آنچنانی نداره.
-❌
+فوری-اسراییل مدعی شد
+دور جدید جنگ با حمله با لارک آغاز شده است
 Link:
 @v2raytun_kanfing
 
@@ -18,12 +15,9 @@ Link:
 #vpn
 🌐
 🔧
-hysteria2://jbmuokj7p4kg4h4s@giftcard.gateway-stream.com:52067?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#%40v2raytun_kanfing%F0%9F%87%B9%F0%9F%87%B7
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJAdjJyYXl0dW5fa2FuZmluZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
-vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjFhOTo6MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzYTk2NmQyMC03YjlkLTQ4Y2MtYmEyYy04ZDM4MTYxYjZkM2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTktbmV3cGFjL2ZhbnFpYW5nIiwicGNzIjoiIiwicG9ydCI6IjIzMzg4IiwicHMiOiJAdjJyYXl0dW5fa2FuZmluZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==
-vless://d896043a-440a-4377-88db-2dac132bc176@adminv2.jikecloud.cc:443?path=%2Fvless&security=tls&encryption=none&insecure=0&host=adminv2.jikecloud.cc&fp=chrome&type=ws&allowInsecure=0&sni=adminv2.jikecloud.cc#%40v2raytun_kanfing
-vless://47c4ca1b-3190-460d-9956-95240e4de125@iran.harmira.ir:6895?security=none&encryption=mlkem768x25519plus.native.0rtt.9VdibyTxC6joaDgaQ1rnSEYfBQOlgDJGnlDA6sVJ8kU&headerType=none&type=tcp#%40v2raytun_kanfing
-vless://d896043a-440a-4377-88db-2dac132bc176@adminv2.jikecloud.cc:443?path=%2Fvless&security=tls&encryption=none&insecure=0&host=adminv2.jikecloud.cc&fp=chrome&type=ws&allowInsecure=0&sni=adminv2.jikecloud.cc#%40v2raytun_kanfing
+hysteria2://1w61o8j0slf0q9yj@giftcard.gateway-stream.com:52024?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#%40v2raytun_kanfing%F0%9F%87%B8%F0%9F%87%AA
+vless://5fb3ebfe-a998-4ffa-b854-3cffacbb9b67@91.107.241.29:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=94R5Qc5cek_AMwH904kAx4c-HriEjCYUAattL5ZfIXM&fp=chrome&spx=%2F&type=xhttp&sni=amp-api-edge.apps.apple.com&sid=b58b#%40v2raytun_kanfing
+vless://34c6b520-fa66-49e9-a337-b7a6a3af28ba@fin.hostingdayam.com.tr:8447?security=reality&encryption=none&pbk=2vemWMcM5_ONPpHNr0nLE1w2Y90gmwGPRy5vieJjvxA&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=68d2d5f8#%40v2raytun_kanfing
 وصل شدی رای اکشن یادت نره
 ✔️
 جهت خرید سرور
@@ -34,55 +28,46 @@ vless://d896043a-440a-4377-88db-2dac132bc176@adminv2.jikecloud.cc:443?path=%2Fvl
 ‌Link:
 @v2raytun_kanfing
 
-https://t.me/proxy?server=159.69.16.55&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
-وصله دوستان
-⁉️
+🇮🇱
+🚨
+گزارشات از آماده باش سنگین نیروی هوایی ارتش اسرائیل حکایت دارد
+Link:
+@v2raytun_kanfing
+
+#خبر_فوری
+🔴
+ترامپ: اگه به کشور های منطقه حمله کنید تلفات سنگینی میدهید.
+Link:
+@v2raytun_kanfing
 
 🔴
-قیمت جدید چیپس..
+فوری-شلیک موشک از ایران به سمت نیروهای امریکا گزارش میشود
 Link:
 @v2raytun_kanfing
 
-خودشه
+🔴
+فوری-شلیک موشک از ایران به سمت نیروهای امریکا گزارش میشود  Link: @v2raytun_kanfing
+
+⭕️
+هم اکنون گزارش شلیک موشک، از نواحی مرکزی ایران
 Link:
 @v2raytun_kanfing
 
-‏فرويد معتقد بود:
-آنچه را آگاهانه از آن مى‌گريزيم، ناآگاهانه دوباره به سويش مى‌رويم.
-گويى روان، چيزى را كه نتوانسته بفهمد، مدام به صحنه‌ى زندگى باز مى‌گرداند تا شايد اين بار پايان ديگرى برايش بنويسد.
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
+⭕️
+هم اکنون گزارش شلیک موشک، از نواحی مرکزی ایران     Link: @v2raytun_kanfing
+
+تایید شد
+✔️
+
+🔴
+سخنگوی سپاه: امریکا تنبیه میشود
 Link:
 @v2raytun_kanfing
 
-دولینگو اعلام کرده که آزمون زبان این مؤسسه در ایران و برای دارندگان مدارک هویتی ایرانی در دسترس نیست. همزمان گزارش‌هایی از لغو آزمون تافل و عدم اعلام تاریخ‌های تازه برای برگزاری آن در ایران منتشر شده و یعنی دوتا از مهمترین آزمون‌های زبان درحال کنسل شدن هستن.
-link:
+🔴
+اپلیکیشن ایتا یه اپدیت داده که صفر تا صد همه چیزشو مثل تلگرام کردن!!
+خدا رحم کنه....
+Link:
 @v2raytun_kanfing
 
 کانفیگ ویتوری
@@ -96,14 +81,8 @@ link:
 #vpn
 🌐
 🔧
-vless://c4ee7a89-eb01-462c-84d2-67e3fcdd5812@myleto.orangesms.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#%40v2raytun_kanfing
-vless://b4f060fc-a469-4b9a-bf72-cdeecdd94bbc@217.11.164.92:37430?security=reality&encryption=none&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&headerType=none&fp=ios&spx=%2F&type=tcp&sni=amp-api-edge.apps.apple.com#%40v2raytun_kanfing
-vless://1561577b-f504-45e4-b4f4-e07a628a977c@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%40v2raytun_kanfing
-vless://1561577b-f504-45e4-b4f4-e07a628a977c@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40v2raytun_kanfing
-vless://b777cf00-b462-4dd7-9857-dc30151707c8@66.245.207.124:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#%40v2raytun_kanfing
-vless://b777cf00-b462-4dd7-9857-dc30151707c8@66.245.207.124:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#%40v2raytun_kanfing
-vless://b777cf00-b462-4dd7-9857-dc30151707c8@136.244.96.67:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#%40v2raytun_kanfing
-vless://b4f060fc-a469-4b9a-bf72-cdeecdd94bbc@217.11.164.92:37430?security=reality&encryption=none&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&headerType=none&fp=ios&spx=%2F&type=tcp&sni=amp-api-edge.apps.apple.com#%40v2raytun_kanfing
+vless://5fb3ebfe-a998-4ffa-b854-3cffacbb9b67@91.107.241.29:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=94R5Qc5cek_AMwH904kAx4c-HriEjCYUAattL5ZfIXM&fp=chrome&spx=%2F&type=xhttp&sni=amp-api-edge.apps.apple.com&sid=b58b#%40v2raytun_kanfing
+vless://34c6b520-fa66-49e9-a337-b7a6a3af28ba@fin.hostingdayam.com.tr:8447?security=reality&encryption=none&pbk=2vemWMcM5_ONPpHNr0nLE1w2Y90gmwGPRy5vieJjvxA&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=68d2d5f8#%40v2raytun_kanfing
 وصل شدی رای اکشن یادت نره
 ✔️
 جهت خرید سرور
@@ -114,93 +93,47 @@ vless://b4f060fc-a469-4b9a-bf72-cdeecdd94bbc@217.11.164.92:37430?security=realit
 ‌Link:
 @v2raytun_kanfing
 
-‏طرف تو رانندگی وقتی ازش سبقت میگیری دو تا ماشین عقب میوفته کلی فحش و بد و بیراه بهت میگه حالا ببین تو زندگی اگه ازت عقب بیوفته چقدر پشت سرت حرف میزنه...
-پروکسی
-،
-پروکسی
-،
-پروکسی
-✨
-@v2raytun_kanfing
-
-پروکسی تلگرام:
-https://t.me/proxy?server=94.184.32.110.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
-https://t.me/proxy?server=94.184.32.109.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
-https://t.me/proxy?server=94.184.32.108.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
-https://t.me/proxy?server=94.184.32.101.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
-https://t.me/proxy?server=94.184.32.101.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
-https://t.me/proxy?server=94.184.32.108.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
-Link:
-@v2raytun_kanfing
-
-پروکسی
-https://t.me/proxy?server=159.69.16.55&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
-پروکسی  همه اپراتور
-Link:
-@v2raytun_kanfing
-
-واقعا
-Link:
-@v2raytun_kanfing
-
-💠
-ترامپ: ایران می‌خواهد با ما تجارت کند. من با این موضوع موافقم و من از تجارت به‌عنوان ابزاری برای صلح و حل اختلافات استفاده می‌کنم
-Link:
-@v2raytun_kanfing
-
-و خیلی جاهای دیگه...
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
+🚨
+نخست‌وزیر اسرائیل، نتانیاهو:
+ایران سلاح‌های هسته‌ای تولید نخواهد کرد.
+تا زمانی که من نخست‌وزیر هستم، ایران به سلاح‌های هسته‌ای دست نخواهد یافت.
 Link:
 @v2raytun_kanfing
 
 🚨
-🚨
-وزیر انرژی اسرائیل: اسرائیل دوباره به رژیم ایران حمله خواهد کرد حتی اگر آمریکا توافقی امضا کند.
-Link:
-@v2raytun_kanfing
-
-اگه صداوسیما باب اسفنجی میساخت:
+به تمام ارگان های نظامی کشور اماده باش دادن
 Link:
 @v2raytun_kanfing
 
 🚨
-🚨
-🚨
-فوری
-گویا سپاه  الان یک موشک سمت تنگه هرمز شلیک کرد
+آسمان ایران دقایقی هست کلیر کامل شده است.
+Link:
+@v2raytun_kanfing
+
+برخی منابع از شنیده شدن انفجار مجدد در لارک خبر میدهن
+د
 Link:
 @v2raytun_kanfing
 
 🚨
-🚨
-🚨
-فوری گویا سپاه  الان یک موشک سمت تنگه هرمز شلیک کرد  Link: @v2raytun_kanfing
+منابع محلی در بغداد:
+هم اکنون آسمان بغداد مملو از جت های جنگی آمریکایی است که به سرعت و با صدای بسیار بلند در حال حرکت می‌باشند
+.
+Link:
+@v2raytun_kanfing
 
-سپاه یه کشتیو زده
+🚨
+فرودگاه مهرآباد تا اطلاع ثانوی تعطیل شد
+Link:
+@v2raytun_kanfing
+
+پروکسی‌ جدید داشته باشید
+✅
+tg://proxy?server=88.198.78.29&port=8443&secret=dd104462821249bd7ac519130220c25d09
+Link:
+@v2raytun_kanfing
+
+🔴
+فوری-ترامپ: اگر عربها را بزنید٫ حملات شدید به ایران میکنم
+Link:
+@v2raytun_kanfing
