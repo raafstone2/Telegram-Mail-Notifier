@@ -1,21 +1,3 @@
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiJAdjJyYXl0dW5fa2FuZmluZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
-vless://1d2e5805-69c0-4948-861c-57e4f778624e@65.109.176.5:443?security=none&encryption=none&headerType=none&type=tcp#%40v2raytun_kanfing
-vless://1d2e5805-69c0-4948-861c-57e4f778624e@php.paydar.site:443?security=none&encryption=none&headerType=none&type=tcp#%40v2raytun_kanfing
-vless://9f6f094d-0f59-4422-9575-3cfe3d8e0ed2@4de.arosakforosh.ir:9932?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.krmkbckycnkKq29MKnNpZCtkqMKlO9q4svhCzMA5enw&type=ws&flow=xtls-rprx-vision#%40v2raytun_kanfing
-Link:
-@v2raytun_kanfing
-
 🔴
 وزارت خزانه‌داری ایالات متحده، طبق وب‌سایت خود، دور جدیدی از تحریم‌های مرتبط با ایران را صادر کرده است.
 سه شرکت هواپیمایی در فهرست تحریم‌ها قرار گرفتند: ایر شیراز، هواپیمایی جت ASA و هواپیمایی ATA.
@@ -185,4 +167,24 @@ vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality
 @Muhammad_4502
 💳
 ‌Link:
+@v2raytun_kanfing
+
+طلا ۱۸ عیار گرمی: ۲۴٫۰۰۰٫۰۰۰
+دلار تتر: ۲۲۹ هزار تومن
+سکه: ۲۴۰ میلیون تومن
+پروکسی
+|
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+|
+پروکسی
+Link:
 @v2raytun_kanfing
