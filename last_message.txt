@@ -1,121 +1,3 @@
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-vless://00f8cbcc-bf10-418b-a842-35519f460c7f@www.hxino.com:443?path=%2F38284%2Fapi4&security=tls&encryption=mlkem768x25519plus.random.0rtt.bt6vamtdf4jPeuNn2b5eHC7VwnJ4KklEReD_AIAkfT0&insecure=0&host=deh.irandoc.info&fp=firefox&type=httpupgrade&allowInsecure=0&sni=www.hxino.com#%40v2raytun_kanfing
-vless://00f8cbcc-bf10-418b-a842-35519f460c7f@lovesykun.cn:443?path=%2F15753%2Fsocket&security=tls&encryption=none&insecure=0&host=dews.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=lovesykun.cn#%40v2raytun_kanfing
-vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#%40v2raytun_kanfing
-vless://8aae31db-4a64-47e2-9f0e-8e014ae5d995@168.119.103.176:80?security=none&encryption=none&host=www.dell.com&headerType=http&type=tcp#%40v2raytun_kanfing
-vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?security=reality&encryption=none&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&host=status.play.google.com&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=status.play.google.com&sid=5030#%40v2raytun_kanfing
-vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkB2MnJheXR1bl9rYW5maW5nIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#%40v2raytun_kanfing
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-طلا ۱۸ عیار گرمی: ۲۴٫۰۰۰٫۰۰۰
-دلار تتر: ۲۲۹ هزار تومن
-سکه: ۲۴۰ میلیون تومن
-پروکسی
-|
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-|
-پروکسی
-Link:
-@v2raytun_kanfing
-
-وضعیت اینستا و توییتر :
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-🔥
-Link:
-@v2raytun_kanfing
-
-⚠️
-دیتابیسی که ادعا میشه مربوط به کاربران فیلترشکن JumpJump هست، توی یکی از فروم‌های دارک‌وب منتشر شده. منتشرکننده با شناسه leakhunter ادعا کرده این مجموعه فقط شامل اطلاعات معمول کاربران نیست و اطلاعات شخصی و نسبتاً حساسی مثل اطلاعات پرداخت، اطلاعات کارت‌های بانکی، تراکنش‌ها، موجودی، لاگ فعالیت کاربران و اطلاعات دستگاه‌ها رو هم شامل میشه.
-البته فعلاً نمی‌شه صرفاً بر اساس ادعای منتشرکننده با اطمینان گفت تمام این اطلاعات واقعاً متعلق به کاربران JumpJump بوده یا اینکه کل دیتابیس ادعاشده صحت داره، اما درصورت صحت‌سنجی، همین اطلاعات نشون میده جامپ‌جامپ ظاهراً اطلاعات شخصی و جزئیات مختلفی از کاربرانش رو نگهداری می‌کرده، که این نشت می‌تونه برای کاربران دردسرساز بشه.
-اسم JumpJump قبلاً چندین بار در گزارش‌ها بعنوان یک اپ ناامن و مشکوک مطرح شده بود. بنابراین اگر از این فیلترشکن استفاده می‌کنید یا قبلاً استفاده کردید، بهتره موضوع رو جدی بگیرید و حواستون به امنیت اطلاعات خودتون و افرادی که باهاشون در ارتباطین باشه.
-Link:
-@v2raytun_kanfing
-
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#%40v2raytun_kanfing
-vless://a28e4b2d-4792-4594-9ee4-5abcf9d6d167@gr-epfox2.xelfona.ir:20018?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#%40v2raytun_kanfing
-vless://8aae31db-4a64-47e2-9f0e-8e014ae5d995@168.119.103.176:80?security=none&encryption=none&host=www.dell.com&headerType=http&type=tcp#%40v2raytun_kanfing
-vless://a28e4b2d-4792-4594-9ee4-5abcf9d6d167@tr-vipduso.xelfona.ir:2095?path=%2F&security=none&encryption=none&host=play-apps-features.googleusercontent.com&type=httpupgrade#%40v2raytun_kanfing
-trojan://1e0cc178-82ff-8111-42b1-916b4210ca9b@de9w7ehd8ejr9fyd-development-m0t2g.lucity.app:443?path=%2Ftrojan-ws&security=tls&insecure=0&host=de9w7ehd8ejr9fyd-development-m0t2g.lucity.app&fp=chrome&type=ws&allowInsecure=0&sni=de9w7ehd8ejr9fyd-development-m0t2g.lucity.app#%40v2raytun_kanfing
-vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@cz.cloudtechone.org:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.cloudtechone.org&sid=f93c9d5127e622e4#%40v2raytun_kanfing
-vless://a28e4b2d-4792-4594-9ee4-5abcf9d6d167@tr-vipduso.xelfona.ir:2095?path=%2F&security=none&encryption=none&host=play-apps-features.googleusercontent.com&type=httpupgrade#%40v2raytun_kanfing
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FV2rayBaaz&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#%40v2raytun_kanfing
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FV2rayBaaz&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=firefox&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#%40v2raytun_kanfing
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
 ترور امام جمعه پیرانشهر
 🔹️
 سپاه آذربایجان‌غربی از ترور امام جمعه اهل سنت پیرانشهر خبر داد.
@@ -208,3 +90,93 @@ Link:
 ترامپ: حملات بیشتری علیه ایران انجام خواهیم داد.
 Link:
 @v2raytun_kanfing
+
+یه فکت خیلی قوی هست که میگه :
+هر سلول بدن شما در حال شنود افکار شماست. به استرس فکر کنید هورمون های استرس تولید میکنید. به آرامش فکر کنید، ترکیبات شفابخش تولید میکنید.
+ذهن شما قدرتمند ترین داروخانه شماست.
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+Link:
+@v2raytun_kanfing
+
+🚨
+ترور فرمانده ارشد حماس در غزه
+گروه تروریستی حماس کشته‌شدن فراح حامد، از فرماندهان شاخه نظامی این گروه، را در حمله امروز اسرائیل در شهر غزه تأیید کرد
+.
+Link:
+@v2raytun_kanfing
+
+✅️
+Proxy
+https://t.me/proxy?server=116.203.145.184&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
+https://t.me/proxy?server=178.105.9.209&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
+✨
+Link:
+@v2raytun_kanfing
+✨
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://1ab5ef70-14af-428b-bf4b-03889e0a3131@snnsjsowowiwueieyeye.sobu.ir:14779?security=none&encryption=mlkem768x25519plus.native.0rtt.Gu-KSpH9m5bbaKh-CvzzJVA2sMSXuuYYiLL5Q85Rx3o&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#%40v2raytun_kanfing
+vless://1ab5ef70-14af-428b-bf4b-03889e0a3131@snnsjsowowiwueieyeye.sobu.ir:14779?security=none&encryption=mlkem768x25519plus.native.0rtt.Gu-KSpH9m5bbaKh-CvzzJVA2sMSXuuYYiLL5Q85Rx3o&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#%40v2raytun_kanfing
+vless://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.113.202:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#%40v2raytun_kanfing
+vless://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.113.202:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#%40v2raytun_kanfing
+vless://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.111.209:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#Link%3A%20%40v2raytun_kanfing
+vless://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.66.173:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#Link%3A%20%40v2raytun_kanfing
+vless://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.83.49:443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#Link%3A%20%40v2raytun_kanfing
+vless://70e46815-9cae-46e5-8224-d35f6bd7897d@2.26.93.56:443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#Link%3A%20%40v2raytun_kanfing
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ #اکسپلور #فیلترشکن #سرور #V2ray #vpn
+🌐
+🔧
+vless://1ab5ef70-14af-428b-bf4b-03889e0a3131@snnsjsowowiwueieyeye.sobu.ir:14779?security=none&encryption=mlkem768x25519plus.native.0rtt.Gu-KSpH9m5bbaKh-CvzzJVA2sMSXuuYYiLL5Q85Rx3o&host=play…
+
+رای اکشن یادتون نره
+🧑‍🦯
