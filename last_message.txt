@@ -1,3 +1,33 @@
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#%40v2raytun_kanfing
+vless://a28e4b2d-4792-4594-9ee4-5abcf9d6d167@gr-epfox2.xelfona.ir:20018?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#%40v2raytun_kanfing
+vless://8aae31db-4a64-47e2-9f0e-8e014ae5d995@168.119.103.176:80?security=none&encryption=none&host=www.dell.com&headerType=http&type=tcp#%40v2raytun_kanfing
+vless://a28e4b2d-4792-4594-9ee4-5abcf9d6d167@tr-vipduso.xelfona.ir:2095?path=%2F&security=none&encryption=none&host=play-apps-features.googleusercontent.com&type=httpupgrade#%40v2raytun_kanfing
+trojan://1e0cc178-82ff-8111-42b1-916b4210ca9b@de9w7ehd8ejr9fyd-development-m0t2g.lucity.app:443?path=%2Ftrojan-ws&security=tls&insecure=0&host=de9w7ehd8ejr9fyd-development-m0t2g.lucity.app&fp=chrome&type=ws&allowInsecure=0&sni=de9w7ehd8ejr9fyd-development-m0t2g.lucity.app#%40v2raytun_kanfing
+vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@cz.cloudtechone.org:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.cloudtechone.org&sid=f93c9d5127e622e4#%40v2raytun_kanfing
+vless://a28e4b2d-4792-4594-9ee4-5abcf9d6d167@tr-vipduso.xelfona.ir:2095?path=%2F&security=none&encryption=none&host=play-apps-features.googleusercontent.com&type=httpupgrade#%40v2raytun_kanfing
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FV2rayBaaz&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#%40v2raytun_kanfing
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FV2rayBaaz&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=firefox&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#%40v2raytun_kanfing
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
+
 ترور امام جمعه پیرانشهر
 🔹️
 سپاه آذربایجان‌غربی از ترور امام جمعه اهل سنت پیرانشهر خبر داد.
@@ -169,14 +199,3 @@ vless://70e46815-9cae-46e5-8224-d35f6bd7897d@2.26.93.56:443?security=reality&enc
 💳
 ‌Link:
 @v2raytun_kanfing
-
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ #اکسپلور #فیلترشکن #سرور #V2ray #vpn
-🌐
-🔧
-vless://1ab5ef70-14af-428b-bf4b-03889e0a3131@snnsjsowowiwueieyeye.sobu.ir:14779?security=none&encryption=mlkem768x25519plus.native.0rtt.Gu-KSpH9m5bbaKh-CvzzJVA2sMSXuuYYiLL5Q85Rx3o&host=play…
-
-رای اکشن یادتون نره
-🧑‍🦯
