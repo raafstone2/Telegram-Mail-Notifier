@@ -1,32 +1,3 @@
-🔴
-جدیدا به کمک دوربین‌های شهری داخل اصفهان هر دختری بی‌حجاب باشه شناسایی میشه و از طریق کد ملیش، تمام سیمکارت‌هاش مسدود میشه.
-Link:
-@v2raytun_kanfing
-
-ایران جای عجیبیه، مثلا ۸ صبح پنچر می‌شی ‌و یه نفر خیلی رندوم میاد کمکت زیر پنج دقیقه لاستیکو باهم عوض می‌کنید دوتا نون قندیم بهت می‌ده و می‌ره.
-پروکسی
-•
-پروکسی
-•
-پروکسی
-•
-پروکسی
-•
-پروکسی
-•
-پروکسی
-•
-پروکسی
-•
-پروکسی
-•
-پروکسی
-•
-پروکسی
-•
-Link:
-@v2raytun_kanfing
-
 احترام بزرگتر واجبه
 Link:
 @v2raytun_kanfing
@@ -234,4 +205,70 @@ Link:
 تأسیسات نفتی
 در مسکو، جنگ جهانی سوم رخ خواهد داد.
 Link:
+@v2raytun_kanfing
+
+عشق هنرِ از بین بردنِ «من»
+و رها کردنِ غرور است؛
+جایی که دیگر خودت را بر دیگری برتر نمی‌دانی
+و یاد می‌گیری با دل، نه با غرور، دوست بداری.
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+Link:
+@v2raytun_kanfing
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://c4107be5-6cf0-8e55-7913-f45b832d6da8@turkey.hosting-96.ir:2242?security=reality&encryption=none&pbk=u8Lf72dhxHTC-UIxj9BlZTW52UiyjP-DfqssndWZI24&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=google-analytics.com&sid=82e62428#Link%3A%20%40v2raytun_kanfing%E2%9D%A4
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.161.15:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=nvidia.com&sid=db04ce8bdb8900f1#%40v2raytun_kanfing
+vless://7b571245-ec1e-44b1-bb5a-f7c61157d2c4@201.7.25.208:443?security=reality&encryption=none&pbk=VfyS9hoKlYU2l3oZ-T6RN2JzjWgtrIC7-VjseHCeBGE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ee.api-yandex.net&sid=0f4dacf33211e04f#%40v2raytun_kanfing
+vless://1397981f-401f-4896-a60c-898b359f4bde@us.1905vpn.ru:443?security=reality&encryption=none&pbk=J8BwNe_VefsV7CU7NVyCSAXiOGqA_juUdifl1f0NIQg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us.1905vpn.ru&sid=9292a8cb3ba284d3#%40v2raytun_kanfing
+vless://521b29e7-8ce0-0012-a210-79069f701464@82.40.62.92:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#%40v2raytun_kanfing
+vless://1ea57f1c-8a54-0012-a611-a6d6fe26d42a@82.40.62.92:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#%40v2raytun_kanfing
+vless://7451a133-ca03-0012-b783-36449767dc13@82.40.62.92:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#%40v2raytun_kanfing
+trojan://MiTIVPN@199.232.78.101:443?path=%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2Fdes---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40v2raytun_kanfing
+vless://026f58a9-b36e-4204-8f8d-54c5374163da@84.32.177.74:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=app.betust.net&sid=ef5d4ad5#%40v2raytun_kanfing
+trojan://MiTIVPN@199.232.78.160:443?path=%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2Fdes---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40v2raytun_kanfing
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
 @v2raytun_kanfing
