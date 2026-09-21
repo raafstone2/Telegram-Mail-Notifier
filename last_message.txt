@@ -1,87 +1,4 @@
 🔴
-نگرانی‌ها از احتمال آغاز قریب‌الوقوع جنگ جهانی سوم به اوج خود رسیده است.
-Link:
-@v2raytun_kanfing
-
-🔴
-فوری
-روسیه اعلام کرد در حال گردآوری شواهدی است که نشان می‌دهد در صورت دخالت رهبران اروپایی در حمله به
-تأسیسات نفتی
-در مسکو، جنگ جهانی سوم رخ خواهد داد.
-Link:
-@v2raytun_kanfing
-
-عشق هنرِ از بین بردنِ «من»
-و رها کردنِ غرور است؛
-جایی که دیگر خودت را بر دیگری برتر نمی‌دانی
-و یاد می‌گیری با دل، نه با غرور، دوست بداری.
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-Link:
-@v2raytun_kanfing
-
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-vless://c4107be5-6cf0-8e55-7913-f45b832d6da8@turkey.hosting-96.ir:2242?security=reality&encryption=none&pbk=u8Lf72dhxHTC-UIxj9BlZTW52UiyjP-DfqssndWZI24&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=google-analytics.com&sid=82e62428#Link%3A%20%40v2raytun_kanfing%E2%9D%A4
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.161.15:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=nvidia.com&sid=db04ce8bdb8900f1#%40v2raytun_kanfing
-vless://7b571245-ec1e-44b1-bb5a-f7c61157d2c4@201.7.25.208:443?security=reality&encryption=none&pbk=VfyS9hoKlYU2l3oZ-T6RN2JzjWgtrIC7-VjseHCeBGE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ee.api-yandex.net&sid=0f4dacf33211e04f#%40v2raytun_kanfing
-vless://1397981f-401f-4896-a60c-898b359f4bde@us.1905vpn.ru:443?security=reality&encryption=none&pbk=J8BwNe_VefsV7CU7NVyCSAXiOGqA_juUdifl1f0NIQg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us.1905vpn.ru&sid=9292a8cb3ba284d3#%40v2raytun_kanfing
-vless://521b29e7-8ce0-0012-a210-79069f701464@82.40.62.92:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#%40v2raytun_kanfing
-vless://1ea57f1c-8a54-0012-a611-a6d6fe26d42a@82.40.62.92:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#%40v2raytun_kanfing
-vless://7451a133-ca03-0012-b783-36449767dc13@82.40.62.92:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#%40v2raytun_kanfing
-trojan://MiTIVPN@199.232.78.101:443?path=%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2Fdes---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40v2raytun_kanfing
-vless://026f58a9-b36e-4204-8f8d-54c5374163da@84.32.177.74:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=app.betust.net&sid=ef5d4ad5#%40v2raytun_kanfing
-trojan://MiTIVPN@199.232.78.160:443?path=%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2Fdes---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40v2raytun_kanfing
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-آدم فضایی اومده
-Link:
-@v2raytun_kanfing
-
-🔴
 در مشهد نیز دیده شد
 معلوم نیست چیه
 بادکنکه
@@ -271,6 +188,97 @@ vless://416cea75-4802-43b1-8f31-c7fa1e211a6a@185.20.137.118:443?security=reality
 vless://416cea75-4802-43b1-8f31-c7fa1e211a6a@206.1.97.61:443?security=reality&encryption=none&pbk=GFREEsH4rFLnXKDLKXk0iTZNP5_d1zfKTj8DUE0L6RE&headerType=none&fp=chrome&type=tcp&sni=Miro.com&sid=d7397feef49deef9#%40v2raytun_kanfing
 وصل شدی رای اکشن یادت نره
 ✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
+
+کانفیگ OPEN VPN
+🎁
+سرعت موشکی و وحشیانه
+🚀
+🔥
+یوزر و حجم نامحدود
+🌟
+اگه ارور داد دو سه بار روی Retry بزنید
+⚠️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
+
+🔺
+سیروس ابراهیم زاده درگذشت
+خانه سینما:
+🔹
+«سیروس ابراهیم زاده» بازیگر پیشکسوت سینما و تئاتر پس از تحمل یک دوره بیماری دور از وطن درگذشت.
+🔹
+وی در فیلم‌هایی همچون: کمال‌الملک، هتل کارتن، شمعی در باد، مسافر ری، چهره، همسر، تحفه‌ها، مجسمه و ... نقش آفرینی داشته است.
+‌Link:
+@v2raytun_kanfing
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://2be98d5e-6eed-445d-aef4-9c776fdd03af@5.78.28.48:80?security=reality&encryption=none&pbk=u42o3SnK9nE0nEUNd1JREM03dsT7N_c-m2rECXFCCHg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=5.78.159.97&sid=ed87fb8386bbbbe5#%40v2raytun_kanfing
+vless://026f58a9-b36e-4204-8f8d-54c5374163da@188.225.77.241:443?security=reality&encryption=none&pbk=YczbievYAOeZIypa58aRpil6XbfdyifK_0cFJWn8-yg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.betust.net&sid=d6c172d3#%40v2raytun_kanfing
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40v2raytun_kanfing
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#%40v2raytun_kanfing
+vless://1e6fed5b-5edc-4ddb-a268-79d7fae4365c@67.159.17.62:443?security=reality&encryption=none&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=filesconvert.org&sid=10debbdf94767541#%40v2raytun_kanfing
+vless://026f58a9-b36e-4204-8f8d-54c5374163da@188.225.57.78:443?security=reality&encryption=none&pbk=NCW-zK60GXsiDdlbxww18Pqp4kz3zTG1URHWS_bnfDk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=app4.betust.net&sid=3f7e0363#%40v2raytun_kanfing
+vless://026f58a9-b36e-4204-8f8d-54c5374163da@app16.betust.net:443?security=reality&encryption=none&pbk=KLLLqRfvP1K9ul0JfmHAaLS4EtUfj0gbngRgjsOWMB0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=app16.betust.net&sid=ff9ec6f5#%40v2raytun_kanfing
+vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@de3.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=de3.edge-9d7c.com&sid=9d84de9d9f7b85e9#%40v2raytun_kanfing
+vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@de2.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=de2.edge-9d7c.com&sid=9d84de9d9f7b85e9#%40v2raytun_kanfing
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
+
+کانفیگ OPEN VPN
+🎁
+سرعت موشکی و وحشیانه
+🚀
+🔥
+یوزر و حجم نامحدود
+🌟
+اگه ارور داد دو سه بار روی Retry بزنید
+⚠️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
+
+کانفیگ OPEN VPN
+🎁
+سرعت موشکی و وحشیانه
+🚀
+🔥
+یوزر و حجم نامحدود
+🌟
+اگه ارور داد دو سه بار روی Retry بزنید
+⚠️
 جهت خرید سرور
 👇
 👇
