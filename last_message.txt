@@ -1,115 +1,3 @@
-#خبر_فوری
-#مهم
-🚨
-🚨
-🚨
-در پی درگیری مسلحانه در بین مرز ایران و پاکستان شش تن از نیرو های جمهوری اسلامی تاکنون به هلاکت و تعدادی نیز زخمی شدند.
-Link:
-@v2raytun_kanfing
-
-🔴
-یک مقام ارشد اسرائیلی:
-ما در حال آماده‌سازی برای تشدید گسترده تنش‌ها در [خلیج فارس] هستیم و ممکن است اسرائیل نیز در آن درگیر شود.
-Link:
-@v2raytun_kanfing
-
-🔴
-روزنامه نگار اماراتی: اتفاقی عظیم در راه است؛ حرکتی تاریخی و بی‌سابقه.
-آماده باشید.
-Link:
-@v2raytun_kanfing
-
-تو که نیستی گره‌های هندزفریم وا نمیشه
-تو که نیستی سرِ چسب نواری پیدا نمیشه
-بی تو نسخه‌ی ضعیفِ منو می بینن همه
-دستِ من حریفِ شیشه‌ی مربا نمیشه
-تو که نیستی اول صبح عینکم گم میشه
-تو که نیستی شوخی‌هام سوءتفاهم میشه
-من یه جوری از نبودن تو غمگینم که
-خودِ غم باهام رقابت کنه دوم میشه
-تو که نیستی همه‌ی دنیا روی اعصاب منه
-انگاری نور بالای ماشینِ پُشتی روشنه
-انگاری یه مژه افتاده باشه توی چشام
-انگاری کفشِ جدیدم داره پامو میزنه
-انگاری که سرد و گرم میشه همش آب حموم
-انگار استخون ماهی گیر کرده توی گلوم
-انگار انگشت کوچیکم خورده به پایه‌ی مبل
-انگاری یه بخشِ پاهامو نپوشونده پتوم
-من یه بچه‌ام که توی یارکشی تنها مونده
-دانش آموزی که مشقاش تو خونه جا مونده
-منم اون که قبلِ یه قرارِ کاری مهم
-یهو می بینه اتو پیرهنشو سوزونده.
-✎ محمد کلار
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-Link:
-@v2raytun_kanfing
-
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@de3.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de3.edge-9d7c.com&sid=9d84de9d9f7b85e9#%40v2raytun_kanfing
-vless://5ddab4ff-c200-47e3-bee6-827f57eeba7b@66.33.22.241:48002?path=%2F&security=none&encryption=none&type=ws#%40v2raytun_kanfing
-vless://e48e4377-1f29-485b-80d4-85fd4fa27bfa@5.175.161.143:443?security=reality&encryption=none&pbk=arisCHgQjf_nE3Nei0IyrtTpTNQRQWEqRs3C24yORnY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bmw.com&sid=6de6f68cb1f8041c#%40v2raytun_kanfing
-vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@104.194.134.23:443?security=reality&encryption=none&pbk=USxaWDRKvJlZ-aHR-OGBT2XwVas2j4_1rhZCCfVNCBY&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#%40v2raytun_kanfing
-vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@136.148.71.4:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de2.edge-9d7c.com&sid=9d84de9d9f7b85e9#%40v2raytun_kanfing
-vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40v2raytun_kanfing
-vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@89.106.88.22:20443?security=reality&encryption=none&pbk=-AdhgMZeNHR2zAmGWa5peg7Ni0-e4IVMoSzydC9n7C4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dest1.cdn-update.rutube.info&sid=08#%40v2raytun_kanfing
-vless://4f8a1d19-4d21-47f5-816e-a8f475fbd3f7@31.57.18.56:443?security=reality&encryption=none&pbk=qPgl3LmKAKs5K-KzGNRJyr5KTO0KoRNN5m2PTCMscXU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=srv-waw.kintecolas.com&sid=22f534c530d37170#%40v2raytun_kanfing
-vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?mode=gun&security=reality&encryption=none&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&fp=firefox&type=grpc&serviceName=grpc-common3&sni=www.nvidia.com&sid=52add08b86a5ccea#%40v2raytun_kanfing
-﻿
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-کانفیگ OPEN VPN
-🎁
-سرعت موشکی و وحشیانه
-🚀
-🔥
-Link:
-@v2raytun_kanfing
-
 کانفیگ اوپن‌وی‌پی‌ان
 🌐
 سرعت موشکی و وحشیانه
@@ -321,3 +209,69 @@ Link:
 فعلا برای بقیه شهرستان ها تصمیم گیری نشده است و اگر اعلام شد در همین کانال اطلاع رسانی خواهیم کرد.
 Link:
 @v2raytun_kanfing
+
+دوستان عزیز، واقعاً کانفیگ و اینا جوابگو نیست
+🤷‍♂️
+و پروکسی هم منطقه‌ای شده
+📉
+برای اینکه بتونید راحت‌تر از اینترنت استفاده کنید، اوپن‌وی‌پی‌ان براتون می‌سازم
+🚀
+Link:
+@v2raytun_kanfing
+
+OPEN VPN
+🎁
+سرعت دار
+⚡️
+موشکی
+🚀
+اگه ارور داد دو سه بار روی Retry بزنید
+⚠️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
+
+کانفیگ OPEN VPN
+سرعت موشکی و وحشیانه
+🚀
+🔥
+یوزر و حجم نامحدود
+🌟
+اگه ارور داد دو سه بار روی Retry بزنید
+⚠️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
+
+کانفیگ OPEN VPN
+سرعت موشکی و وحشیانه
+🚀
+🔥
+یوزر و حجم نامحدود
+🌟
+اگه ارور داد دو سه بار روی Retry بزنید
+⚠️
+‌Link:
+@v2raytun_kanfing
+
+کانفیگ OPEN VPN
+سرعت موشکی و وحشیانه
+🚀
+🔥
+یوزر و حجم نامحدود
+🌟
+اگه ارور داد دو سه بار روی Retry بزنید
+⚠️
+‌Link:
+@v2raytun_kanfing
+
+دیگه رای اکشنا با خودتون
+🙂
