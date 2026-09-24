@@ -1,43 +1,3 @@
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-vless://974f2c7e-a292-4207-8315-ef4151bdca41@147.45.148.6:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#%40v2raytun_kanfing
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@45.95.96.236:443?security=reality&encryption=none&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gesmankos.sadiepinki.com&sid=4fa44664f6a566d3#%40v2raytun_kanfing
-vless://11f21602-47aa-42e2-9149-69120f2e6df6@31.56.184.132:8443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=bzbe7QdD633ew_Er1_YWEhuCEHWurmDpxpz3fRzXr0A&fp=firefox&type=grpc&serviceName=shiforgrpc&sni=cloudflare.com&sid=b4e3b0b55b8dc75b#%40v2raytun_kanfing
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-📡
-OpenVPN | CONFIG #435
-⚡
-Fast • Stable • Low Ping
-🎮
-Optimized for Gaming & Daily Use
-🔐
-Secure & Reliable Connection
-🚀
-Smooth Performance • Better Stability
-🔄
-Getting a Retry error?
-Simply tap Retry 4–5 times and it should connect.
-💙
-Enjoy the connection & stay connected!
-╰➤ Link:
-@v2raytun_kanfing
-
 📡
 OpenVPN
 ⚡
@@ -309,5 +269,65 @@ OpenVPN | تنظیمات #435
 واقعا مرسی بابت زحمتتون
 🙏
 
-رای اکشنا با خودتون
-🦚
+پنیک اتک چیست؟
+پنیک اتک واکنشی ناگهانی و شدید از سوی سیستم عصبی است که گاهی بدون وجود خطر واقعی رخ می‌دهد. در این حالت، مغز تصور می‌کند بدن در معرض تهدید قرار گرفته و سیستم «جنگ یا گریز» را فعال می‌کند.
+افزایش ضربان قلب، تنگی نفس، لرزش، تعریق، سرگیجه و احساس ترس شدید از جمله علائم آن هستند.
+به زبان ساده، پنیک اتک زمانی است که مغز زنگ خطر را به صدا درمی‌آورد، در حالی که خطری واقعی وجود ندارد.
+در واقع پنیک اتک یعنی: جنگ میان ذهنی که می‌خواهد دوام بیاورد و بدنی که دیگر تحمل ادامه ندارد.
+پروکسی
+•
+پروکسی
+•
+پروکسی
+•
+پروکسی
+•
+پروکسی
+•
+پروکسی
+•
+پروکسی
+•
+پروکسی
+•
+پروکسی
+•
+پروکسی
+•
+Link:
+@v2raytun_kanfing
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://721bacfe-ff09-4e63-a735-686015bc1351@nl-xh02.tcp-reset-club.net:8443?mode=stream-one&path=%2Fassets%2Fv2%2Fpkg&security=reality&encryption=none&extra=%7B%0A%20%20%22xmux%22%3A%20%7B%0A%20%20%20%20%22maxConcurrency%22%3A%20%2216-32%22%0A%20%20%7D%0A%7D&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&fp=chrome&type=xhttp&sni=s3.netavex.com&sid=e0#%40v2raytun_kanfing
+vless://721bacfe-ff09-4e63-a735-686015bc1351@nl-xh02.tcp-reset-club.net:8443?mode=stream-one&path=%2Fassets%2Fv2%2Fpkg&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%7D%7D&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&fp=chrome&type=xhttp&sni=s3.netavex.com&sid=e0#%40v2raytun_kanfing
+vless://721bacfe-ff09-4e63-a735-686015bc1351@nl-xh02.tcp-reset-club.net:8443?mode=stream-one&path=%2Fassets%2Fv2%2Fpkg&security=reality&encryption=none&extra=%7B%0A%20%20%22xmux%22%20%3A%20%7B%0A%20%20%20%20%22maxConcurrency%22%20%3A%20%2216-32%22%0A%20%20%7D%0A%7D&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&type=xhttp&sni=s3.netavex.com&sid=e0#%40v2raytun_kanfing
+vless://622cd467-ae00-4afe-b7ee-15dca6b9649a@a2.arshia-nova.ir:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40v2raytun_kanfing
+vless://721bacfe-ff09-4e63-a735-686015bc1351@nl-xh02.tcp-reset-club.net:8443?mode=stream-one&path=%2Fassets%2Fv2%2Fpkg&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%7D%7D&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&type=xhttp&sni=s3.netavex.com&sid=e0#%40v2raytun_kanfing
+vless://d7f23d5e-87c9-4686-bfc1-9b68a90b6304@grpmin.esterla.ir:443?security=reality&encryption=none&pbk=OmkXD1dMbfqjeIWqknjlLL2n02LEZWEofWwMN5S-K0g&headerType=none&type=tcp&sni=www.cloudflare.com&sid=d0c1#%40v2raytun_kanfing
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0#%40v2raytun_kanfing%E2%81%B9
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%40v2raytun_kanfing%E2%81%B8
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#%40v2raytun_kanfing%E2%81%B7
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@51.38.127.93:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%40v2raytun_kanfing%E2%81%B6
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%40v2raytun_kanfing%E2%81%B5
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%40v2raytun_kanfing%E2%81%B4
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%40v2raytun_kanfing%C2%B3
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@gesmankos.sadiepinki.com:443?security=reality&encryption=none&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sid=4fa44664f6a566d3#%40v2raytun_kanfing%C2%B2
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
