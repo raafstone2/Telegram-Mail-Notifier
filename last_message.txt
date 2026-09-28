@@ -1,72 +1,3 @@
-ترکید
-م
-Link:
-@v2raytun_kanfing
-
-🔴
-دو نماینده مجلس به وزیر ارتباطات تذکر دادن؛ اینترنت ملی رو تقویت کنید!
-در نشست علنی امروز، یکشنبه ۵ مهرماه، دو نماینده مجلس(رمضان رحیمی دشتلویی و ابراهیم رضایی) به وزیر ارتباطات تذکر دادن و خواستار فراهم شدن بستر «اینترنت ملی» شدن.
-Link:
-@v2raytun_kanfing
-
-گزارش قطعی اینترنت
-در برخی مناطق قطع و برخی جاها ملی شد
-Link:
-@v2raytun_kanfing
-
-سپاه دومین فروند زیردریایی ارتش آمریکا را در تنگه هرمز توقیف کرد
-Link:
-@v2raytun_kanfing
-
-🔴
-حاتمی، فرمانده ارتش
-اگر ایران نتواند تجارت کند و نتواند به حیات خود ادامه دهد، هیچ‌کس دیگری نیز قادر به تجارت یا زندگی نخواهد بود.
-تنگه هرمز، تنگه عزت و شرف ماست و اجازه داده نخواهد شد که دشمنان کشور از این گلوگاه راهبردی و حیاتی استفاده کنند، در حالی که ملت ایران از آن محروم مانده است.
-Link:
-@v2raytun_kanfing
-
-📸
-🔺
-از هفته‌ ی آینده دمای هوا ۲۰ درجه سردتر میشه و از دو هفته ی آینده پدیده ی ال نینو وارد ایران میشه و بارش باران و برف به شکل بی سابقه در ۱۰۰ سال گذشته تو ایران رخ خواهد داد.
-Link:
-@v2raytun_kanfing
-
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-vless://66fb823b-3de8-45a3-9060-1dc992c38cc9@188.114.97.6:80?path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&security=none&encryption=none&host=msjsi.azazilvpn.sbs.&type=ws#%40server_%40v2raytun_kanfing
-trojan://MiTiVPN@167.82.76.7:443?path=%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2FNLSs---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---us--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%E2%81%B4%F0%9F%87%A9%F0%9F%87%AA%40v2raytun_kanfing
-trojan://MiTiVPN@151.101.56.9:443?path=%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2FNLSus---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN%2F---%40GHOFLSHCAN---%40GHOFLSHCAN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%E2%81%B5%F0%9F%87%A9%F0%9F%87%AA%40v2raytun_kanfing
-trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%B0%40v2raytun_kanfing
-vless://721bacfe-ff09-4e63-a735-686015bc1351@ro-xh02.tcp-reset-club.net:8443?mode=stream-one&path=%2Fassets%2Fv2%2Fpkg&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%7D%7D&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&type=xhttp&sni=s3.netavex.com&sid=e0#%F0%9F%87%A8%F0%9F%87%A6%F0%9F%87%A8%F0%9F%87%A6%40v2raytun_kanfing
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@185.171.202.106:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fra2.loozerp.wiki&sid=ff776ff77be48b88#%F0%9F%87%A8%F0%9F%87%B5%F0%9F%87%A8%F0%9F%87%B5%40v2raytun_kanfing
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@51.38.127.93:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%40v2raytun_kanfing
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@185.171.202.105:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fra.loozerp.wiki&sid=ff776ff77be48b88#%40v2raytun_kanfing
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-پروکسی های متصل
-https://t.me/proxy?server=167.233.18.129&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
-https://t.me/proxy?server=91.107.141.165&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
-https://t.me/proxy?server=167.233.30.194&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
-Link:
-@v2raytun_kanfing
-
 پروکسی
 |
 پروکسی
@@ -211,3 +142,85 @@ vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.140.238.157:31870?security=reali
 💳
 ‌Link:
 @v2raytun_kanfing
+
+تحقیقات جدید میگن تنهایی و انزوای اجتماعی می‌تونه به‌طور میانگین تا ۶ سال از سال‌های زندگی کم کنه.
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+Link:
+@v2raytun_kanfing
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@195.189.98.120:443?mode=gun&security=reality&encryption=none&pbk=SiyX5MHMfE_232cYFpidAhU4eBxaoNphSSnNbVc1xnc&fp=firefox&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=085f6d90#%40v2raytun_kanfing
+vless://6b1c48bc-55d3-43ee-90d4-7b8404e05e52@178.104.219.134:9443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40v2raytun_kanfing
+vless://1a64c956-522f-44ea-8e7e-f4a909a40ec5@167.233.182.218:80?path=%2F&security=none&encryption=none&type=ws#%40v2raytun_kanfing
+vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@188.225.25.142:443?security=reality&encryption=none&pbk=SxbaWzlvE_HQqqsA4PNX2PFcSYXTVE2nZlgLc7cPOgk&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=prime.betust.net&sid=8681edc9#%40v2raytun_kanfing
+vless://22463619-febd-448f-9889-1fe364279936@nlwest.gursub.com:443?security=reality&encryption=none&pbk=0KcIyj_hTGVU4xfPYqqvc24ESyOCQ1hq7Gsrtb_ZdAM&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=nlwest.gursub.com&sid=998548aced4f57e6#%40v2raytun_kanfing
+vless://5dff1842-c02f-4dd4-b1ad-2e597b99dc31@sp66.mech-pro.online:443?security=reality&encryption=none&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sp66.mech-pro.online&sid=16e0f049#%40v2raytun_kanfing
+vless://ID%20TEL%20%3A%20V2XNET@199.232.78.101:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=imcreeprddde43e.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#%E2%80%8E%F0%9F%9B%B0%EF%B8%8F%20%40v2raytun_kanfing
+vless://de178eba-d2c0-419b-849c-d66dcc0c0e3d@91.107.191.110:443?security=reality&encryption=none&pbk=AUlUBgfu10aO2aTaT-YwKbdh00NU1SP4uzZVt6Q0Th8&headerType=none&fp=firefox&spx=%2F583c1d205c1b22e&type=tcp&sni=es-us.vida-estilo.yahoo.com&sid=ee93f78385e68258#%40v2raytun_kanfing
+vmess://eyJhZGQiOiIzMS43Ny44Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQyZDg2MDFiLWMxNGItNDJjNi1iOGVhLTMzODg5YmNlMTUyYSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJAdjJyYXl0dW5fa2FuZmluZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+vless://de178eba-d2c0-419b-849c-d66dcc0c0e3d@91.107.191.110:443?security=reality&encryption=none&pbk=AUlUBgfu10aO2aTaT-YwKbdh00NU1SP4uzZVt6Q0Th8&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&spx=%2F583c1d205c1b22e&type=tcp&sni=es-us.vida-estilo.yahoo.com&sid=ee93f78385e68258#%40v2raytun_kanfing
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=edgetunnel-4uw.pages.dev&type=ws&allowInsecure=0&sni=edgetunnel-4uw.pages.dev#%40v2raytun_kanfing
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.247.31:9844?mode=gun&security=reality&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#%40v2raytun_kanfing
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
+
+Config Open vpn
+📱
+Link:
+@v2raytun_kanfing
+
+Config Open vpn
+📱
+Link:
+@v2raytun_kanfing
+
+Config Open vpn
+📱
+Link:
+@v2raytun_kanfing
+
+رای اکشنا دیگه با خودتون
