@@ -1,34 +1,3 @@
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-Link:
-@v2raytun_kanfing
-
 رادار : اینترنت زیتل برای برخی کاربران ملی شد!
 بر اساس گزارش‌های دریافتی، اینترنت زیتل برای برخی کاربران با اختلال مواجه شده و دسترسی به اینترنت بین‌الملل محدود یا قطع شده است؛ در حالی که دسترسی به سرویس‌های داخلی همچنان برقرار است.
 پیش‌تر نیز گزارش‌هایی از بروز وضعیت مشابه برای برخی کاربران
@@ -223,4 +192,64 @@ Config Open vpn
 Link:
 @v2raytun_kanfing
 
-رای اکشنا دیگه با خودتون
+صبتون بخیر
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+🔥
+Link:
+@v2raytun_kanfing
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://6b1c48bc-55d3-43ee-90d4-7b8404e05e52@178.104.219.134:9443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40v2raytun_kanfing
+vless://6b1c48bc-55d3-43ee-90d4-7b8404e05e52@178.104.219.134:9443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40v2raytun_kanfing
+vless://db174379-5712-458a-bb3a-c688a9c9ff61@167.82.76.31:80?mode=packet-up&path=%2F&security=none&encryption=none&host=chchibie98ik.global.ssl.fastly.net&type=xhttp#%40v2raytun_kanfing
+vless://db174379-5712-458a-bb3a-c688a9c9ff61@151.101.56.6:80?path=%2FParSashOnaM%3Fed%3D2048&security=none&encryption=none&host=Zardaloo.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40v2raytun_kanfing
+vless://db174379-5712-458a-bb3a-c688a9c9ff61@199.232.78.159:80?path=%2FParSashOnaM%3Fed%3D2048&security=none&encryption=none&host=Zardaloo.global.ssl.fastly.net&type=ws#%40v2raytun_kanfing
+vless://b7bd69ff-4bc6-565c-89aa-f0fe7fcd8110@auto.claudpath.com:8443?mode=stream-one&path=%2Fxhttp&security=reality&encryption=none&pbk=ZbhM6UKoxyC9hztiqwBSi9f6wcALENfoNADKENSbIUM&fp=chrome&type=xhttp&sni=cdn9-15.cachemesh.top&sid=de3eb7d4#%F0%9F%87%AC%F0%9F%87%AA%40v2raytun_kanfing
+vless://5dff1842-c02f-4dd4-b1ad-2e597b99dc31@sp35.mech-pro.online:443?security=reality&encryption=none&pbk=azv9I1WcbDAga3vWg62KSaRi1eRwZsDU4tg3T63al1o&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sp35.mech-pro.online&sid=3ea0e22c#%40v2raytun_kanfing
+vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@195.189.98.120:443?mode=gun&security=reality&encryption=none&pbk=SiyX5MHMfE_232cYFpidAhU4eBxaoNphSSnNbVc1xnc&fp=firefox&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=085f6d90#%F0%9F%87%B3%F0%9F%87%B1%40v2raytun_kanfing
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
