@@ -3,11 +3,6 @@ Config Open vpn
 Link:
 @v2raytun_kanfing
 
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
 پروکسی های متصل
 https://t.me/proxy?server=178.104.219.134&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
 https://t.me/proxy?server=91.107.141.165&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
@@ -215,4 +210,33 @@ Link:
 Config Open vpn
 📱
 Link:
+@v2raytun_kanfing
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?security=reality&encryption=none&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=8d66106f#%40v2raytun_kanfing
+ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%40v2raytun_kanfing
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40v2raytun_kanfing
+vmess://eyJhZGQiOiI2Ni4xNjMuMTEzLjE3NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJAdjJyYXl0dW5fa2FuZmluZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%40v2raytun_kanfing
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#%40v2raytun_kanfing
+vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#%40v2raytun_kanfing
+vless://82f37352-85e5-49bb-9edc-a80997065659@83.168.95.145:443?security=reality&encryption=none&pbk=AcuvO982QLzf76fVydfSuJIiF5520rmj7AxpaxyRwUg&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=d345ad4657adeef9#%40v2raytun_kanfing%20%20%F0%9F%87%A9%F0%9F%87%AA
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
 @v2raytun_kanfing
