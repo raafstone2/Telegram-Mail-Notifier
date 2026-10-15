@@ -1,9 +1,3 @@
-پروکسی
-https://t.me/proxy?server=46.225.224.176&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
-https://t.me/proxy?server=46.225.116.155&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
-Link:
-@v2raytun_kanfing
-
 📸
 🔺
 انتشار تصاویر خصوصی مراسم عروسی
@@ -322,13 +316,16 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:
 ‌Link:
 @v2raytun_kanfing
 
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ #اکسپلور #فیلترشکن #سرور #V2ray #vpn
-🌐
-🔧
-trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2F---%40MetiVIP---%40MetiVIP%2Fdes…
+همراه اول
+Link:
+@v2raytun_kanfing
 
-رای اکشن نداره
-🫥
+ایرانسل
+Link:
+@v2raytun_kanfing
+
+پروکسی
+https://t.me/proxy?server=46.225.224.176&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+https://t.me/proxy?server=46.225.116.155&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+Link:
+@v2raytun_kanfing
