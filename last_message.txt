@@ -1,95 +1,3 @@
-🔴
-کارشناس جنگ در صداوسیما: نبرد عاشورایی نزدیک است
-Link:
-@v2raytun_kanfing
-
-🔴
-به نیروهای نظامی برای جمعه شب اماده باش کامل داده اند
-Link:
-@v2raytun_kanfing
-
-🔴
-فاکس نیوز: حمله با بمب مادر به تهران٫ کل تهران خواهد لرزید
-Link:
-@v2raytun_kanfing
-
-🔴
-ابلاغیه «ایست بازرسی» در تمام شهرها اعلام شد
-Link:
-@v2raytun_kanfing
-
-عجیب اما واقعی
-🇮🇷
-🇱🇧
-لبنان مجوز فعالیت بانک صادرات رو لغو کرد.
-‼️
-⠀
-Link:
-@v2raytun_kanfing
-
-🔴
-🚨
-🚨
-یک اکانت اسرائیلی با انتشار این کلیپ و کپشن نوشت:
-امشب شب بدی برای ایران هست
-برای ارتش ایالات متحده دعا کنید
-Link:
-@v2raytun_kanfing
-
-#خبر_فوری
-🚨
-🚨
-🚨
-تحرکات خودرو های زرهی و تانک‌ ها در جنوب غربی ایران نزدیک مرز عراق
-Link:
-@v2raytun_kanfing
-
-کانفیگ ویتوری
-✨
-✨
-#کانفیگ
-#اکسپلور
-#فیلترشکن
-#سرور
-#V2ray
-#vpn
-🌐
-🔧
-vless://a2906e58-0488-4347-9bbe-95eb6be41784@s1-pan.redmbred.ir:20699?security=none&encryption=none&headerType=none&type=tcp#%40v2raytun_kanfing
-vless://e829b2ab-4473-460f-9f04-04ac7366fe38@167.82.76.27:80?mode=auto&path=%2F&security=none&encryption=none&host=tuhkoiizizwrwip.global.ssl.fastly.net&type=xhttp#%40v2raytun_kanfing%F0%9F%9F%A8
-vless://2aa9b249-4d6d-4c34-8c91-27622431dfbc@43.249.72.255:443?vcn=default.ssl.fastly.net&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=henzoo.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%40v2raytun_kanfing
-trojan://mitivpn@151.101.38.6:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn--s3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.firefox.com#%40v2raytun_kanfing
-vless://f9e47c0e-f2ce-46dc-aa01-7fb43181ca71@2.189.84.4:443?mode=packet-up&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.gtnKnyKWb08bvS7m-Mk7nK3NeNCBwG0VJGIHSitzhw8&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&flow=xtls-rprx-vision&sni=german.kevindebroineh.ir#%40v2raytun_kanfing
-vless://2aa9b249-4d6d-4c34-8c91-27622431dfbc@151.101.39.60:443?vcn=default.ssl.fastly.net&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=henzoo.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%40v2raytun_kanfing
-vless://f9e47c0e-f2ce-46dc-aa01-7fb43181ca71@193.151.128.100:8080?mode=auto&path=%2F%3Fed%3D2560%2Fv2ray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.random.0rtt.-L8KQp1-hUt-sxJGBYralGh6RoC1lCNiKXmBvAml6i4&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&flow=xtls-rprx-vision&sni=sew.fluentfast.ir#%40v2raytun_kanfing
-vless://f9e47c0e-f2ce-46dc-aa01-7fb43181ca71@87.107.166.149:8443?mode=auto&path=%2F%3Fed%3D2560%2Fv2ray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.xorpub.1rtt.100-111-1111.75-0-111.50-0-3333.SZ1Q0xW51K0KMAV6_7qki-zfSYbk8BsXBIVzyvtq3n0&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&flow=xtls-rprx-vision&sni=otrish.why-my-pitzza.ir#%40v2raytun_kanfing
-vless://f9e47c0e-f2ce-46dc-aa01-7fb43181ca71@62.3.41.40:8443?mode=auto&path=%2F%3Fed%3D2560%2Fv2ray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.xorpub.1rtt.100-111-1111.75-0-111.50-0-3333.SZ1Q0xW51K0KMAV6_7qki-zfSYbk8BsXBIVzyvtq3n0&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&flow=xtls-rprx-vision&sni=canada.why-my-pitzza.ir#%40v2raytun_kanfing
-vless://f9e47c0e-f2ce-46dc-aa01-7fb43181ca71@45.82.138.226:8443?mode=auto&path=%2F%3Fed%3D2560%2Fv2ray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.xorpub.1rtt.100-111-1111.75-0-111.50-0-3333.SZ1Q0xW51K0KMAV6_7qki-zfSYbk8BsXBIVzyvtq3n0&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&flow=xtls-rprx-vision&sni=lahestan.why-my-pitzza.ir#%40v2raytun_kanfing
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.35.86:8080?path=%2Fsg-melbi%3Fed%23Telegram---%40GHOFLSHCAN---%40GHOFLSHCAN---%40GHOFLSHCAN---%40GHOFLSHCAN&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40v2raytun_kanfing
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-Password:
-v2raytun_kanfing
-ما را به دوستان خود معرفی کنید
-✌
-Join:
-@v2raytun_kanfing
-
-Password:
-v2raytun_kanfing
-ما را به دوستان خود معرفی کنید
-✌
-Join:
-@v2raytun_kanfing
-
 Password:
 v2raytun_kanfing
 ما را به دوستان خود معرفی کنید
@@ -165,3 +73,83 @@ Join:
 ماشین پرنده دیدیم یکی رو هنوز ندیدیم
 Join:
 @v2raytun_kanfing
+
+@v2raytun_kanfing
+🇦🇪
+.ovpn
+
+ریکشنا ببرین بالا از این بزارم فوق پرسرعت برای گیم و اینستا
+⚡
+
+کانفیگ ویتوری
+✨
+✨
+#کانفیگ
+#اکسپلور
+#فیلترشکن
+#سرور
+#V2ray
+#vpn
+🌐
+🔧
+vless://2db1c0e6-c4bf-4f82-95a3-eafe8df5123f@p1tun0.greewebservices.ir:38820?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.google.com&sid=66ded2#%40v2raytun_kanfing
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#%40v2raytun_kanfing
+vless://df2d6626-90e4-4599-a4da-d84352c4907d@tamiiiiz.aryan-sport.ir:443?alpn=h2%2Chttp%2F1.1&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=xhttp&sni=dd.servicevip.cc.cd&mode=auto&path=%2F%3FTELEGRAM----%40JKVPN----%40JKVPN----%40JKVPN----%40JKVPN----%40JKVPN----%40JKVPN----%40JKVPN----%40JKVPN----%40JKVPN----%40JKVPN----%40JKVPN&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=dd.servicevip.cc.cd&allowInsecure=0#%40v2raytun_kanfing
+vless://3c1dbb51-4160-4f9f-839e-218272142eaf@rrr.soreanapanel.com:25566?security=none&encryption=mlkem768x25519plus.native.0rtt.T-gHfXonmN4GiwBIHvADVc8uAEQyff099ST33D7IzA0&host=mitivpn-s5.b-cdn.net&headerType=http&type=tcp#%40v2raytun_kanfing
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443#%40v2raytun_kanfing
+vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@5.42.99.64:8443?security=reality&encryption=none&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=du-rov.secureservice.top&sid=3cbc3d737fb9c4af#%40v2raytun_kanfing
+vless://e6df2095-a73c-4043-8693-8d5a03686870@104.18.43.174:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&fp=qq&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40v2raytun_kanfing
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?path=%2Ffdip&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40v2raytun_kanfing
+vless://6338c01a-310e-42c3-bf4f-2a20e161054b@85.155.242.38:443?security=reality&encryption=none&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=hu1.aiage.work&sid=f8379ce795f2e5ed#%40v2raytun_kanfing
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#%40v2raytun_kanfing
+vless://3db6eb7e-c548-11f1-9902-a337233c6cda@193.27.200.200:443?security=reality&encryption=none&pbk=Sikc1gu5t_uwitf1xTTChP9tpT_sjY530p2tioHbmz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swe.wizard.select&sid=3b20e438da99#%40v2raytun_kanfing
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@64.188.70.56:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de2.balancer.vbuste-bot.com&sid=4be4110078ebed4a#%40v2raytun_kanfing
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
+
+🚨
+🚨
+🚨
+بزرگترین لشکرکشی آمریکا بعد از جنگ خلیج فارس 1991 و عراق 2003
+🔴
+3 ناو هواپیمابر
+🔴
+ده ها ناو جنگی کلاس های مختلف
+🔴
+چندین ناو آبی خاکی عملیات های ویژه
+بیش از 10000 تفنگدار آمریکایی
+🔴
+استقرار ده ها سوخت‌رسان غول پیکر در پایگاه های منطقه
+Join:
+@v2raytun_kanfing
+
+Join:
+@v2raytun_kanfing
+
+Join:
+@v2raytun_kanfing
+
+Join:
+@v2raytun_kanfing
+
+Join:
+@v2raytun_kanfing
+
+Join:
+@v2raytun_kanfing
+
+Join:
+@v2raytun_kanfing
+
+Join:
+@v2raytun_kanfing
+
+رای اکشن میخوام
+🫣
