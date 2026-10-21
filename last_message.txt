@@ -1,55 +1,3 @@
-vless://e38f5682-2160-4dbc-907c-c5837ae39cd0@tun2.w-ert.org:56841?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtcG9seTEzMDU6YjU0NTFiZjcwOTM3NDE5YWE1NDE1ZmRmNmJjZDRmNmY@t3.janebi913.ir:9093#%40v2raytun_kanfing
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dnM2Tmd4MUdIejFSc3o2eGhYR0VrMWVNS2phY1ZWR3JtazhZVXVMOWJxbz06Y2JxMzBnTXcwRWVuNDZhb3Z4a2hTejVhbldZME0zRXR1a0pRcFVENkY0RT0@185.19.33.138:58331#%40v2raytun_kanfing
-vless://30f15328-6e8d-4fc3-8e43-19cd27f616ce@german2.vokral.ir:26267?security=none&encryption=mlkem768x25519plus.native.0rtt.TTIMrfaScuBu4nbv7kLxAN8qEWifrY6XS454f5KA3Us&headerType=none&type=tcp#%40v2raytun_kanfing
-vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.090227.xyz:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&fp=qq&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40v2raytun_kanfing
-vless://30f15328-6e8d-4fc3-8e43-19cd27f616ce@iraclud.falnexa.ir:16258?security=none&encryption=mlkem768x25519plus.native.0rtt.mL5_sn3nyXt1fw7lSD8kfmM6tsWuvdZhodyrTm0nRDg&headerType=none&type=tcp#%40v2raytun_kanfing
-vless://30f15328-6e8d-4fc3-8e43-19cd27f616ce@iran.vokral.ir:8082?security=none&encryption=mlkem768x25519plus.native.0rtt.XOW07Zip2CFDOtfx32TYqy6VsLT10XB-_xVnXxdwfxA&headerType=none&type=tcp#%40v2raytun_kanfing
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de8.dedushka.top#%40v2raytun_kanfing
-vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=reality&encryption=none&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=de.stream-node6.com&sid=98753667b2406829#%40v2raytun_kanfing
-vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@46.225.46.136:2087?path=%2Fhokm&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hoert1rert.localip.ir&fp=chrome&type=ws&allowInsecure=0&sni=hoert1rert.localip.ir#%40v2raytun_kanfing
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-🔴
-کانال ۱۴ اسراییل
-نظرسنجی نشان می دهد نتانیاهو پیروز انتخابات خواهد بود
-Link:
-@v2raytun_kanfing
-
-🔴
-خبرهایی از انفجار در «خمینی شهر اصفهان» مخابره شده است
-Link:
-@v2raytun_kanfing
-
-🔴
-خبرهایی از حضور مخفیانه صدها نیروی اوکراینی در شمال عراق نزدیک مرز ایران با پهپادهای مخصوص برای انجام عملیات هستند
-Link:
-@v2raytun_kanfing
-
-پروکسی متصل
-پروکسی
-.
-پروکسی
-پروکسی
-.
-پروکسی
-پروکسی
-.
-پروکسی
-پروکسی
-.
-پروکسی
-Link:
-@v2raytun_kanfing
-
 Config Open vpn
 📱
 Link:
@@ -171,6 +119,53 @@ vless://721c4d43-6aad-4d09-9a71-f191f1967f7d@146.75.57.111:443?mode=auto&pcs=cd6
 vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.200.199.199:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#%40v2raytun_kanfing
 vless://721c4d43-6aad-4d09-9a71-f191f1967f7d@146.75.57.111:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3Fed%3D2048%2F%3FTELEGRAM-TOOTFFARANGI&security=tls&alpn=h2&encryption=none&insecure=0&host=1fastli-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40v2raytun_kanfing
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdTdmRnhTZ3VDZkNGT2hZ@20.166.51.228:443#%40v2raytun_kanfing
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
+
+🔴
+ساعت ۲۱ امشب ٫ امریکا با دو موشک به کوهستک هرمزگان حمله کرده است
+Link:
+@v2raytun_kanfing
+
+⚠️
+منابع عربی:
+سفارت‌های آمریکا در اردن، امارات نیز به کارکنان خود دستور دادند به همراه خانواده‌هایشان این کشورها را ترک کنند
+Link:
+@v2raytun_kanfing
+
+🔴
+کانال۱۴ اسراییل
+آسمان عراق و سوریه کاملا در دست ارتش اسراییل است و‌ به زودی به ایران حمله میکنیم
+Link:
+@v2raytun_kanfing
+
+🔴
+چندین پهپاد بر فراز استان آذربایجان غربی در ایران، در حال حرکت شناسایی شدند.
+Link:
+@v2raytun_kanfing
+
+🔴
+فعالیت گسترده جنگنده‌ها در سراسر اسرائیل؛ بر اساس گزارش‌های اولیه، طی ۳۰ دقیقه گذشته تعداد زیادی از جنگنده‌های نیروی هوایی اسرائیل از پایگاه‌های هوایی «نواتیم»، «اوودا» و «رامون» به پرواز درآمده و اکنون بر فراز کرانه باختری حضور دارند.
+Link:
+@v2raytun_kanfing
+
+vless://2bfe3ff4-6c91-488a-a0c6-2bdc52c2ea49@mpokwi.goalir.co.uk:443?pcs=84ea61a40e1a671442079ca57b48595c930b1088739b7660b82cb6c46da2751f&alpn=h2&fp=chrome&type=xhttp&sni=www.firefox.com&mode=auto&path=%2Fwe&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=mpokwi.goalir.co.uk&allowInsecure=0#Link%3A%20%40v2raytun_kanfing
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FV2rayBaaz&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&fp=firefox&type=grpc&serviceName=gw.v1.ObjectService&sni=rs5.univesalsrv.com&sid=4872856d5489c37d#%40v2raytun_kanfing
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sid=1a3102bb8e51399e#%40v2raytun_kanfing
+vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#%40v2raytun_kanfing
+vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?security=reality&encryption=none&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=091e1c5db8451757#%40v2raytun_kanfing
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40v2raytun_kanfing
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#%40v2raytun_kanfing
+vless://bfd2ae15-1742-4d75-9e3a-495112b7b405@de2w5oeehlkqd7wq0i9cfhq87oe2lwd7b.nodenix.ir:2083?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=play.google.com&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=de2xw5oeehlkqd7wq0i9cfhq87oe2lwd7b.nodenix.ir#%40v2raytun_kanfing
+vless://bfd2ae15-1742-4d75-9e3a-495112b7b405@tr1vo2t3ezixs93mjjz8nn5g5zj1jz0me.fanavarancenter24.ir:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=play-fe.googleapis.com&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=trx1vo2t3ezixs93mjjz8nn5g5zj1jz0me.fanavarancenter24.ir#%40v2raytun_kanfing
+vless://153900df-5824-4b55-98c4-418c5baea523@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%40v2raytun_kanfing
 وصل شدی رای اکشن یادت نره
 ✔️
 جهت خرید سرور
