@@ -1,118 +1,3 @@
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@165.99.222.161:443?security=reality&encryption=none&pbk=SC6AnZ_BlvDruiGFpDRno9b1V3wMmq9gjB-KEHHUlE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=in1.vkusnews.com#%F0%9F%87%AE%F0%9F%87%B3%20%40v2raytun_kanfing
-vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@193.233.90.77:10443?mode=gun&security=reality&encryption=none&pbk=ryOLRaedZ6OIu9hjtw7E6hvi2JwjLHJ_JQ5xx5d7g3c&fp=firefox&type=grpc&serviceName=grpc&sni=assets.polina.lol#%40v2raytun_kanfing
-vless://fafc7c16-f890-45ee-a856-02df225172dd@45.140.188.104:3005?security=reality&encryption=none&pbk=Q7guUiAKibmqGGSD4laTh89XBbo_n-K7YRtRjRUu3AQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl4-gkivm5.vpvr4ib84nuv6hdkt.ru&sid=583b8765dd9abb5e#%40v2raytun_kanfing
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=de12.dedushka.top#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%40v2raytun_kanfing
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FBIA_TELEGRAM%40i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999#%40v2raytun_kanfing
-vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#%40v2raytun_kanfing
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-🔴
-قوه‌قضاییه:
-از پهلوی شکایت کردیم منتظریم بیارن تحویلش بدن
-Link:
-@v2raytun_kanfing
-
-🔴
-فوری نتانیاهو:
-رهبر جدید ایران تصمیم گرفته به سمت ساخت بمب های هسته ای حرکت کند.
-Link:
-@v2raytun_kanfing
-
-🔴
-قطع فوری اینترنت در صورت آغاز جنگ جدید؛ دستور صادر شد
-بر اساس اطلاعات دریافتی زومان، نهادهای بالادستی در نامه‌ای رسمی و الزام‌آور تأکید کرده‌اند که در صورت آغاز جنگ جدید، دسترسی کاربران در ایران به اینترنت بین‌الملل باید بلافاصله قطع شود.
-این تصمیم به عنوان یک تکلیف اجرایی تعیین شده است تا در شرایط درگیری نظامی، دسترسی به شبکه جهانی قطع شود
-Link:
-@v2raytun_kanfing
-
-🔴
-«اگر ایران به اسرائیل حمله کند، خواهد سوخت!»
-هشدار وزیر دفاع، کاتس، به تهران؛ او ایران را به طراحی حملاتی مرتبط با انتخابات متهم کرد.
-Link:
-@v2raytun_kanfing
-
-هر گرم طلا 27 میلیون تومان و هر دلار آمریکا هم به 270 هزار تومان رسید!
-Link:
-@v2raytun_kanfing
-
-vmess://eyJhZGQiOiIxODUuMTkuMzMuMTUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjBlYjAyYzVmLTFjNDYtNDQwMS1hZTM5LWUzMzBlOGNmNzQ5ZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjI2MzYiLCJwcyI6IkB2MnJheXR1bl9rYW5maW5nIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
-vless://891b8403-db54-43a5-83de-f10610cd60f2@199.232.78.160:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%40WanCloudFA&security=tls&alpn=h2&encryption=none&insecure=0&host=WanCloud.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=Firefox.com#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#%40v2raytun_kanfing
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@165.99.222.161:443?security=reality&encryption=none&pbk=SC6AnZ_BlvDruiGFpDRno9b1V3wMmq9gjB-KEHHUlE4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=in1.vkusnews.com#%40v2raytun_kanfing
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@138.124.4.224:443?security=reality&encryption=none&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=login.sakhweb.fyi&sid=7271129440ade8fa#%40v2raytun_kanfing
-vless://d32b4641-0faf-48ac-a137-348c14ffad50@rel.pasmazy1.ir:1366?security=reality&encryption=none&pbk=wjvv7CnROJ1yu5P4vVz7g5SwhUqMYmy-BaSdsiJP4Hs&host=dynu.com&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=88bf29f3c9c74e04#%40v2raytun_kanfing
-vless://d32b4641-0faf-48ac-a137-348c14ffad50@rel2.pasmazy.ir:8585?mode=auto&path=%2F&security=reality&encryption=none&pbk=FCNu3XsHtW9KKYzG9fA-4Zd989cBOSvJPIRqBVog_AQ&host=play.google.com&fp=edge&type=xhttp&sni=thebragmedia.com.au&sid=8467af049ef48d8b#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDT3hTb2ZZMEt2QUllT0ZEbU83XzdYU1Jxc3VILWR3cw@h2.pasmazy1.ir:18108#%40v2raytun_kanfing%20%D9%87%D9%84%D9%86%D8%AF
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206SUwvN0ovQ2M1elFwSnZwQVAwWlZrQT09OmxQZTIvdCtxa1JxdWlVemlsejl0aUE9PQ@rel.pasmazy1.ir:8080#%40v2raytun_kanfing
-vless://d32b4641-0faf-48ac-a137-348c14ffad50@h.pasmazy1.ir:1015?security=none&encryption=mlkem768x25519plus.native.0rtt.plFpNwABB9mCiB-82YPEmTThJ4_vzI9wzMGIynAbblc&host=play.google.com&headerType=http&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20%40v2raytun_kanfing
-vless://fafc7c16-f890-45ee-a856-02df225172dd@45.140.188.104:3005?security=reality&encryption=none&pbk=Q7guUiAKibmqGGSD4laTh89XBbo_n-K7YRtRjRUu3AQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl4-gkivm5.vpvr4ib84nuv6hdkt.ru&sid=583b8765dd9abb5e#%40v2raytun_kanfing
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZW5aaHVyRWlxN2NtdXV6WTR2OTkxemNtYWM5bURSeHF6YVB3QzNEUzdhRT06S0pKMkM1SW5Hd0FFVmIxYUd0NVczTHkwVW1hams0WittSlBXdmlSWndOUT0@31.57.185.124:51663#%40v2raytun_kanfing
-vless://721c4d43-6aad-4d09-9a71-f191f1967f7d@146.75.57.111:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3Fed%3D2048%2F%3FTELEGRAM-TOOTFFARANGI&security=tls&alpn=h2&encryption=none&insecure=0&host=1fastli-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40v2raytun_kanfing
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.200.199.199:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#%40v2raytun_kanfing
-vless://721c4d43-6aad-4d09-9a71-f191f1967f7d@146.75.57.111:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3Fed%3D2048%2F%3FTELEGRAM-TOOTFFARANGI&security=tls&alpn=h2&encryption=none&insecure=0&host=1fastli-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdTdmRnhTZ3VDZkNGT2hZ@20.166.51.228:443#%40v2raytun_kanfing
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-🔴
-ساعت ۲۱ امشب ٫ امریکا با دو موشک به کوهستک هرمزگان حمله کرده است
-Link:
-@v2raytun_kanfing
-
-⚠️
-منابع عربی:
-سفارت‌های آمریکا در اردن، امارات نیز به کارکنان خود دستور دادند به همراه خانواده‌هایشان این کشورها را ترک کنند
-Link:
-@v2raytun_kanfing
-
-🔴
-کانال۱۴ اسراییل
-آسمان عراق و سوریه کاملا در دست ارتش اسراییل است و‌ به زودی به ایران حمله میکنیم
-Link:
-@v2raytun_kanfing
-
-🔴
-چندین پهپاد بر فراز استان آذربایجان غربی در ایران، در حال حرکت شناسایی شدند.
-Link:
-@v2raytun_kanfing
-
-🔴
-فعالیت گسترده جنگنده‌ها در سراسر اسرائیل؛ بر اساس گزارش‌های اولیه، طی ۳۰ دقیقه گذشته تعداد زیادی از جنگنده‌های نیروی هوایی اسرائیل از پایگاه‌های هوایی «نواتیم»، «اوودا» و «رامون» به پرواز درآمده و اکنون بر فراز کرانه باختری حضور دارند.
-Link:
-@v2raytun_kanfing
-
 vless://2bfe3ff4-6c91-488a-a0c6-2bdc52c2ea49@mpokwi.goalir.co.uk:443?pcs=84ea61a40e1a671442079ca57b48595c930b1088739b7660b82cb6c46da2751f&alpn=h2&fp=chrome&type=xhttp&sni=www.firefox.com&mode=auto&path=%2Fwe&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=mpokwi.goalir.co.uk&allowInsecure=0#Link%3A%20%40v2raytun_kanfing
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FV2rayBaaz&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&fp=firefox&type=grpc&serviceName=gw.v1.ObjectService&sni=rs5.univesalsrv.com&sid=4872856d5489c37d#%40v2raytun_kanfing
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sid=1a3102bb8e51399e#%40v2raytun_kanfing
@@ -168,6 +53,97 @@ vless://SoonTeam%20@de.im-soon.com:3443?mode=auto&path=%2FTelegram-Join%40SoonTe
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#%40v2raytun_kanfing
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMVk1saHZLODJUbzFGR3N5@20.166.51.228:443#%40v2raytun_kanfing
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#v2raytun_kanfing
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
+
+🔴
+سپاه اعلام کرد زین پس فقط به کشتی ها حمله نمیکنیم٫ پایگاه های امریکا هم هدف هستند
+Link:
+@v2raytun_kanfing
+
+🔴
+منابع اسراییل: امشب و فرداشب بیدار بمانیم
+Link:
+@v2raytun_kanfing
+
+🔴
+با بالگرد چندین نفر در تهران جابجا شدن به مناطق امن
+Link:
+@v2raytun_kanfing
+
+🔴
+وزارت ارتباطات:
+در صورت وقوع جنگ تحمیلی، اینترنت محدود خواهد شد تا سطح تهدیدات دشمن کاهش یابد
+Link:
+@v2raytun_kanfing
+
+🔴
+شمارش معکوس ایدی کوهن معروفترین خبرنگار اسرائیل برای آغاز جنگ.
+Link:
+@v2raytun_kanfing
+
+🔴
+هم اکنون در بسیاری از متاطق تهران ایست های بازرسی تشکیل شده است
+Link:
+@v2raytun_kanfing
+
+🔴
+برخی مراکز فرودگاهی در حال تخلیه شدن
+Link:
+@v2raytun_kanfing
+
+🔴
+تلویزیون عربستان:
+به ایران حمله بزرگ میشود
+Link:
+@v2raytun_kanfing
+
+🔴
+صابرین نیوز: در ساعات گذشته ایران به تمام کشور های منطقه یک هشدار بی سابقه در مورد جنگ داده است.
+Link:
+@v2raytun_kanfing
+
+پروکسی پر سرعت مخصوص دانلود
+⚡
+https://t.me/proxy?server=88.198.148.89&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=shekargah.kolbar-zahmatkesh.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
+وصل شدین رای اک بدین
+🫥
+Link:
+@v2raytun_kanfing
+
+سه‌شنبه در اسرائیل روز انتخابات است
+Link:
+@v2raytun_kanfing
+
+👀
+〰️
+🇮🇱
+اتاق جنگ اسرائیل ساعت شنی معروفش رو دوباره پست کرده ولی این بار دیگه شن داخلش نصف نیست، بلکه کاملا خالی شده و یعنی فرصت به پایان رسیده.
+( و این یعنی جنگ از رگ گردن به ما نزدیک تر است)
+Link:
+@v2raytun_kanfing
+
+vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#v2raytun_kanfing
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#%40v2raytun_kanfing
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#%40v2raytun_kanfing
+vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%40v2raytun_kanfing
+vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%40v2raytun_kanfing
+vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%40v2raytun_kanfing
+vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%40v2raytun_kanfing
+vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%40v2raytun_kanfing
+vless://9f24861c-3cb6-4422-9339-c22006a7ad9e@mo2.zapts.ir:30150?security=reality&encryption=none&pbk=_Q2BdzlyzdCy8nEoraXLrkFbEHEOKzMH-Wkcb4lCaDI&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=2fbfc5ff#%40v2raytun_kanfing
+vless://2582857a-632b-4c4e-9b67-96213cbaf58c@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#%40v2raytun_kanfing
+vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2real4.greewebservices.ir:1340?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#%40v2raytun_kanfing
+‌vmess://eyJhZGQiOiJmcmVlLmVydGViYXRnb29zdGFyLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZWFiNDM5LTUzYmYtNDZlNC1iYTU4LWZjMzY4YWUxZWU4YyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJAdjJyYXl0dW5fa2FuZmluZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 وصل شدی رای اکشن یادت نره
 ✔️
 جهت خرید سرور
