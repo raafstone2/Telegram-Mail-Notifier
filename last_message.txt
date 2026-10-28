@@ -3,70 +3,33 @@ Config Open vpn
 Link:
 @v2raytun_kanfing
 
-بیچاره پرایدی
-😕
+Config Open vpn
+📱
 Link:
 @v2raytun_kanfing
 
-🔺
-تازه‌ترین نتایج انتخابات اسرائیل
-🔸️
-با شمارش ۴۱.۹ درصد از صندوق‌های رأی، نتایج اولیه‌ای که توسط «کمیته مرکزی انتخابات» منتشر شده، نشان می‌دهد ائتلاف حامی بنیامین نتانیاهو ۵۷ کرسی و ائتلاف مخالف او ۴۷ کرسی کسب کرده‌اند؛ در همین حال، فهرست‌های عمدتاً عربی- شامل «فهرست مشترک» و «رعم»- مجموعاً ۱۶ کرسی دیگر را در اختیار دارند.| شرق
+Config Open vpn
+📱
 Link:
 @v2raytun_kanfing
 
-🔺
-پیشنهاد بنزین ۸۰ هزار تومانی!
-سخنگوی صنف جایگاه‌داران سوخت پیشنهاد تعیین نرخ چهارم بنزین با قیمت ۸۰ هزار تومان را مطرح کرده است.
-این طرح هنوز تصویب نشده و در حد پیشنهاد است.
+Config Open vpn
+📱
 Link:
 @v2raytun_kanfing
 
-🎥
-🔺
-ماشین خفنی که شیائومی امسال روانه بازار کرد
-🔹
-شیائومی علاوه بر موبایل حالا یک ماشین فوق‌العاده و با آپشن‌های خیلی جذاب ساخته.
+Config Open vpn
+📱
 Link:
 @v2raytun_kanfing
 
-🔴
-نایب رئیس مجلس :
-با اینکه فشار اقتصادی روی مردم بالا رفته، اما صبر و تاب‌آوری‌شون هم بیشتر شده
+Config Open vpn
+📱
 Link:
-@v2raytun_kanfing
-
-🛑
-ترامپ: مذاکره‌ای با ایران در کار نیست؛ خبر آزادسازی دارایی‌ها دروغ است
-Link:
-@v2raytun_kanfing
-
-vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#%40v2raytun_kanfing
-vless://6c713691-3ca2-002b-ad25-113d1bed6b03@140.225.199.136:8443?mode=gun&security=reality&encryption=none&pbk=86EUYgrS7mazQ-GsiMnStyHSx9AlG8B_-KgXluNdWXI&fp=chrome&type=grpc&serviceName=google.storage.v2.Storage&sni=strm.yandex.net&sid=d3ab13e9c496c399#%40v2raytun_kanfing
-trojan://humanity@45.128.76.242:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%40v2raytun_kanfing
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#%40v2raytun_kanfing
-vless://6c713691-3ca2-002b-ad25-113d1bed6b03@nl1.fluxorvpn.net:8443?mode=gun&security=reality&encryption=none&pbk=86EUYgrS7mazQ-GsiMnStyHSx9AlG8B_-KgXluNdWXI&fp=chrome&type=grpc&serviceName=google.storage.v2.Storage&sni=strm.yandex.net&sid=d3ab13e9c496c399#%40v2raytun_kanfing
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@ee.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee.viralforge.ru&sid=a1b2c3d4b5#%40v2raytun_kanfing
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#%40v2raytun_kanfing
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@tr.peregrine-sub.net:8443?mode=auto&security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&fp=chrome&type=xhttp&sni=tr.peregrine-sub.net&sid=7b6803a79bba5c52#%40v2raytun_kanfing
-vmess://eyJhZGQiOiIxODUuMTkuMzMuNjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTNlYTE0MGQtYzg5MS00Njg2LWE0ODUtNDNhZTAyN2FmMTdmIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1MjkxOCIsInBzIjoiQHYycmF5dHVuX2thbmZpbmciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJAdjJyYXl0dW5fa2FuZmluZyIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-vless://d4353076-3ec7-47dc-88b0-f21eb59fbfb8@193.160.140.159:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%40v2raytun_kanfing
-vless://b4a1200a-9765-4649-94f2-c26e0a37dffb@193.160.141.138:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%40v2raytun_kanfing
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@199.195.193.91:443?security=reality&encryption=none&pbk=gCcUt0o6KZqq3QMrHAwUEUGlyB2H8ZEwXM9WczAHkmU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=germ.nullo.pro&sid=b29399464c72312d#%40v2raytun_kanfing
-﻿
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
 @v2raytun_kanfing
 
 ✅
-لیست پروکسی متصل قوی
+لیست پروکسی پرسرعت
 🇩🇪
 https://t.me/proxy?server=91.99.3.135&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 https://t.me/proxy?server=46.224.67.119&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
@@ -122,4 +85,33 @@ Link:
 Config Open vpn
 📱
 Link:
+@v2raytun_kanfing
+
+Config Open vpn
+📱
+Link:
+@v2raytun_kanfing
+
+vless://7ba4f85a-b29d-43b2-b8e3-009016fe4e27@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=swedish.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%40v2raytun_kanfing
+vless://7ba4f85a-b29d-43b2-b8e3-009016fe4e27@146.75.57.238:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=looaloooibamoooijji.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40v2raytun_kanfing
+vless://7ba4f85a-b29d-43b2-b8e3-009016fe4e27@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=swedish.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%40v2raytun_kanfing
+vless://7ba4f85a-b29d-43b2-b8e3-009016fe4e27@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=frenchji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%40v2raytun_kanfing
+vless://7ba4f85a-b29d-43b2-b8e3-009016fe4e27@146.75.57.238:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=looaloooibamoooijji.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40v2raytun_kanfing
+vless://7ba4f85a-b29d-43b2-b8e3-009016fe4e27@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=frenchji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%40v2raytun_kanfing
+vless://7ba4f85a-b29d-43b2-b8e3-009016fe4e27@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=swedish.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%40v2raytun_kanfing
+vless://75985152-e16e-4a48-87ff-35c2615e0ab5@147.45.46.157:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%40v2raytun_kanfing
+vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@91.107.247.173:2083?path=%2F&security=tls&encryption=none&insecure=0&host=sino.bestsellers1.site&type=ws&allowInsecure=0&sni=sino.bestsellers1.site#%40v2raytun_kanfing
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#%40v2raytun_kanfing
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#%40v2raytun_kanfing
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%40v2raytun_kanfing
+vmess://eyJhZGQiOiIxNDUuMjM5LjU1LjIxMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsImlkIjoiMDY3ZmNkNjMtYjIxNS00YWJkLTg1MjktYWU5MjlhOTk3MWE5IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiQHYycmF5dHVuX2thbmZpbmcg8J+qqSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==
+vmess://eyJhZGQiOiI1NC4zNy4xMzEuMTI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJpZCI6IjZkZWVmOWFkLTEzNTctNDQzZC1mOTVjLWNiMTg5NTJjMjBiMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IkB2MnJheXR1bl9rYW5maW5nIPCfqqkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIn0=
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
 @v2raytun_kanfing
