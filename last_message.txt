@@ -1,8 +1,3 @@
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
 ✅
 لیست پروکسی پرسرعت
 🇩🇪
@@ -171,4 +166,12 @@ vless://e9a9d2ba-8c33-4e5e-a903-efa595db2fff@wwww.qarvian.ir:443?pcs=CD6E838B9BF
 @Muhammad_4502
 💳
 ‌Link:
+@v2raytun_kanfing
+
+✅
+پروکسی متصل
+🇩🇪
+https://t.me/proxy?server=91.99.3.135&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+https://t.me/proxy?server=46.224.67.119&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+Link:
 @v2raytun_kanfing
