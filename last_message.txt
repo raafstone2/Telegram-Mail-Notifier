@@ -3,11 +3,6 @@ Config Open vpn
 Link:
 @v2raytun_kanfing
 
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
 ✅
 لیست پروکسی پرسرعت
 🇩🇪
@@ -145,6 +140,30 @@ vless://d1b33bcd-88e8-428f-87da-cc8bfb2d426c@89.125.11.26:443?security=reality&e
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#%40v2raytun_kanfing
 vless://b1da2601-ff93-46d6-af87-04af3f541fde@server15.duckvpn.app:443?security=reality&encryption=none&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun1-16.userapi.com#%40v2raytun_kanfing
 ﻿وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#%40v2raytun_kanfing
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%40v2raytun_kanfing
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#%40v2raytun_kanfing
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sid=1a3102bb8e51399e#%40v2raytun_kanfing
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=mother-earth.fyi&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#%40v2raytun_kanfing
+vless://c4cdca6c-a9a8-4024-98d5-cdd64f5e0b80@ser1.plasmoon.ir:2026?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=tun1.plasmoon.ir#%40v2raytun_kanfing
+vless://6b566898-8416-4ac3-8b8f-66db059c462b@78.17.53.142:8443?security=reality&encryption=none&pbk=drwJd-KiNSQHhp1yHQBknycbzWEzR2K9_R9ZdfPra3U&headerType=none&fp=chrome&type=tcp&sni=www.ru.nl#%40v2raytun_kanfing
+vless://f9991b8e-7d19-49e7-ae1d-70ce37d7ca16@167.82.76.31:443?mode=auto&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2Fconfigure%2Fservices%2FvzQ6lbMCPkOKGnZN5uJR3e%2Fversions%2F2%2Fdomains&security=tls&alpn=h3%2Ch2&encryption=mlkem768x25519plus.native.0rtt.v15YMIWypTcJKH6Ud1Kg6AEvLRvOxGkD75UqGWc2Z1g&insecure=0&host=mmslsssl.global.ssl.fastly.net&fp=safari&type=xhttp&allowInsecure=0&sni=firefox.com#%40v2raytun_kanfing
+vless://d0d3d49c-56e8-40e1-9e83-793d03f83d93@hw7.divarkhaghazi.com:465?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw7.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw7.divarkhaghazi.com.#%40v2raytun_kanfing
+vless://9f3d0b52-9b0f-4af7-ac42-d3ca2fd2a685@pol.qikbro.com:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=assets&allowInsecure=0&sni=pol.qikbro.com#%40v2raytun_kanfing
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#%40v2raytun_kanfing
+vless://f9991b8e-7d19-49e7-ae1d-70ce37d7ca16@199.232.96.150:443?mode=auto&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2Fconfigure%2Fservices%2FvzQ6lbMCPkOKGnZN5uJR3e%2Fversions%2F2%2Fdomains&security=tls&encryption=mlkem768x25519plus.native.0rtt.kZ7hWvptdMEgBm-h8XNktL3J29SttMx_yQtXjbVluWA&insecure=0&host=alksmssssssbsj.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=firefox.com#%40v2raytun_kanfing
+vless://e9a9d2ba-8c33-4e5e-a903-efa595db2fff@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40v2raytun_kanfing
+﻿
+وصل شدی رای اکشن یادت نره
 ✔️
 جهت خرید سرور
 👇
