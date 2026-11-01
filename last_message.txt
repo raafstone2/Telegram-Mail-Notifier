@@ -43,11 +43,6 @@ Config Open vpn
 Link:
 @v2raytun_kanfing
 
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#%40v2raytun_kanfing
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sid=1a3102bb8e51399e#%40v2raytun_kanfing
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#%40v2raytun_kanfing
@@ -262,5 +257,14 @@ Link:
 ‌
 ✍️
 ‌ پروردگارا ؛ در مسیری که قسمتم نیست خسته‌ام نکن!
+Link:
+@v2raytun_kanfing
+
+✅
+لیست پروکسی قوی متصل
+🇩🇪
+https://t.me/proxy?server=ir.mediaad.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=org.mediaad.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=do.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 Link:
 @v2raytun_kanfing
