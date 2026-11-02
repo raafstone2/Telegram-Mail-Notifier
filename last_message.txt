@@ -1,90 +1,3 @@
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@shorts.blog-forme.ru:443?mode=auto&path=%2Fv2%2Fsync%2Faf2c0c&security=reality&encryption=none&extra=%7B%0A%20%20%22xmux%22%3A%20%7B%0A%20%20%20%20%22maxConcurrency%22%3A%20%2216-32%22%2C%0A%20%20%20%20%22cMaxReuseTimes%22%3A%200%2C%0A%20%20%20%20%22hMaxRequestTimes%22%3A%20%221800-3000%22%2C%0A%20%20%20%20%22hMaxReusableSecs%22%3A%20%2210800-14400%22%2C%0A%20%20%20%20%22hKeepAlivePeriod%22%3A%200%0A%20%20%7D%0A%7D&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&fp=edge&type=xhttp&sni=shorts.blog-forme.ru&sid=fb3a5f2d4ca346ed#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%40v2raytun_kanfing
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%40v2raytun_kanfing
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#%40v2raytun_kanfing
-vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=%2Fapi%2Fv1%2F%3Fed%23&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206WVRVNVlUUXhNbVF4WTJWaU1HTTNOakpsTnpRMllqQXdNREF4TTJWag@188.121.121.176:11109#%40v2raytun_kanfing
-trojan://gHQP0D7D15@104.25.239.113:2053?path=%2F&security=tls&insecure=0&type=ws&allowInsecure=0&sni=marvdasht.phonecomparisonblog.org#%40v2raytun_kanfing
-vmess://eyJhZGQiOiIzOC4xMTAuMS4yNDYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IkB2MnJheXR1bl9rYW5maW5nIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
-vless://90c08c98-7ec8-4fab-da36-cf140d18c708@91.107.191.188:8443?mode=auto&path=%2FMeh%3Fdi&security=tls&encryption=none&insecure=0&host=host.taghvimtime.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#%40v2raytun_kanfing
-vless://7cefd992-452a-4c28-86bb-6195876582cf@199.232.78.120:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=swedish.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%40v2raytun_kanfing
-vless://7cefd992-452a-4c28-86bb-6195876582cf@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=looaturkeyboijji.global.ssl.fastly.net.&fp=ios&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40v2raytun_kanfing
-vless://7cefd992-452a-4c28-86bb-6195876582cf@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=netheri.global.ssl.fastly.net.&fp=ios&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40v2raytun_kanfing
-vless://7cefd992-452a-4c28-86bb-6195876582cf@199.232.78.120:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=looaloooibamoooijji.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#v2raytun_kanfing
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-از قشنگ‌ترین ابراز علاقه‌هایی که دیدم:
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-پروکسی
-|
-پروکسی
-|
-پروکسی
-Link:
-@v2raytun_kanfing
-
-‌
-✍️
-‌ پروردگارا ؛ در مسیری که قسمتم نیست خسته‌ام نکن!
-Link:
-@v2raytun_kanfing
-
-✅
-لیست پروکسی قوی متصل
-🇩🇪
-https://t.me/proxy?server=ir.mediaad.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=org.mediaad.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=do.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-Link:
-@v2raytun_kanfing
-
-📈
-قبض برق از همین ماه گران می‌شود
-هزینه سوخت نیروگاهی از ابتدای آبان‌ماه به قبوض برق مشترکان افزوده شد و به شیوه پلکانی محاسبه می‌شود.
-سخنگوی صنعت برق اعلام کرد که پس از افزایش نرخ سوخت تحویلی به نیروگاه‌ها و اعلام نرخ گواهی سوخت از سوی وزارت نفت، سقف قیمت برق در بازار عمده‌فروشی نیز از ابتدای آبان بالا رفته است.
-مبالغ مرتبط با سوخت بر پایه نوع مصرف در بخش‌های خانگی، صنعتی، عمومی، تجاری و کشاورزی تعیین شده‌اند.
-مصرف برق در چهار سطح تا الگوی مصرف، تا یک‌ونیم برابر الگو، تا ۲.۵ برابر الگو و بیش از آن دسته‌بندی شده و نرخ سوخت هر سطح پلکانی محاسبه می‌شود.
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
 Config Open vpn
 📱
 Link:
@@ -208,4 +121,72 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 @Muhammad_4502
 💳
 ‌Link:
+@v2raytun_kanfing
+
+🔴
+پزشکیان: آروم آروم بنزین و برق و گازوئیل رو گرون می‌کنیم بعد کالا برگ رو افزایش میدیم
+Link:
+@v2raytun_kanfing
+
+بددن شرح...
+Link:
+@v2raytun_kanfing
+
+✅
+لیست پروکسی متصل پرسرعت
+🇩🇪
+https://t.me/proxy?server=167.233.233.253&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+https://t.me/proxy?server=188.245.207.66&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+https://t.me/proxy?server=178.105.9.164&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+https://t.me/proxy?server=46.224.67.119&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+Link:
+@v2raytun_kanfing
+
+🔺
+گرانی گسترده در راه است
+◾️
+قائم‌مقام وزیر صمت در امور بازرگانی: از مجموع ۴۵۹۹ ردیف تعرفه، تنها ۶۶ ردیف مشمول دریافت ارز مرکزمبادله می‌شوند و ۴۵۳۳ ردیف از مسیر خرید ارز بانکی خارج شده‌اند.
+Link:
+@v2raytun_kanfing
+
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%40v2raytun_kanfing
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WlY5Z3IxRzFrbitNdGVncG1HTVZPcVhiU1V3bkNIdGFTLzh2dWNjRUtKVT06ZEgxMFE5S2hmODJrOXEyUlZSdkRZMFB0TGN1Y2owOEhudW5iam82M01QTT0@31.57.185.203:53799#%E2%9A%A1%EF%B8%8F%20%40v2raytun_kanfing
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40v2raytun_kanfing
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40v2raytun_kanfing
+vless://76cdb797-1c32-4e14-820b-c36f08f3f2cc@loos.cksurge.ir:47456?security=none&encryption=mlkem768x25519plus.native.0rtt.Jz-Qc1uO14EZkZNfD1r7GsH5l6ZX6NlBmTLrHkFetzg&headerType=none&type=tcp#%40v2raytun_kanfing
+vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?mode=gun&security=reality&encryption=none&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&fp=firefox&type=grpc&serviceName=grpc-common3&sni=www.nvidia.com&sid=52add08b86a5ccea#%40v2raytun_kanfing
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#%40v2raytun_kanfing
+trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@connect-se.mimowhat.online:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#%40v2raytun_kanfing
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns22.m3hrzd.ir:8044#%40v2raytun_kanfing
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%40v2raytun_kanfing
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%40v2raytun_kanfing
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%40v2raytun_kanfing
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%40v2raytun_kanfing
+vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&encryption=none&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&headerType=none&type=tcp&sni=www.cloudflare.com&sid=50ba05992b05c1c3#%40v2raytun_kanfing
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#%40v2raytun_kanfing
+vless://76cdb797-1c32-4e14-820b-c36f08f3f2cc@loos.cksurge.ir:47456?security=&encryption=mlkem768x25519plus.native.0rtt.Jz-Qc1uO14EZkZNfD1r7GsH5l6ZX6NlBmTLrHkFetzg&headerType=none&type=tcp#%40v2raytun_kanfing
+﻿
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
+
+Config Open vpn
+📱
+Link:
+@v2raytun_kanfing
+
+Config Open vpn
+📱
+Link:
+@v2raytun_kanfing
+
+Config Open vpn
+📱
+Link:
 @v2raytun_kanfing
