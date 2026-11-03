@@ -116,5 +116,13 @@ Config Open vpn
 Link:
 @v2raytun_kanfing
 
-فعالیت دیگه به رای اکشن شما بستگی داره
-😉
+✅
+لیست پروکسی متصل
+🇩🇪
+https://t.me/proxy?server=167.233.233.253&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+https://t.me/proxy?server=188.245.207.66&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+https://t.me/proxy?server=178.105.9.164&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+https://t.me/proxy?server=46.224.67.119&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+﻿
+Link:
+@v2raytun_kanfing
