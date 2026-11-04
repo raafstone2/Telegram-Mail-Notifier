@@ -18,89 +18,6 @@ Config Open vpn
 Link:
 @v2raytun_kanfing
 
-✅
-لیست پروکسی متصل
-🇩🇪
-https://t.me/proxy?server=167.233.233.253&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
-https://t.me/proxy?server=188.245.207.66&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
-https://t.me/proxy?server=178.105.9.164&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
-https://t.me/proxy?server=46.224.67.119&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
-﻿
-Link:
-@v2raytun_kanfing
-
-vless://23ab3d0a-7626-48d5-99b8-8446b0187734@3633c37daa4e6400.tunvi.w-ert.org:40287?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%40v2raytun_kanfing
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#%40v2raytun_kanfing
-vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=play.googleapis.com&sid=974f7f8f#%40v2raytun_kanfing
-vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@54.39.96.233:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.0cZmlMSQIp7uBKaQQDqR-2yxKGuPi6HYUkOoTFfqBVo&pbk=sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=2b30#%40v2raytun_kanfing
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%40v2raytun_kanfing
-vless://a356fa77-7199-417a-80dd-0c0925789161@91.107.244.35:465?path=%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=hw5.roghanmo.com#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns22.m3hrzd.ir:8044#%40v2raytun_kanfing
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-✅
-لیست پروکسی متصل قوی
-🇩🇪
-https://t.me/proxy?server=167.233.233.253&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
-https://t.me/proxy?server=188.245.207.66&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
-https://t.me/proxy?server=178.105.9.164&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
-https://t.me/proxy?server=46.224.67.119&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
-Link:
-@v2raytun_kanfing
-
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WlY5Z3IxRzFrbitNdGVncG1HTVZPcVhiU1V3bkNIdGFTLzh2dWNjRUtKVT06LzVKZ2NMelpQeWhrdVl5c2pXckZsZysvQmU0OWZrZ29RWCtzSUhtUVQ4az0@31.57.185.203:53799#%40v2raytun_kanfing
-vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@54.39.96.233:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.0cZmlMSQIp7uBKaQQDqR-2yxKGuPi6HYUkOoTFfqBVo&pbk=sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=2b30#%40v2raytun_kanfing
-vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=play.googleapis.com&sid=974f7f8f#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%40v2raytun_kanfing
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=api.connectingpeoplewithgreatjobs.com#%40v2raytun_kanfing
-vless://913dc759-8639-4890-9bfc-a9acdc5090cf@89.110.64.15:443?security=reality&encryption=none&pbk=YWhH3_lunQFxpqA29GF-Hq1K78hdSsy0h3E5dVbxImA&headerType=none&type=tcp&sni=graphs.4cdn.de&sid=371f6e#%40v2raytun_kanfing
-vmess://eyJhZGQiOiIxNDkuNy4xNi4yMjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiJAdjJyYXl0dW5fa2FuZmluZyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#%40v2raytun_kanfing
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com#%40v2raytun_kanfing
-vless://d6eb8a46-e6a4-4891-b22e-dfaa609c6afd@153.76.190.31:2083?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&fp=ios&type=ws&allowInsecure=0&sni=speedtestmark.com#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206YzVQdExoeWxZNXIzakpRNlhsekdpT2RYZVlZbGh1LWs@pg2.rmastore.ir:3039#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206YzVQdExoeWxZNXIzakpRNlhsekdpT2RYZVlZbGh1LWs@pg2.rmastore.ir:3040#%40v2raytun_kanfing
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
 Config Open vpn
 📱
 Link:
@@ -147,4 +64,98 @@ vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?security=reali
 ‌Link:
 @v2raytun_kanfing
 
-رای اکشنا با خودتون
+ترامپ شکست خورد
+Link:
+@v2raytun_kanfing
+
+✅
+لیست پروکسی متصل
+🇩🇪
+https://t.me/proxy?server=irogallery.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=fruit.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
+Link:
+@v2raytun_kanfing
+
+vless://e9b9fb87-aca8-452a-b851-f884c630f283@static.241.103.99.91.clients.your-server.de:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.19.212.12.49.clients.your-server.de#%40v2raytun_kanfing
+vless://e9b9fb87-aca8-452a-b851-f884c630f283@static.176.222.12.49.clients.your-server.de:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.176.222.12.49.clients.your-server.de#%40v2raytun_kanfing
+vless://e9b9fb87-aca8-452a-b851-f884c630f283@static.162.97.119.168.clients.your-server.de:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.162.97.119.168.clients.your-server.de#%40v2raytun_kanfing
+vless://e9b9fb87-aca8-452a-b851-f884c630f283@static.105.32.99.88.clients.your-server.de:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.80.222.99.91.clients.your-server.de#%40v2raytun_kanfing
+vless://e9b9fb87-aca8-452a-b851-f884c630f283@static.165.37.47.78.clients.your-server.de:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.165.37.47.78.clients.your-server.de#%40v2raytun_kanfing
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.connectingpeoplewithgreatjobs.com#%40v2raytun_kanfing
+trojan://f0eb8c92ce8946aaba856569cff1a16b@216.106.186.33:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#%40v2raytun_kanfing
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.discovergreatjobsandadvanceyourcareer.com#%40v2raytun_kanfing
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.220:8080#%40v2raytun_kanfing
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#%40v2raytun_kanfing
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#%40v2raytun_kanfing
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.106:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.findconnectwithemployersandbuildprofessionalnetwork.com#%40v2raytun_kanfing
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=browseseniorrolesandenhanceyourcareertoday.com#%40v2raytun_kanfing
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nextjobopportunityandclaimyouridealrole.com#%40v2raytun_kanfing
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%40v2raytun_kanfing
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.34:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=chrome&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#%40v2raytun_kanfing
+﻿
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
+
+🔴
+صداوسیما:
+نظام آمریکا رو تونستیم عوض کنیم، بزودی نوبت ترامپه
+Link:
+@v2raytun_kanfing
+
+🔴
+کاخ سفید رسما حسینیه شد.
+8 مسلمان در انتخابات میان دوره‌ای آمریکا پیروز شدن.
+عبدال السید؛ رشیده طلیب؛ ایلهان عمر؛ آدام حماوی؛ داریالیزا آویلا شوالیه؛ عایشه وهاب؛ آبر کاواس و نبیله سید.
+🆔
+@Vpn_jet7
+
+🔴
+کاخ سفید رسما حسینیه شد.
+8 مسلمان در انتخابات میان دوره‌ای آمریکا پیروز شدن.
+عبدال السید؛ رشیده طلیب؛ ایلهان عمر؛ آدام حماوی؛ داریالیزا آویلا شوالیه؛ عایشه وهاب؛ آبر کاواس و نبیله سید.
+Link:
+@v2raytun_kanfing
+
+قتل وحشتناک یک پسر در ارومیه.
+چند روز پیش یه پسر ۱۹ ساله به اسم "مانی زینالی" با دوستش میرن کافه. اونجا با یه پسر ۲۷ و ۳۰ ساله آشنا میشن و اون دو نفر میگن هوا سرده، بیاین با ماشین ما بریم.
+مانی و رفیقش سوار ماشین میشن و توی راه حسابی با اون دو نفر گرم میگیرن، وسط راه رفیقِ مانی یه دقیقه از ماشین پیاده میشه.
+اون دو نفرم گازشو میگیرن و میرن سمت روستاهای اطراف، مانی که ظاهرا از نیتشون باخبر شده بوده میگه می‌خوام پیاده بشم ولی اونا گوش نمیدن.
+گفته شده که قصد تعرض و تجاوز به مانی و داشتن و به همین دلیل مانی خودشو از ماشین میندازه پایین و به مامانش زنگ میزنه که میخوان منو بکشن. اون دو نفر سریع میان موبایل مانی رو میگیرن و دوباره سوارش میکنن میبرنش و در نهایت به قتل میرسوننش.
+به هیچکسی این روزا اصلا اصلا اعتماد نکنید.
+Link:
+@v2raytun_kanfing
+
+قتل دختر ۳۲ ساله کرمانشاهی توسط شوهر خواهر و مادر خودش به دلایل ناموسی
+🔴
+زهرا سلیمانی دختر 32 ساله اهل هرسین کرمانشاه توسط مادر و شوهر خواهرش به خاطر داشتن رابطه جنسی با شکنجه و به شکل فجیهی به قتل رسید.
+مادر این دختر با کمک دامادش که همزمان پسر برادرش هم بوده اول دست و پای زهرا سلیمانی رو شکوندن و بعدش هم خفش کردن.
+مادر زهرا رو همون روز حادثه دستگیر میکنن و شوهر خواهرشو که به تهران فرار کرده بود بعد سه هفته دستگیر کردن...
+گفته شده الان برای گرفتن رضایت، خواهرانِ زهرا سیلمانی تحت فشار از سمت خانواده قاتلین هستن..
+Link:
+@v2raytun_kanfing
+
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UTJZc0l6YzVZa2NoU0Zqc3FVWldyUUFGdHNTcHFmN1h4WXhrRzQrSmJzaz06elQxU2VjUHR0UFkvWFBXNk53aks1V3FsKy82emJjR1NESksyMUprOHVMbz0@216.9.225.189:443#%40v2raytun_kanfing%20%F0%9F%AA%A9
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#%40v2raytun_kanfing%20%F0%9F%AA%A9
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40v2raytun_kanfing
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@195.189.98.197:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#%40v2raytun_kanfing
+vless://01f68793-0305-449d-af33-02b268bf6bfd@turkoglan.jafarghasemivip.ir:8080?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.X26Vpo3T2P8PrxZqhEisF31W4EK9pU_jKA9NZNpfVT4&host=turkoglan.jafarghasemivip.ir&type=ws&flow=xtls-rprx-vision#%40v2raytun_kanfing
+vless://61273b91-b072-406f-9bfc-c5f846a946c5@proxymite.waldron.ir:48146?security=reality&alpn=http%2F1.1&encryption=none&pbk=7rhNYX_jD0fobfvXIIxkokKDuCX4Q-mYXbDbUEQzUnA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dynu.com&sid=be50ba4dadd9555c#%40v2raytun_kanfing
+ss://YWVzLTI1Ni1nY206T0ROaFpEazBZekU0WVRFelpHRXhOREUxTjJFMFpqWXdOekEzTTJZeA@37.32.30.203:9147#%40v2raytun_kanfing
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
