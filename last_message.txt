@@ -1,52 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWlycWswcGFha2N4MTl2@51.83.61.102:8080#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080#%40v2raytun_kanfing
-vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@88.80.150.15:443?mode=gun&security=tls&alpn=h2&encryption=none&authority=bg2.oncloudvpn.com&insecure=0&fp=edge&type=grpc&serviceName=grpc&allowInsecure=0&sni=bg2.oncloudvpn.com#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206WlRKaFpEWXdaR0ZrWlRFME1qY3haV1V4WVRNMFlXSTFZV00zTkRVMA@37.152.183.249:9147#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206TW1ReE5UVXpaV014WW1Sa05EVmxaak0zWVRFME1qUXlaalJoT1RZNA@37.152.180.223:9130#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.127.184.104:19999#v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080#v2raytun_kanfing
-vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@95.129.234.108:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=fafeqdhlett2p5la6d.cdn.cachefleet.com&fp=firefox&type=xhttp&allowInsecure=0&sni=linden-crest.cdn.cachefleet.com#v2raytun_kanfing
-vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@88.80.150.15:443?mode=gun&security=tls&alpn=h2&encryption=none&authority=bg2.oncloudvpn.com&insecure=0&fp=edge&type=grpc&serviceName=grpc&allowInsecure=0&sni=bg2.oncloudvpn.com#v2raytun_kanfing
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&fp=firefox&type=xhttp&allowInsecure=0&sni=sorrel-gate.cdn.cachefleet.com#v2raytun_kanfing
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&headerType=none&fp=ios&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#%40v2raytun_kanfing
-vless://ad3f4a0a-a89f-498e-9869-a93c8fa185b1@91.107.179.0:10105?security=reality&encryption=none&pbk=PFC3JN1er1JE2vAemwRhNjewz8I4NUWP4XHf2Dza4Es&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=12e321badd07906e#%40v2raytun_kanfing
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.211.38.49:443#%40v2raytun_kanfing
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.57:80?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=qi8ws15c7jv5q2fa&allowInsecure=0&sni=68r2nrw6avta71yq.cdn.cachefleet.com#%40v2raytun_kanfing
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@109.69.218.172:443?security=reality&encryption=none&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zealous-vortex.cdn.cachefleet.com#%40v2raytun_kanfing
-﻿
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
-‌Link:
-@v2raytun_kanfing
-
-✅
-لیست پروکسی پرسرعت قوی
-🇩🇪
-https://t.me/proxy?server=167.233.108.67&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
-https://t.me/proxy?server=49.13.7.180&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
-https://t.me/proxy?server=188.245.207.66&port=9443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
-https://t.me/proxy?server=138.201.157.70&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
-Link:
-@v2raytun_kanfing
-
-کانفیگ open vpn
-📱
-آموزش اتصال:
-⬇️
-کانفیگ رو وارد برنامه کنین
-بزنین روی connect
-بعدش ۲ تا گزینه میاد بزنین روی continue
-عشق کنین
-🔥
-اگه ارور داد چهار پنج بار رو retry کلیک کنید
-Link:
-@v2raytun_kanfing
-
 پروکسی های متصل
 https://t.me/proxy?server=65.109.254.226&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=49.12.36.40&port=8443&secret=104462821249bd7ac519130220c8dd09
@@ -288,4 +239,69 @@ vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=
 @Muhammad_4502
 💳
 ‌Link:
+@v2raytun_kanfing
+
+🔴
+بازگشت همه به سوی اوست.
+RIP
+🥀
+Link:
+@v2raytun_kanfing
+
+vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.120:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=usaslioijji.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40v2raytun_kanfing
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.211.38.49:443#%40v2raytun_kanfing
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4bnJwdDJpbDA0cHRjaTJq@54.37.240.40:8080#%40v2raytun_kanfing
+vless://081cd1d2-4a06-440b-b68a-1472a6aa69f1@bg.spirako.com:8443?security=reality&encryption=none&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&headerType=none&fp=ios&spx=%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=9ce04f63#%40v2raytun_kanfing
+vless://765eb074-fae3-4ba8-8346-da1c02857fde@185.31.200.212:8080?security=none&encryption=mlkem768x25519plus.native.0rtt.L0tTSB7tUKKEH7s-8lzwazbGSe50J38gc4O-QL7WQyo&host=tgju.org&headerType=http&type=tcp#%40v2raytun_kanfing
+vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiQHYycmF5dHVuX2thbmZpbmciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+﻿
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+‌Link:
+@v2raytun_kanfing
+
+اهنگ ریمیکس خفن غمیگن
+پیشنهاد میشه گوش کنید قشنگه
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|‌
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+Link:
+@v2raytun_kanfing
+
+✅
+لیست پروکسی قوی
+🇩🇪
+https://t.me/proxy?server=138.201.157.70&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+https://t.me/proxy?server=91.99.81.215&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+https://t.me/proxy?server=167.233.108.67&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+https://t.me/proxy?server=49.13.7.180&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+https://t.me/proxy?server=188.245.207.66&port=9443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+Link:
 @v2raytun_kanfing
