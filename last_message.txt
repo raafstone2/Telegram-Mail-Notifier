@@ -1,101 +1,132 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#%40v2raytun_kanfing
-trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#%40v2raytun_kanfing
-vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#%40v2raytun_kanfing
-vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#%40v2raytun_kanfing
-vless://97be5ac0-dae3-43c1-aae8-3fcb7b130c59@render.com:2053?mode=stream-one&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=Org-nether-soeiwhal-bssutudhdhese-beqhjdwter.maniyadg7shard.ir&fp=ios&type=xhttp&allowInsecure=0&sni=org-nether-soeiwhal-bssutudhdhese-beqhjdwter.maniyadg7shard.ir#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3YjFwQW9aOVEzNTRKZFNz@20.223.233.64:443#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@135.148.42.13:8388#%40v2raytun_kanfing
-vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=146.19.254.171#%40v2raytun_kanfing
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
+Config Open vpn
+📱
 Link:
 @v2raytun_kanfing
 
-مخصوص دانلود
-https://t.me/proxy?server=85.133.194.16&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+Config Open vpn
+📱
 Link:
 @v2raytun_kanfing
 
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#%40v2raytun_kanfing
-vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@192.99.151.230:8388#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@184.107.106.78:8388#%40v2raytun_kanfing
-vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@93.183.127.54:24446?mode=auto&path=%2Fv2%2Fnotes%2F86cf7ba6ede1&security=reality&encryption=none&pbk=31_G-lTr8GVS33I-ySfmMOXJ7SzpS48Ela7xXeT9D1Y&fp=qq&type=xhttp&sni=tgnl2.blog-forme.ru&sid=29f834cf893710f9#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.27.21:8388#v2raytun_kanfing
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.214.159:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=api-svc-mgr.galioncc.com&headerType=none&fp=firefox&type=tcp&sni=api-svc-mgr.galioncc.com&sid=a7c92e4b10d6f835#v2raytun_kanfing
-vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=146.19.254.171#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@135.148.42.13:8388#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3YjFwQW9aOVEzNTRKZFNz@20.223.233.64:443#%40v2raytun_kanfing
-vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#%40v2raytun_kanfing
-vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#%40v2raytun_kanfing
-trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#%40v2raytun_kanfing
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#%40v2raytun_kanfing
-وصل شدی رای اکشن یادت نره
-✔️
-جهت خرید سرور
-👇
-👇
-@Muhammad_4502
-💳
+Config Open vpn
+📱
 Link:
 @v2raytun_kanfing
 
-🔴
-صحبت‌های این خانم گل فروش امروز حسابی وایرال شده؛
-■
-تو روز جهانی دختر؛
-ما کلی سفارش دسته گل‌ها و باکس‌های بزرگ داشتیم که پسرها میومدن میگفتن حتما اینو با عشق و سلیقه آماده‌اش کن که خوشش بیاد.
-■
-حالا تو روز جهانی مرد (دیروز)؛
-کلا سفارش‌ گلدون‌های کوچولو داشتیم و دخترها میگفتن همینم از سرشون زیادیه!
+Config Open vpn
+📱
 Link:
 @v2raytun_kanfing
 
-#دیجی_کالا
-💰
-وارد بنر جاکدی روی صفحه اول دیجی کالا بشین و کد هایی که میاد رو اعمال کنید.
-کد جدید:
-DKPLS
-DKVIBE
-DKPLS
-توضیحات خود دیجی کالا:
-دنبال کدهای ۵ یا ۶ کاراکتری بگرد که با DK شروع می‌شن. هر کدی با این مشخصات پیدا کردی، توی کادر بالای همین صفحه وارد کن تا کد تخفیف اختصاصی خودت رو بگیری.
-بعد می‌تونی کد تخفیفت رو موقع خرید، توی بخش «کد تخفیف» وارد کنی و از تخفیفت استفاده کنی.
+Config Open vpn
+📱
 Link:
 @v2raytun_kanfing
 
 ⭕️
+فوری:
 🔺
-برنج پاکستانی گران شد!
-▪️
-قیمت کیسه ۱۰ کیلویی به ۴ میلیون و ۶۵۰ هزار تومان رسید.
-🔺
-با تغییر ناگهانی قیمت‌ها در بازار مواد غذایی، جایگزین اقتصادی برنج ایرانی نیز با چالش جدی روبرو شد.
+با اعلام رسمی شرکت برق، از فردا قطعی برق توی سراسر کشور شروع میشه و حداقل زمان قطعی، روزانه ۲ ساعته !!
+🔰
+🔴
+🔰
 Link:
 @v2raytun_kanfing
 
-vless://bc93a03d-13b5-0004-8ee7-d50c11459dab@192.142.12.198:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=diffoscope.com&sid=1c3e8241a8743df9#%40v2raytun_kanfing
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@leviko-nl8920.shopingggg.ir:443#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#%40v2raytun_kanfing
-vless://bc93a03d-13b5-0004-8ee7-d50c11459dab@192.142.12.198:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=diffoscope.com&sid=1c3e8241a8743df9#%40v2raytun_kanfing%20%F0%9F%87%A9%F0%9F%87%AA
-vless://bc93a03d-13b5-000b-8ee7-d50c11459dab@169.40.34.53:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=brointelengence.com&sid=1c3e8241a8743df9#%40v2raytun_kanfing
-vless://bc93a03d-13b5-0004-8ee7-d50c11459dab@192.142.12.198:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=diffoscope.com&sid=1c3e8241a8743df9#%40v2raytun_kanfing
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#%40v2raytun_kanfing
-trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#%40v2raytun_kanfing
+⏺
+اتاق جنگ اسرائیل دوباره این ساعت شنی رو پست کرد منتها این سری خالیه
+Link:
+@v2raytun_kanfing
+
+⏺
+اتاق جنگ اسرائیل دوباره این ساعت شنی رو پست کرد منتها این سری خالیه  Link: @v2raytun_kanfing
+
+جواب متقابل ایران به اسرائیل
+بفرما موز...
+Link:
+@v2raytun_kanfing
+
+📸
+🔺
+ساعتی پیش حمله پهپادی سپاه به پایگاه راداری آمریکا در بحرین
+▪️
+تصویری اصابت پهپاد انتحاری به بحرین
+Link:
+@v2raytun_kanfing
+
+📸
+🔺
+ساعتی پیش حمله پهپادی سپاه به پایگاه راداری آمریکا در بحرین
+▪️
+تصویری اصابت پهپاد انتحاری به بحرین  Link: @v2raytun_kanfing
+
+بحرین گفته ایران رو تنبیه میکنیم
+😂
+😂
+ترحیو
+😂
+😂
+
+🚨
+در صورت اختلال نت یا نت ملی این پروکسیا رو داشته باشید
+✅
+https://t.me/proxy?server=darya.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=hafez.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09
+Link:
+@v2raytun_kanfing
+
+🔴
+فوری فارس :
+حملات پهپادی سپاه پاسداران به پایگاه‌های شیخ عیسی و الجفیر نیروهای آمریکایی تو بحرین
+🇧🇭
+گفته میشه که یکی از موشک‌های دفاعیِ پاتریوت، به یه منزل مسکونی برخورد کرده.
+Link:
+@v2raytun_kanfing
+
+شلیک موشک از اهواز دقایقی پیش
+Link:
+@v2raytun_kanfing
+
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@136.148.77.250:8388#%40v2raytun_kanfing
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999#%40v2raytun_kanfing
 vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#%40v2raytun_kanfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3YjFwQW9aOVEzNTRKZFNz@20.223.233.64:443#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@135.148.42.13:8388#%40v2raytun_kanfing
-vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=146.19.254.171#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.27.21:8388#v2raytun_kanfing
-vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@93.183.127.54:24446?mode=auto&path=%2Fv2%2Fnotes%2F86cf7ba6ede1&security=reality&encryption=none&pbk=31_G-lTr8GVS33I-ySfmMOXJ7SzpS48Ela7xXeT9D1Y&fp=qq&type=xhttp&sni=tgnl2.blog-forme.ru&sid=29f834cf893710f9#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@184.107.106.78:8388#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@192.99.151.230:8388#%40v2raytun_kanfing
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#%40v2raytun_kanfing
+vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#%40v2raytun_kanfing
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#%40v2raytun_kanfing
+vless://2ae0670d-0bdf-409e-9a55-4e970252d378@37.235.247.81:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#%40v2raytun_kanfing
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+Link:
+@v2raytun_kanfing
+
+بحرین: حملات ایران بی‌پاسخ نمی‌مونه
+Link:
+@v2raytun_kanfing
+
+🔴
+فعالیت سنگین سوخت‌رسان های آمریکا در آسمان خلیج‌فارس
+Link:
+@v2raytun_kanfing
+
+🔹
+منابع عربی:
+موج‌ سوم حملات سپاه به بحرین آغاز شده است
+Link:
+@v2raytun_kanfing
+
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@136.148.77.250:8388#%40v2raytun_kanfing
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999#%40v2raytun_kanfing
+vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#%40v2raytun_kanfing
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#%40v2raytun_kanfing
+vless://2ae0670d-0bdf-409e-9a55-4e970252d378@37.235.247.81:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#%40v2raytun_kanfing
+vless://ec8bd69a-f2d1-4733-8a27-3cc542bbaed2@jahanf27.irgooshishop123.com:443?path=%2Fvr1027%3Fed%3D2560&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=jahanf27.irgooshishop123.com#%40v2raytun_kanfing%20
+vless://ec8bd69a-f2d1-4733-8a27-3cc542bbaed2@gostar27.irtour123.com:443?path=%2Fvr1027%3Fed%3D2560&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=gostar27.irtour123.com#%40v2raytun_kanfing
+vless://a7595994-695d-484e-bfcb-e9fbb73cfa39@83.141.92.168:443?security=reality&encryption=none&pbk=kpQWnVk3fEJXfPGFsMerUoPV_ZqUJUJFRnF1FvKyhRY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sladovna.russianpiwo.fun&sid=7a7d19880a9ee786#%40v2raytun_kanfing
+vless://e2f3ddd0-10f1-421f-b684-4c943986da65@45.86.61.133:443?security=reality&encryption=none&pbk=GwjzHvbNB5Wn6Jj7E3WSc5pc32bjeJCvv9yf0ibDnRs&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#%40v2raytun_kanfing
 ﻿
 وصل شدی رای اکشن یادت نره
 ✔️
@@ -104,64 +135,5 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 👇
 @Muhammad_4502
 💳
-Link:
-@v2raytun_kanfing
-
-🔴
-امروز صبح یه دختر 22 ساله که ترم آخر مهندسی شیمی دانشگاه شریف بوده به دلایل نامعلوم خودشو از طبقه دوم خوابگاه میندازه پایین و خودکشی می‌کنه.
-Link:
-@v2raytun_kanfing
-
-یه دختر ۱۵ ساله توسط دوست پسرش حامله شده، پسر غیب شده حالا دختره تو ۱۶ سالگی بچه رو بدنیا آورده و به کلی بیماری دیگه دچار شده.
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
 Link:
 @v2raytun_kanfing
