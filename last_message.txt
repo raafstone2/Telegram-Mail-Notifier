@@ -3,26 +3,6 @@ Config Open vpn
 Link:
 @v2raytun_kanfing
 
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
-Config Open vpn
-📱
-Link:
-@v2raytun_kanfing
-
 ⭕️
 فوری:
 🔺
@@ -128,6 +108,59 @@ vless://ec8bd69a-f2d1-4733-8a27-3cc542bbaed2@gostar27.irtour123.com:443?path=%2F
 vless://a7595994-695d-484e-bfcb-e9fbb73cfa39@83.141.92.168:443?security=reality&encryption=none&pbk=kpQWnVk3fEJXfPGFsMerUoPV_ZqUJUJFRnF1FvKyhRY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sladovna.russianpiwo.fun&sid=7a7d19880a9ee786#%40v2raytun_kanfing
 vless://e2f3ddd0-10f1-421f-b684-4c943986da65@45.86.61.133:443?security=reality&encryption=none&pbk=GwjzHvbNB5Wn6Jj7E3WSc5pc32bjeJCvv9yf0ibDnRs&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#%40v2raytun_kanfing
 ﻿
+وصل شدی رای اکشن یادت نره
+✔️
+جهت خرید سرور
+👇
+👇
+@Muhammad_4502
+💳
+Link:
+@v2raytun_kanfing
+
+⭕️
+ناوگان پنجم نیروی دریایی آمریکا در بحرین هدف قرار گرفت
+🔹
+به گزارش رسانه‌های عربی، پایگاه ناوگان پنجم آمریکا در بحرین هدف سه موشک بالستیک و چندین پهپاد سپاه پاسداران قرار گرفته است.
+Link:
+@v2raytun_kanfing
+
+بهترین جوابی که شنیدم:
+Link:
+@v2raytun_kanfing
+
+🟥
+🇮🇱
+❌
+🟥
+ارتش اسرائیل (IDF) در ۲۴ ساعت گذشته، ۳۸ حمله را در مناطق مختلف جنوب لبنان انجام داد:
+Wadi Slouqi: وادی سلوقی (وادی السلوقی)
+Barashit: برعشیت
+Wadi Zibqin: وادی زبقین
+Al Mansuri: المنصوری
+Wadi Al Hujeiri: وادی الحجیر
+Bani Haiyane: بنی حیّان
+Qantara: القنطره
+Kfar Tibnit: کفر تبنیت
+Khiam: خیام
+Zawtar Al Sharqiyeh: زوطر الشرقیه
+Rashaf: رشاف
+Hadatha: حداثا
+Ibl Es Saqi: ابل‌السقی
+Al Mari: الماری
+⠀
+اینا مناطقی هستند که عملیات در آن انجام شد.
+🔴
+Link:
+@v2raytun_kanfing
+
+vless://e2f3ddd0-10f1-421f-b684-4c943986da65@45.86.61.133:443?security=reality&encryption=none&pbk=GwjzHvbNB5Wn6Jj7E3WSc5pc32bjeJCvv9yf0ibDnRs&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#%40v2raytun_kanfing
+vless://a7595994-695d-484e-bfcb-e9fbb73cfa39@83.141.92.168:443?security=reality&encryption=none&pbk=kpQWnVk3fEJXfPGFsMerUoPV_ZqUJUJFRnF1FvKyhRY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sladovna.russianpiwo.fun&sid=7a7d19880a9ee786#%40v2raytun_kanfing
+vless://2ae0670d-0bdf-409e-9a55-4e970252d378@37.235.247.81:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#%40v2raytun_kanfing
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#%40v2raytun_kanfing
+vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#%40v2raytun_kanfing
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999#%40v2raytun_kanfing
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@136.148.77.250:8388#%40v2raytun_kanfing
 وصل شدی رای اکشن یادت نره
 ✔️
 جهت خرید سرور
